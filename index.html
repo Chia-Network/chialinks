@@ -1,0 +1,35 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+<h1>ChiaLinks</h1>
+<p>ChiaLinks is a curated collection of resources from around the web for all things related to the Chia cryptocurrency (XCH) -- <em>green money for a digital world</em>.</p>
+<p>Chia is a blockchain and smart transaction platform that uses disk storage space (Proof of Space and Time) as an energy efficient and democratized means of securing the decentralized network. Chia was created by Bram Cohen, the inventor of the BitTorrent network, and is managed by the <a href="https://chia.net">Chia Network</a>.</p>
+
+<h3>ChiaLinks Resources</h3>
+<span class="fs-3">
+  <a href="/get-started/" class="btn btn-green">Get Started</a>
+  <a href="/get-started-chia-nfts/" class="btn btn-green">Chia NFTs</a>
+  <a href="/faq/" class="btn btn-purple">F.A.Q.</a>
+  <a href="/roadmap/" class="btn btn-blue">Roadmap</a>
+  <a href="/ecosystem/" class="btn btn-green">Ecosystem Map</a>
+  <a href="/chips/" class="btn btn-blue">CHIP Tracker</a>
+  <a href="/submit/" class="btn">Submit a Link</a><br /><br />
+</span>
+
+<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+<div class="coinmarketcap-currency-widget" data-currencyid="9258" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="false" data-marketcap="false" data-volume="false" data-statsticker="false" data-stats="USD"></div>
+<div>
+  <h2><img src="/assets/icons/featured.png" class="h2-icon" />Featured links</h2>
+  {% include linkpage.html tag="featured" %}
+
+  <h2><img src="/assets/icons/updates.png" class="h2-icon" />Latest updates</h2>
+  {% include linkpage_latest.html top=3 %}
+  <a href="/updates/">See more updates...</a>
+
+  <h2><img src="/assets/icons/news.png" class="h2-icon" />Chia in the News</h2>
+  {% include news_latest.html top=3 %}
+  <a href="/news/">See more news...</a>
+</div>

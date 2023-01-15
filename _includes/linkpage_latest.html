@@ -1,0 +1,9 @@
+{% assign sorted_links = site.data.links | sort: 'date' | reverse %}
+{% assign lastdate = "" %}
+{% for link in sorted_links limit: include.top %}
+  {% if lastdate != link.date %}
+    {% assign lastdate = link.date %}
+    <h3><img src="/assets/icons/calendar.png" class="h3-icon" />{{ link.date | date: "%B %d, %Y"}}</h3>
+  {% endif %}
+  {% include linkblock.html link=link %}
+{% endfor %}

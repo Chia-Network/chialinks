@@ -1,0 +1,2067 @@
+## format
+# name:
+# creator: will show up in parentheses after the description
+# tags: [array] with at least one tag being a label page, and the other being a valid sections if label page has_sections
+# description:
+# date: date link added -- used to populate Last Updated and for sorting purposes on some pages
+
+- name: Chia Plotting SSD Buying Guide
+  creator: Chia Decentral
+  url: https://chiadecentral.com/chia-blockchain-ssd-buying-guide/
+  tags: [plotting, guides, hardware]
+  description: A guide for choosing the best SSD for plotting based on capacity, interface, endurance, and price.
+  date: 2021-03-19
+
+- name: Chia Plot Plan
+  url: https://plot-plan.chia.foxypool.io/
+  tags: [plotting, tools]
+  description: Calculator to determine ideal split of plot sizes in order to maximize drive space used.
+  date: 2021-03-18
+
+- name: Intro to developing in Chialisp
+  creator: Chia Network
+  url: https://www.youtube.com/watch?v=dEFLJSU87K8
+  tags: [chialisp, videos, developers]
+  description: YouTube introduction and walkthrough of getting started with Chialisp.
+  date: 2021-03-20
+
+- name: plotman
+  url: https://github.com/ericaltendorf/plotman
+  tags: [plotting, tools, verified]
+  description: Tool for managing Chia plotting operations.
+  date: 2021-03-17
+
+- name: Chia Calculator
+  url: https://chiacalculator.com/
+  tags: [farming, tools, verified]
+  description: Estimate how much XCH you can earn from farming based on projected network growth and coin price.
+  date: 2021-04-17
+
+- name: Chia Power
+  url: https://chiapower.org/
+  tags: [energy]
+  description: A detailed and technical estimate of total energy consumption in the Chia network.
+  date: 2021-04-17
+
+- name: Farming and Electricity Usage in Chia
+  creator: Chia Network
+  url: https://www.youtube.com/watch?v=oGTBMKVXRuA
+  tags: [energy, videos]
+  description: Learn about the most efficient way to farm large quantities of plotted storage and talk about the impact Chia might have in terms of total electrical capacity used to support all Chia farms.
+  date: 2021-03-05
+
+- name: Meet the plotting experts
+  creator: Chia Network
+  url: https://www.youtube.com/watch?v=wDVsZMDlQYw
+  tags: [plotting, videos]
+  description: Chia president, Gene Hoffman, chats with experts in plotting to discuss their plotting setup as well as answering commonly asked questions from Keybase.
+  date: 2021-03-05
+
+- name: The Chia Business Whitepaper Zoom - February 11, 2021
+  creator: Chia Network
+  url: https://www.youtube.com/watch?v=9P0vaux2h6o
+  tags: [videos, discussions]
+  description: Bram, Gene, and Mitch take questions and elaborate upon the Business White Paper and how the Chia Network plans to utilize the pre-farm.
+  date: 2021-02-11
+
+- name: The Chia Business Whitepaper Zoom - February 12, 2021
+  creator: Chia Network
+  url: https://www.youtube.com/watch?v=2uvlop-hlio
+  tags: [videos, discussions]
+  description: Bram, Gene, Mitch, and Chuck take questions and elaborate upon the Business White Paper and how the Chia Network plans to utilize the pre-farm.
+  date: 2021-02-12
+
+# - name: Chia Explorer
+#   url: https://www.chiaexplorer.com/
+#   tags: [tools, statistics]
+#   description: Blockchain explorer to browse and search the Chia blockchain with charts and visual graphs.
+#   date: 2021-04-11
+
+- name: Chia Netspace
+  url: https://chianetspace.com/
+  tags: [tools, statistics]
+  description: Graph and historic data of netspace size over time.
+  date: 2021-04-19
+
+- name: r/chia
+  url: https://www.reddit.com/r/chia
+  tags: [community]
+  description: The official Chia subreddit
+  date: 2021-04-12
+
+- name: Official Keybase group for chat and support
+  url: https://keybase.io/team/chia_network.public
+  tags: [community, featured, verified]
+  description: The official destination to engage with the Chia team and community. Please ask questions in &#35;beginner or &#35;support.
+  date: 2021-04-18
+
+- name: NUC Small Form Factor Chia Plotting Build
+  creator: Chia Decentral
+  url: https://chiadecentral.com/nuc-small-form-factor-plotting-build/
+  tags: [plotting, guides, hardware]
+  description: A guide on how to put together a small form factor Intel NUC specifically for parallel plotting.
+  date: 2021-04-18
+
+- name: Chia Cryptocurrency Farming Guide
+  creator: Chia Decentral
+  url: https://chiadecentral.com/chia-cryptocurrency-farming-guide/
+  tags: [farming, guides, hardware]
+  description: A guide to understanding farming requirements and selecting hardware (cases, drives, etc.) based on budget and quantity of disks.
+  date: 2021-04-01
+
+- name: Chia Basics of Plotting
+  creator: Chia Network
+  url: https://www.chia.net/2021/02/22/plotting-basics.html
+  tags: [plotting, guides, verified]
+  description: Introduction to the basics of plotting and the recommended hardware requirements.
+  date: 2021-02-22
+
+- name: Chia Hard Drive Buying Guide
+  creator: Chia Decentral
+  url: https://chiadecentral.com/hard-drive-for-chia-blockchain-farming/
+  tags: [farming, guides, hardware]
+  description: Guide to understanding and selecting the best hard drives for storing plots and farming on.
+  date: 2021-03-21
+
+- name: Build a Budget Chia Plotting Rig
+  creator: Chia Decentral
+  url: https://chiadecentral.com/budget-plotting-build/
+  tags: [plotting, guides, hardware]
+  description: Guide to building a low cost computer optimized for plotting Chia.
+  date: 2021-03-08
+
+- name: diskprices.com Amazon price tracker
+  url: https://diskprices.com/
+  tags: [farming, tools, hardware]
+  description: Tracker for hard drives prices available on Amazon (international locales supported).
+  date: 2021-04-19
+
+- name: Complete build for Chia Farming
+  creator: Coin Breakthrough
+  url: https://www.youtube.com/watch?v=BQ6zM1izXQs
+  tags: [guides, videos, hardware]
+  description: Video tutorial of an example consumer build for plotting and farming up to 360TB.
+  date: 2021-04-03
+
+- name: Chia plotting and farming step-by-step setup
+  creator: Coin Breakthrough
+  url: https://www.youtube.com/watch?v=cahexorpdIk
+  tags: [guides, videos]
+  description: Step-by-step walkthrough of setting up the Chia software on Ubuntu
+  date: 2021-04-05
+
+- name: ChiaForum
+  url: https://chiaforum.com/
+  tags: [community]
+  description: Discourse forum for discussing Chia in a more traditional message board format.
+  date: 2021-04-21
+
+- name: Best Consumer M.2 NVMe SSDs for Plotting
+  creator: Chia Decentral
+  url: https://chiadecentral.com/best-consumer-m-2-nvme-ssds-for-plotting/
+  tags: [plotting, guides, hardware]
+  description: Guide to selecting the best high endurance consumer grade M.2 NVMe SSD for plotting.
+  date: 2021-04-21
+
+- name: How to queue parallel plotting Chia in the GUI
+  creator: NotAnotherTech
+  url: https://www.youtube.com/watch?v=VstfAPfNlZA
+  tags: [plotting, videos]
+  description: A short video going over how to queue parallel plotting in the Windows GUI for Chia.
+  date: 2021-04-22
+
+- name: How to plot Chia plots on multiple machines without running a full node
+  creator: NotAnotherTech
+  url: https://www.youtube.com/watch?v=oOp-TTAUTuo
+  tags: [plotting, videos]
+  description: A walkthrough of how to concurrently plot on multiple computers within the same network without running multiple full nodes.
+  date: 2021-04-22
+
+- name: How To Farm Chia - Hard Drive Mining Guide
+  creator: IMineBlocks
+  url: https://www.youtube.com/watch?v=J4FBCCNYBBg
+  tags: [guides, videos]
+  description: An end-to-end walkthrough of how to install Chia, create a plot, and start farming to earn XCH.
+  date: 2021-04-22
+
+- name: Modern Finance Ep 002 - Chia
+  url: https://www.modern.finance/chia-a-new-cryptocurrency-launching-soon-built-by-bram-cohen-founder-of-bittorrent/
+  tags: [podcasts]
+  description: Kevin chats with Bram Cohen, creator of BitTorrent, about his new cryptocurrency, Chia.
+  date: 2021-03-17
+
+- name: LEIGH&#58; BitTorrent creator Bram Cohen on 'a system that doesn't suck'
+  url: https://www.listennotes.com/podcasts/coindesk-podcast/leigh-bittorrent-creator-5z7rNKEgtUo/
+  tags: [podcasts]
+  description: On today's episode CoinDesk reporter Leigh Cuen sits down with Bram Cohen, author of the BitTorrent protocol and CEO of Chia. In this wide ranging interview they talk Bram’s early interest in "hard problems", his unexpected ascent from sketchy to celebrity and much more.
+  date: 2020-04-19
+
+- name: The Internet 3.0 Ep 3 - Bram Cohen&#58; building a better Bitcoin with Chia
+  url: https://omny.fm/shows/internet3podcast/bram-cohen
+  tags: [podcasts]
+  description: Bram Cohen - creator of BitTorrent and co-founder of Chia - wants to build a better Bitcoin and make the crypto ecosystem a cleaner, greener place. The peer-to-peer tech pioneer has a provocative perspective on the current crypto community, blockchain generally, and what needs to change. We explore what inspires him as an inventor, an early citizen of the Internet, and a socially conscious developer.
+  date: 2019-01-27
+
+- name: Triangulation Ep 406 - Bram Cohen&#58; Chia Network
+  url: https://twit.tv/shows/triangulation/episodes/406
+  tags: [podcasts]
+  description: BitTorrent creator Bram Cohen returns to 'Triangulation' with Jason Howell to talk about Chia Network and how they are creating an open-source blockchain which is a more decentralized and energy-efficient cryptocurrency than Bitcoin. They also discuss Facebook's Libra, where President Trump is right and wrong on crypto and Bram's other hobby as a puzzle maker.
+  date: 2019-07-12
+
+- name: Chia Plot Manager
+  url: https://github.com/rjsears/chia_plot_manager
+  tags: [plotting, tools]
+  description: Python program to monitor your plotting and check/move plots when complete and smartly queue up next plot. Has coin monitor as well to track when you get XCH.
+  date: 2021-04-22
+
+- name: Chia Wallet Monitor
+  url: https://github.com/wolfrage76/chiaWalletMonitor
+  tags: [farming, tools]
+  description: Python program to get notifications when you get XCH.
+  date: 2021-04-22
+
+- name: Chiadog
+  url: https://github.com/martomi/chiadog
+  tags: [farming, tools]
+  description: Python program to automate monitoring of your farmers/harversters to notify you of potential malfunctions and successes.
+  date: 2021-04-22
+
+- name: Chia Log Analysis
+  url: https://github.com/Pengor/chia-log-analysis
+  tags: [plotting, tools]
+  description: Chia Log Analysis parses your existing Chia plotter log files and builds a .csv file containing all the important details.
+  date: 2021-04-22
+
+- name: Bram Cohen AMA Zoom with Chia China Group
+  url: https://www.youtube.com/watch?v=ujwSdIkKDZ8
+  tags: [discussions, videos]
+  description: Bram goes in depth about the choice of Lisp and the advantages of ChiaLisp. He also touches on the prefarm, the pooling protocol, and why he decided to name it Chia.
+  date: 2021-04-23
+
+- name: Excel Chia plot log importer
+  url: https://github.com/AngeloMonharti/Chia-plot-log-importer-for-excel
+  tags: [plotting, tools]
+  description: Microsoft Excel VBA macro that parses your plotting logs to extract important information into a spreadsheet.
+  date: 2021-04-23
+
+- name: Optimizing plotters in Windows
+  creator: The Chia Farmer
+  url: https://thechiafarmer.com/2021/04/21/optimizing-plotters-in-windows/
+  tags: [plotting, guides]
+  description: A detailed guide on how best to optimize parallel plotting to determine the appropriate resource allocation and staggering.
+  date: 2021-04-24
+
+- name: How to recover from a plotter crash
+  creator: The Chia Farmer
+  url: https://thechiafarmer.com/2021/04/22/how-to-recover-from-a-plotter-crash/
+  tags: [plotting, guides]
+  description: Practical tips on how to clean up your files in case of a crash mid-plotting.
+  date: 2021-04-24
+
+- name: How to farm Chia on multiple computers using Chia harvester
+  creator: NotAnotherTech
+  url: https://www.youtube.com/watch?v=Oqc6D_cR4nw
+  tags: [farming, videos]
+  description: A walkthrough of how to set up harvesters in Windows to farm from multiple machines without a full node.
+  date: 2021-04-24
+
+- name: Chia Status
+  url: https://www.chiastatus.com/
+  tags: [tools, statistics]
+  description: Chia's blockchain status at a glance.
+  date: 2021-04-25
+
+- name: plotng - Plotting utility for Chia
+  url: https://github.com/maded2/plotng
+  tags: [plotting, tools]
+  description: Plotting manager similar to Plotman but not Python based
+  date: 2021-04-25
+
+- name: Chia Address Widget for Android
+  url: https://play.google.com/store/apps/details?id=ninja.bored.chiapublicaddressmonitor
+  tags: [android, tools, farming]
+  description: An Android widget to check your address balance.
+  date: 2021-04-25
+
+- name: ShuckStop - WD external drive price tracker
+  url: https://shucks.top/
+  tags: [farming, tools, hardware]
+  description: Tracker for Western Digital external hard drives prices across US retailers.
+  date: 2021-04-25
+
+- name: Foxy-Pool
+  url: https://foxypool.io/
+  tags: [pools, growing]
+  date: 2021-04-25
+
+- name: r/chiamemes
+  url: https://reddit.com/r/chiamemes
+  tags: [community]
+  description: A subreddit dedicated to Chia memes
+  date: 2021-04-25
+
+- name: AMA with Bram Cohen
+  creator: Chia Decentral
+  url: https://www.youtube.com/watch?v=LnqFyJI7Sfs
+  tags: [videos, discussions]
+  description: Kyle and JM from Chia Decentral are joined by Bram Cohen to answer questions from the community. They discuss the consumer storage market, hardware considerations, and price predictions.
+  date: 2021-04-26
+
+- name: Chia Plot Status
+  url: https://github.com/grayfallstown/Chia-Plot-Status
+  tags: [plotting, tools]
+  description: Tool to Monitor and Analyse Chia Plotting log files, show health and progress of running plots and estimated time to completion on Windows, Linux and Mac.
+  date: 2021-05-12
+
+- name: Chia Start Page
+  url: https://chia-startpage.glitch.me
+  tags: [community]
+  description: A starting point for the Chia community. Provides a collection of useful links and resources related to Chia.
+  date: 2021-04-26
+
+- name: Chialisp - Official Documentation
+  url: https://chialisp.com/
+  tags: [chialisp, developers, verified]
+  description: Official ChiaLisp documentation
+  date: 2021-04-26
+
+- name: Chia Dashboard
+  url: https://dashboard.chia.foxypool.io/login
+  tags: [farming, tools]
+  description: An app that can monitor your Chia services and report it to a web service so you can monitor your farming remotely with a slick dashboard.
+  date: 2021-04-27
+
+- name: chia-rest-api
+  url: https://github.com/Godfather95/chia-rest-api
+  tags: [tools, developers]
+  description: REST API wrapper for Chia-RPC for developers to use in building their Chia applications.
+  date: 2021-04-27
+
+- name: Swar's Chia Plot Manager
+  url: https://github.com/swar/Swar-Chia-Plot-Manager
+  tags: [plotting, tools, verified]
+  description: Cross platform (Python) plotting manager to help keep plots generating.
+  date: 2021-04-29
+
+- name: Outsmartin Technology
+  url: https://outsmartin.com/projects/cryptocurrency-chia/
+  tags: [services]
+  date: 2021-04-29
+
+- name: Midwest Plotting Services
+  url: https://midwestplotting.carrd.co/
+  tags: [services]
+  date: 2021-04-29
+
+- name: Chia Blockchain
+  url: https://chiablockchain.com
+  tags: [community]
+  description: Community based news site focusing on Chia and other relevant technologies to help grow the network.
+  date: 2021-04-30
+
+- name: Chiabase.de (German)
+  url: https://chiabase.de/
+  tags: [community, international]
+  description: A German news, community, and tutorial site.
+  date: 2021-04-30
+
+- name: ChiaXCH (Chinese)
+  url: https://www.chiaxch.net/
+  tags: [community, international]
+  description: A Chinese news site and forum for Chia
+  date: 2021-04-30
+
+- name: Ploto
+  url: https://github.com/tydeno/Ploto
+  tags: [plotting, tools]
+  description: A simple Chia plotting manager for Windows PowerShell
+  date: 2021-05-01
+
+- name: Chia farming - Am I unlucky or is my farmer broken
+  creator: Chia Decentral
+  url: https://www.youtube.com/watch?v=_yEBS-q0sK4
+  tags: [farming, videos]
+  description: An introduction to how the probability of winning blocks in Chia works. Figure out if you are unlucky or you are having real network problems with your farmer or harvester.
+  date: 2021-05-02
+
+- name: Chiabot Discord Bot
+  url: https://github.com/joaquimguimaraes/chiabot
+  tags: [farming, tools]
+  description: A Discord bot that monitors your chia farm summary and sends notifications when blocks are found and new plots are completed.
+  date: 2021-05-02
+
+- name: OKX
+  url: https://www.okx.com/
+  pair: XCH/USDT
+  pair_url: https://www.okx.com/markets/spot-info/xch-usdt
+  tags: [exchanges, verified]
+  description: Seychelles based exchange. Currently has second highest XCH trading volume.
+  date: 2021-05-03
+
+- name: Gate.io
+  url: https://gate.io
+  pair: XCH/USDT
+  pair_url: https://www.gate.io/trade/XCH_USDT
+  tags: [exchanges, verified]
+  description: Cayman Islands based exchange. Not available to US citizens.
+  date: 2021-05-03
+
+- name: MEXC
+  url: https://www.mexc.com/
+  pair: XCH/USDT
+  pair_url: https://www.mexc.com/exchange/XCH_USDT
+  tags: [exchanges]
+  description: Singapore based exchange.
+  date: 2021-05-03
+
+- name: BiBox
+  url: https://www.bibox.com
+  pair: XCH/USDT
+  pair_url: https://www.bibox.com/en/exchange/basic/XCH_USDT
+  tags: [exchanges]
+  description: China based exchange
+  date: 2021-05-03
+
+- name: BKEx
+  url: https://www.bkex.com
+  pair: XCH/USDT
+  pair_url: https://www.bkex.com/trade/XCH_USDT
+  tags: [exchanges]
+  description: British Virgin Islands based exchange.
+  date: 2021-05-03
+
+- name: DigiFinex
+  url: https://www.digifinex.com
+  pair: XCH/USDT
+  pair_url: https://www.digifinex.com/en-ww/trade/USDT/XCH
+  tags: [exchanges]
+  description: China based exchange.
+  date: 2021-05-03
+
+- name: WhaleEx
+  url: https://www.whaleex.com
+  pair: XCH/USDT
+  pair_url: https://www.whaleex.com/trade/XCH_USDT
+  tags: [exchanges]
+  description: Singapore based exchange.
+  date: 2021-05-03
+
+- name: XT
+  url: https://www.xt.com
+  pair: XCH/USDT
+  pair_url: https://www.xt.com/tradePro/xch_usdt
+  tags: [exchanges]
+  description: Seychelles based exchange.
+  date: 2021-05-03
+
+- name: Dcoin
+  url: https://www.dcoin.com
+  pair: XCH/USDT
+  pair_url: https://www.dcoin.com/currencyTrading/XCH_USDT/
+  tags: [exchanges]
+  description: Switzerland based exchange.
+  date: 2021-05-03
+
+- name: Chia public nodes list
+  url: https://chia.keva.app/
+  tags: [farming, tools]
+  description: Chia public node that shares available 8444 peers every hour.
+  date: 2021-05-03
+
+- name: Polish Chia Discord Group
+  url: https://discord.com/invite/96tRph8TwR
+  tags: [community, international]
+  description: A Polish Discord channel for the chiapolska Facebook group.
+  date: 2021-05-03
+
+- name: Is plotting and farming still profitable?
+  creator: Chia Decentral
+  url: https://www.youtube.com/watch?v=Rf4NCqXjtas
+  tags: [plotting, videos]
+  description: storage_jm walksthrough using ChiaCalculator to estimate the expected returns of chia plotting and farming regularly.
+  date: 2021-05-03
+
+- name: Chia Facebook Group
+  url: https://www.facebook.com/groups/185477760070258/
+  tags: [community]
+  date: 2021-05-05
+
+- name: 3D printed HDD rack
+  url: https://www.thingiverse.com/thing:4845418
+  tags: [farming, tools]
+  description: 3d printed Chia themed HDD rack with fan holder for farmers.
+  date: 2021-05-05
+
+- name: Chia farming on multiple systems - introduction to harvesters
+  creator: Chia Decentral
+  url: https://www.youtube.com/watch?v=QpgXr3aeU5g
+  tags: [farming, videos]
+  description: Walkthrough of setting up a farmer and remote harvester to avoid multiple systems on the same network from conflicting with each other.
+  date: 2021-05-07
+
+- name: Chia Network News
+  url: https://twitter.com/chianetworknews
+  tags: [community]
+  description: A community Twitter account talking about verything %23CHIA and %24XCH
+  date: 2021-05-07
+
+- name: Citex
+  url: https://www.citex.co.kr/
+  pair: XCH/USDT
+  pair_url: https://trade.citex.co.kr/trade/XCH_USDT
+  tags: [exchanges]
+  description: South Korea based exchange.
+  date: 2021-05-08
+
+- name: ZBG
+  url: https://www.zbg.com/
+  pair: XCH/USDT
+  pair_url: https://www.zbg.com/trade/xch_usdt
+  tags: [exchanges]
+  description: Hong Kong based exchange.
+  date: 2021-05-08
+
+- name: CoinEx
+  url: https://www.coinex.com/
+  pair: XCH/USDT
+  pair_url: https://www.coinex.com/exchange/xch-usdt
+  tags: [exchanges, verified]
+  description: Hong Kong based exchange.
+  date: 2021-05-08
+
+- name: Prometheus Chia Exporter
+  url: https://github.com/speedmann/prometheus-chia-exporter
+  tags: [farming, tools]
+  description: Display full node statistics in a Grafana dashboard to monitor your farm.
+  date: 2021-05-09
+
+- name: Johnny Lucky SSD Database
+  url: http://www.johnnylucky.org/data-storage/ssd-database.html
+  tags: [hardware]
+  description: The solid state drive database has been compiled to help you compare SSD's and make an informed decision.
+  date: 2021-05-09
+
+- name: Space Pool
+  url: http://pool.space/
+  tags: [pools, verified, established]
+  description: The largest Chia farming pool following the official pooling protocol.
+  date: 2021-05-10
+
+- name: QuikPlots
+  url: https://quikplot.j0e.ca/
+  tags: [services]
+  date: 2021-05-10
+
+- name: Chia Plotting Calculator
+  url: https://artofpc.com/chia-plotting-calculator/
+  tags: [plotting, tools]
+  description: This plotting calculator will give you the ideal plotting settings based on your system specifications.
+  date: 2021-05-10
+
+- name: Official Chia Faucet
+  url: https://faucet.chia.net/
+  tags: [faucets, verified]
+  description: The official faucet from the Chia team. Get some mojo and practice creating and interacting with smart contracts.
+  date: 2021-05-11
+
+- name: Unofficial Chia Telegram group
+  url: https://t.me/joinchat/R45RpF5RlqllNjE0
+  tags: [community]
+  description: Community created Telegram group to discuss XCH trading and farming.
+  date: 2021-05-11
+
+- name: Space Pool Discord Server
+  url: https://discord.gg/GnzWsTyqEB
+  tags: [community]
+  description: Discord server for the <a href="https://pool.space">Space Pool</a> farming pool and the largest Discord server for discussing Chia.
+  date: 2021-05-11
+
+- name: XCH Pool
+  url: https://xchpool.org
+  tags: [pools, established]
+  date: 2021-05-11
+
+- name: SuperMine
+  url: https://www.supermine.io
+  tags: [pools, unproven]
+  date: 2021-05-12
+
+- name: chiahub.io
+  url: https://chiahub.io/
+  tags: [pools, services, established]
+  date: 2021-05-12
+
+- name: GreenPool
+  url: https://greenpool.io
+  tags: [pools, unproven]
+  date: 2021-05-12
+
+- name: letsfarm.io
+  url: https://letsfarm.io/
+  tags: [pools, growing]
+  date: 2021-05-12
+
+- name: Russian Chia Discord Group
+  url: https://discord.gg/utKCadVSPK
+  tags: [community, international]
+  description: A Discord channel for the Russian community.
+  date: 2021-05-14
+
+- name: Chia Russian GitHub tools
+  url: https://github.com/chia-net-ru/
+  tags: [tools, international]
+  description: A GitHub collection of Russian translated manuals and resources.
+  date: 2021-05-14
+
+- name: Plot Everywhere Tool
+  url: http://ploteverywheretool.com/
+  tags: [plotting, tools]
+  description: Batch file plot launcher for Chia CLI Windows 10.
+  date: 2021-05-14
+
+- name: Budget ($1000) intel plotter build
+  url: https://www.facebook.com/notes/chia-coin-xch/budget-around-1000-build-intel-low-cost-ploter/452860509337110/
+  tags: [hardware, guides]
+  date: 2021-05-14
+
+- name: Huobi Global
+  url: https://www.huobi.com/
+  pair: XCH/USDT
+  pair_url: https://www.huobi.com/en-us/exchange/xch_usdt
+  tags: [exchanges, verified]
+  description: Singapore based exchange.
+  date: 2021-05-14
+
+- name: ZB
+  url: https://www.zb.com/
+  pair: XCH/USDT
+  pair_url: https://www.zb.com/en/kline/xch_usdt
+  tags: [exchanges]
+  description: Hong Kong based exchange.
+  date: 2021-05-14
+
+- name: BW
+  url: https://www.bw.com/
+  pair: XCH/USDT
+  pair_url: https://www.bw.com/newTrade/spotTradding/xch_usdt
+  tags: [exchanges]
+  description: Australia based exchange.
+  date: 2021-05-14
+
+- name: Hoo
+  url: https://www.hoo.com/
+  pair: XCH/USDT
+  pair_url: https://hoo.com/innovation/hxch-usdt
+  tags: [exchanges]
+  description: Hong Kong based exchange.
+  date: 2021-05-14
+
+- name: How to install Chia and Ubuntu Linux for Chia farming
+  url: https://www.youtube.com/watch?v=Y1uF58HP5Kg
+  tags: [guides, videos]
+  description: How to install Ubuntu Desktop and the Chia Blockchain software. Also includes USB drive installation instructions using Windows 10.
+  date: 2021-05-15
+
+- name: Chia Harvest Graph
+  url: https://github.com/stolk/chiaharvestgraph
+  tags: [farming, tools]
+  description: Put your mind at ease to see if your harvesters are harvesting right. Monitor the down-time due to spotty internet, un-synchronized node, slow farmer/harvester process, etc.
+  date: 2021-05-15
+
+- name: Crypto.com
+  url: https://www.crypto.com
+  tags: [exchanges, verified]
+  description: US based exchange. XCH currently cannot be deposited or withdrawn to an external wallet.
+  date: 2021-05-15
+
+- name: Buy Chia Plots
+  url: https://chia-plots-sale.com
+  tags: [services]
+  date: 2021-05-17
+
+- name: Chia Plot Graph
+  url: https://github.com/stolk/chiaplotgraph
+  tags: [plotting, tools]
+  description: A tool to graph Chia Plotting activity in a linux terminal. Use a 24-bit colour terminal, like xterm or gnome-terminal.
+  date: 2021-05-17
+
+- name: Hard Problems with Bram Cohen
+  url: https://www.coindesk.com/podcasts/hard-problems-bram-cohen
+  tags: [podcasts]
+  description: Join Chia CEO and BitTorrent inventor Bram Cohen as he and a growing cast of subject matter experts explore the hardest problems still unsolved in our modern world.
+  date: 2021-05-17
+
+- name: Robbie's Chia Plot Calculator
+  url: https://category5.tv/tools/cryptocurrency/chia-plot-calculator/
+  tags: [plotting, tools]
+  description: This calculator figures out reasonable settings for plots based on your system specifications.
+  date: 2021-05-18
+
+- name: Spacefarmers.io
+  url: https://spacefarmers.io/
+  tags: [pools, established]
+  date: 2021-05-19
+
+- name: machinaris
+  url: https://github.com/guydavis/machinaris
+  tags: [plotting, tools]
+  description: Building upon the official Chia docker image, Machinaris combines the Plotman CLI with a simple WebUI.
+  date: 2021-05-19
+
+- name: Chia France
+  url: https://chiafrance.net
+  tags: [community, international]
+  description: A French Chia community.
+  date: 2021-05-19
+
+- name: Chia Node List
+  url: https://chia.powerlayout.com/
+  tags: [farming, tools]
+  description: A list of peer IPs of active nodes on the Chia network to add manually if you are having sync issues.
+  date: 2021-05-20
+
+- name: French Farmers
+  url: https://frenchfarmers.net/
+  tags: [pools, growing]
+  date: 2021-05-20
+
+- name: Chia Novia
+  url: https://chianovia.com
+  tags: [services]
+  date: 2021-05-20
+
+- name: Chia Telegram Bot
+  url: https://interchargers.com/chia-telegram-bot/
+  tags: [farming, tools]
+  description: Windows Powershell script to monitor log files and trigger a Telegram notification.
+  date: 2021-05-22
+
+- name: Chia Logs Analyser
+  url: https://chia-stats.lorado.dev/upload-log
+  tags: [plotting, tools]
+  description: Upload plotting logs for analysis and statistics collection.
+  date: 2021-05-22
+
+- name: PoolChia
+  url: https://poolchia.com/
+  tags: [pools, established]
+  date: 2021-05-22
+
+- name: Programkom's CHIA Plotter
+  url: https://www.programkom.net/en/portfolio/programkoms-chia-plotter/
+  tags: [plotting, tools]
+  description: Windows based plotting manager
+  date: 2021-05-22
+
+- name: Harry Plotter
+  url: https://github.com/abueide/harry-plotter
+  tags: [plotting, tools]
+  description: Harry Plotter is an easy to use magical Chia plot manager for muggles! It works on Windows, MacOS, and Linux.
+  date: 2021-05-22
+
+- name: Uphold
+  url: https://uphold.com/en/assets/crypto/buy-xch
+  tags: [exchanges]
+  description: US based trading platform.
+  date: 2021-05-22
+
+- name: Flexpool
+  url: https://flexpool.io/
+  tags: [pools, verified, established]
+  description: An established pool operator in the Ethereum space.
+  date: 2021-05-22
+
+- name: GoPlot
+  url: https://www.goplot.it/
+  tags: [services]
+  date: 2021-05-23
+
+- name: XCHscan
+  url: https://xchscan.com/
+  tags: [tools, statistics, verified]
+  description: XCHscan is a block explorer and analytics platform for the Chia Network.
+  date: 2021-05-24
+
+- name: Chia Plots Market
+  url: https://www.chia-plots-market.com/
+  tags: [services]
+  date: 2021-05-24
+
+- name: Plotting cloud
+  url: https://plotting.cloud/
+  tags: [services]
+  date: 2021-05-25
+
+- name: Lbank
+  url: https://www.lbank.info/
+  pair: XCH/USDT
+  pair_url: https://www.lbank.info/exchange/xch/usdt
+  tags: [exchanges]
+  description: China based exchange.
+  date: 2021-05-25
+
+- name: Chia Bar
+  url: https://github.com/EstebanFuentealba/chia-bar
+  tags: [tools, statistics]
+  description: Show your XCH balance in the MacOS menu bar.
+  date: 2021-05-27
+
+- name: MyChiaPool.io
+  url: https://mychiapool.io/
+  tags: [pools, unproven]
+  date: 2021-05-29
+
+- name: Chia Log Analyzer
+  url: https://github.com/kubec/chia-log-analyzer
+  tags: [farming, tools]
+  description: Real-time Chia log analyzer to monitor farming and harvesting statistics.
+  date: 2021-05-29
+
+- name: Chia Founder Bram Cohen Talks 'Green Farming' and Future IPO
+  url: https://www.coindesk.com/video/chia-founder-bram-cohen-talks-green-farming-and-future-ipo
+  creator: CoinDesk
+  tags: [videos, discussions]
+  description: Bram Cohen joins "The Hash" and explains why Chia, a new cryptocurrency that is "farmed" based on proof of space and time, has a significant influence on the goal toward "green mining." Plus, his future plans for taking Chia public after its latest funding round with big-name backers.
+  date: 2021-05-29
+
+- name: Uzbekistan Chia Telegram Group
+  url: https://t.me/chiauz
+  tags: [community, international]
+  description: Uzbekistan Chia community Telegram group
+  date: 2021-05-30
+
+- name: Chiarex
+  url: https://www.chiarex.net/
+  tags: [pools, growing]
+  date: 2021-06-02
+
+- name: Chia Italia
+  url: http://chiaitalia.it/
+  tags: [community, international]
+  description: An Italian Chia portal.
+  date: 2021-06-02
+
+- name: Chiarex Turkey Telegram Group
+  url: https://t.me/wearechiarex
+  tags: [community, international]
+  description: Turkish Chia community Telegram group from Chiarex
+  date: 2021-06-02
+
+- name: PepperPlots
+  url: https://www.chiapepper.net
+  tags: [services]
+  date: 2021-06-03
+
+- name: Chia Coloured Coins - A non-technical user guide
+  url: https://www.youtube.com/watch?v=YOlpmCBK8zY
+  tags: [videos, chialisp, developers]
+  description: Matt Howard explains Chia coloured coins in a non-technical way.
+  date: 2021-06-05
+
+- name: Chia Coloured Coins - Technical guide (Part 1)
+  url: https://www.youtube.com/watch?v=17pa2t_FQQM
+  tags: [videos, chialisp, developers]
+  description: Matt Howard explains smart transactions and ChiaLisp.
+  date: 2021-06-05
+
+- name: Chia Coloured Coins - Technical guide (Part 2)
+  url: https://www.youtube.com/watch?v=P33gWX4WmEQ
+  tags: [videos, chialisp, developers]
+  description: Matt Howard explains the coloured coins contract & offers.
+  date: 2021-06-05
+
+- name: ChiaLisp & decentralized identity
+  url: https://www.youtube.com/watch?v=zAG9KeMTZw8
+  tags: [videos, chialisp, developers]
+  description: Matt Howard explains the purpose and implementation of decentralized identity with ChiaLisp at the Champaign Blockchain Meetup.
+  date: 2021-06-05
+
+- name: Chia Appliance
+  url: https://chiaappliance.com/
+  tags: [services]
+  date: 2021-06-05
+
+- name: Chia Plot Planner
+  url: https://futurepool.io/chia-plot-planner/
+  tags: [plotting, tools]
+  description: A tool to determine the optimal combination of plot k-sizes to avoid wasting disk space.
+  date: 2021-06-07
+
+- name: Latin American Chia community Facebook group
+  url: https://www.facebook.com/groups/1152130595209998/
+  tags: [community, international]
+  date: 2021-06-09
+
+- name: XCHScan Chia Farming Calculator
+  url: https://xchscan.com/chia-farming-calculator
+  tags: [tools, farming]
+  description: XCHscan provides a simple tool to help you figure out if you'll be profitable farming Chia.
+  date: 2021-06-09
+
+- name: PSChiaPlotter
+  url: https://github.com/MrPig91/PSChiaPlotter
+  tags: [tools, plotting]
+  description: Windows PowerShell plot manager with a GUI with a lot of features.
+  date: 2021-06-09
+
+- name: MadMax Chia Plotter
+  creator: madMAx43v3r
+  url: https://github.com/madMAx43v3r/chia-plotter
+  tags: [tools, plotting, verified]
+  description: A multi-threaded implementation of the chia plotter designed to maximize temporary storage bandwidth.
+  date: 2021-06-10
+
+- name: chia-monitor
+  url: https://github.com/philippnormann/chia-monitor
+  tags: [tools, farming]
+  description: A comprehensive monitoring and alerting solution for the status of your Chia farmer and harvesters.
+  date: 2021-06-14
+
+- name: Chia plotting in Linux&#58; Getting started
+  url: https://techtellectual.com/chia-plotting-in-linux-getting-started/
+  tags: [guides, plotting]
+  date: 2021-06-20
+
+- name: ChiaPlot.ru
+  url: https://chiaplot.ru/en
+  tags: [services]
+  date: 2021-06-21
+
+- name: MadMax's Chia Plotter Manager
+  url: https://github.com/tobernguyen/madmax-manager
+  tags: [plotting, tools]
+  description: Lightweight manager for madMAx43v3r/chia-plotter
+  date: 2021-06-22
+
+- name: Motherboard buying guide for Chia plotting and farming
+  url: https://techtellectual.com/motherboard-buying-guide-for-chia-plotting-and-farming/
+  tags: [guides, plotting, hardware]
+  description: A buying guide that helps you select the right motherboard for your plotter, farmer, or hybrid build.
+  date: 2021-06-30
+
+- name: Hot Plotter
+  url: https://www.hotplotter.com/
+  tags: [plotting, tools]
+  description: Hot Plotter allows you to remotely start chia plots utilizing MadMax, or the official Chia plotting tool. Supports Windows or Linux.
+  date: 2021-06-30
+
+- name: 1Plot.io
+  url: https://1plot.io/
+  tags: [services]
+  date: 2021-07-06
+
+- name: The Chia Pool Directory
+  url: https://chiapool.directory/
+  tags: [pools, resources, verified]
+  description: A detailed list of pools utilizing the official Chia pooling protocol along with expected earnings and up to date statistics.
+  date: 2021-07-09
+
+- name: Bamboo Plots
+  url: https://bambooplots.com/
+  tags: [services]
+  date: 2021-07-09
+
+- name: Find Chia
+  url: https://findchia.com/
+  tags: [pools, established]
+  date: 2021-07-09
+
+- name: Plot Director
+  url: https://www.plot-director.com
+  tags: [plotting, tools]
+  description: Plot manager with madmax support, automatic plot replace, HDD groups, multiple jobs, and web plotting dashboard.
+  date: 2021-07-10
+
+- name: Czech.farm
+  url: https://czech.farm
+  tags: [pools, growing]
+  date: 2021-07-10
+
+- name: Plot Watcher
+  url: https://github.com/charnet3d/plot_watcher
+  tags: [plotting, tools]
+  description: A simple script that can watch a list of directories and does some action when a specific kind of change happens. Can be used to replace old plots with portable plots one at a time.
+  date: 2021-07-10
+
+- name: AOT Chia Plotting
+  url: https://www.chiaplotting.digital/
+  tags: [services]
+  date: 2021-07-13
+
+- name: Graph Chia
+  url: https://www.graphchia.com
+  tags: [statistics]
+  description: Interactive graphs about the Chia network.
+  date: 2021-07-17
+
+- name: After Journal Complete Chia Pools List
+  url: https://afterjournal.com/complete-chia-pools-list-more-than-130-official-unofficial-chia-coin-pools/
+  tags: [pools, resources]
+  date: 2021-07-19
+
+- name: Mining Pool Stats - Chia
+  url: https://miningpoolstats.stream/chia
+  tags: [pools, resources, verified]
+  description: A comprehensive listing of all official and non-official Chia pools along with their netspace.
+  date: 2021-07-19
+
+- name: Pool Force
+  url: https://poolforce.io/
+  tags: [pools, unproven]
+  date: 2021-07-23
+
+- name: Open Chia
+  url: https://openchia.io
+  description: An open-source pool with notifications, a mobile app for monitoring, and XCH price tracking for payouts.
+  tags: [pools, established, verified]
+  date: 2021-07-23
+
+- name: Chia calculator and plot planner
+  url: https://coinelion.com/chiacalc/
+  tags: [tools, plotting]
+  description: A simple and easy-to-use calculator to determine profitability and help plan mix of plot sizes.
+  date: 2021-07-23
+
+- name: ChiaAlert Telegram Bot
+  url: https://github.com/alek-sai/chia-alert
+  tags: [tools, farming]
+  description: Self-hosted telegram bot to watch your Chia farm stats.
+  date: 2021-08-05
+
+- name: KuCoin
+  url: https://www.kucoin.com/
+  pair: XCH/USDT
+  pair_url: https://trade.kucoin.com/XCH-USDT
+  tags: [exchanges, verified]
+  description: Seychelles based exchange. US friendly and the second largest exchange to list XCH.
+  date: 2021-08-06
+
+- name: 3D printed stackable HDD rack
+  url: https://www.thingiverse.com/thing:4875498
+  tags: [farming, tools]
+  description: 3d printed HDD rack that is modular and stackable.
+  date: 2021-08-12
+
+- name: Official Chialisp tutorial series
+  url: https://chialisp.com/docs/tutorials/why_chia_is_great
+  tags: [chialisp, videos, developers, verified]
+  description: A series of Chialisp tutorials and videos from the Chia Network.
+  date: 2021-08-12
+
+- name: chia-dotnet
+  url: https://github.com/dkackman/chia-dotnet
+  tags: [tools, developers]
+  description: A cross-platform dotnet5 client library for chia RPC.
+  date: 2021-08-26
+
+- name: Nucle
+  url: https://nucle.io/
+  tags: [wallets]
+  description: Nucle is an open-source and decentralized Chia web wallet that does not require syncing a full node. It is also the first SPV type wallet for Chia.
+  date: 2021-08-26
+
+- name: TeePool
+  url: https://www.teepool.com/
+  tags: [pools, established]
+  description: Chinese language pool.
+  date: 2021-08-26
+
+- name: MIGPOOL
+  url: https://chia.migpool.com/
+  tags: [pools, growing]
+  date: 2021-08-26
+
+- name: Chiascan
+  url: https://chiascan.jcdtech.cn/
+  tags: [tools, statistics]
+  description: Chia explorer by Hefei Jingchuang Digital Technology Co., Ltd.
+  date: 2021-09-20
+
+- name: Dollar Cost Averaging (DCA) Calculator for Chia
+  url: https://dcachia.com/
+  tags: [farming, tools]
+  description: DCA strategy investment calculator to see what historical returns are possible when dollar cost averaging your investment in Chia (XCH) cryptocurrency.
+  date: 2021-09-20
+
+- name: ChiaFarm.land
+  url: https://www.chiafarm.land
+  tags: [pools,unproven]
+  date: 2021-09-20
+
+- name: rchia - Remote Management CLI
+  url: https://github.com/dkackman/rchia
+  tags: [tools, farming]
+  description: Remote management CLI for chia nodes.
+  date: 2021-09-20
+
+- name: Rhizosphere - ChiaLisp IDE
+  url: https://github.com/BrandtH22/Rhizosphere
+  tags: [chialisp, developers, tools]
+  description: Python-based GUI for developing and testing ChiaLisp applications.
+  date: 2021-09-20
+
+- name: Chia Network News
+  url: https://twitter.com/chianetworknews
+  tags: [community]
+  description: A community Twitter account talking about everything Chia and XCH
+  date: 2021-10-15
+
+- name: Chia Stock to Flow Model
+  url: https://chiastocktoflow.com/
+  tags: [farming, tools]
+  description: Stock to flow model predicting XCH price based on Chia's emission schedule.
+  date: 2021-10-15
+
+- name: Maxipool
+  url: https://dashboard.maxipool.net/main/home
+  tags: [pools, unproven]
+  date: 2021-10-26
+
+- name: Prohashing
+  url: https://prohashing.com
+  tags: [pools, unproven]
+  date: 2021-10-26
+
+- name: GreenFinex
+  url: https://www.greenfinex.com/
+  pair: XCH/BTC
+  pair_url: https://trade.greenfinex.com/trading/xchbtc
+  tags: [exchanges]
+  description: New exchange for green cryptocurrencies such as XCH and STOR.
+  date: 2021-10-26
+
+- name: XCHcentral
+  url: https://www.xchcentral.com/chia-pools
+  tags: [pooling, resources]
+  description: Statistics and monitoring of top pool performance based on real data.
+  date: 2021-10-26
+
+- name: The Chia Plot
+  url: https://thechiaplot.net/
+  tags: [community]
+  description: The unofficial source of news and information on Chia.
+  date: 2021-10-28
+
+# - name: XCH Faucet
+#   url: https://xchfaucet.togatech.org/
+#   tags: [faucets]
+#   description: Claim XCH daily.
+#   date: 2021-11-11
+
+- name: Spacebucks (SBX)
+  url: https://www.spacebuckscoin.com/
+  tags: [cats, verified, meme tokens]
+  description: Chia's first meme token, worth nothing but also worth checking out.
+  asset_id: 78ad32a8c9ea70f27d73e9306fc467bab2a6b15b30289791e37ab6e8612212b1
+  date: 2021-11-16
+
+- name: Marmot Coin (MRMT)
+  url: https://twitter.com/marmotcoin/
+  tags: [cats, verified, meme tokens]
+  description: A token distributed based on "Proof of Marmot", which involves donating to Marmot Recovery Fund or donating a Marmot toy to a children's charity.
+  asset_id: 8ebf855de6eb146db5602f0456d2f0cbe750d57f821b6f91a8592ee9f1d4cf31
+  date: 2021-11-16
+
+- name: Single Issuance Chia Asset Token (CAT)
+  creator: Chia Network
+  url: https://www.youtube.com/watch?v=yxagP_VC8BE
+  tags: [chialisp, videos, developers]
+  description: Matt Hauff walks through the one-time issuance of a Chia Asset Token (CAT).
+  date: 2021-11-16
+
+- name: Multiple Issuance Chia Asset Token (CAT)
+  creator: Chia Network
+  url: https://www.youtube.com/watch?v=yxagP_VC8BE
+  tags: [chialisp, videos, developers]
+  description: Matt Hauff walks through the multiple issuance of a Chia Asset Token (CAT).
+  date: 2021-11-16
+
+- name: Chia Official Light Wallet
+  url: https://www.chia.net/download/
+  tags: [wallets, verified]
+  description: Now part of the full node software, the official Chia wallet uses an Electrum-style protocol to greatly reduce syncing time. Also the first wallet implementation supporting Chia Asset Tokens (CATs).
+  date: 2021-11-16
+
+- name: Start Chia
+  url: https://startchia.com/
+  tags: [guides, farming]
+  description: Starting guide and resources for farming Chia.
+  date: 2021-11-24
+
+- name: Chia - Official Documentation
+  url: https://docs.chia.net/
+  tags: [chialisp, developers, verified]
+  description: The source of truth for Chia documentation. Start here to learn more about Chia.
+  date: 2021-12-18
+
+- name: Jay Gould EP37 - Bram Cohen Explains How BitTorrent was the Inspiration to Bitcoin
+  url: https://www.youtube.com/watch?v=gdh1Nouw8Q8
+  tags: [videos, discussions, podcasts]
+  description: BitTorrent's creator, Bram Cohen, shares the origin story of BitTorrent and how it was Satoshi Nakamoto's inspiration to create Bitcoin.
+  date: 2021-12-29
+
+- name: CreatorNFT
+  url: https://github.com/geoffwalmsley/CreatorNFT
+  tags: [developers, chialisp]
+  description: Chialisp NFT with perpetual creator royalties
+  date: 2022-01-01
+
+- name: Goby
+  url: https://www.goby.app/
+  tags: [wallets, verified]
+  description: Goby is a browser based wallet similar to Metamask. It supports CATs and the backend is open-source.
+  date: 2022-01-03
+
+- name: CryptoShibe Gold (CSH)
+  url: https://cryptoshibe.com/
+  tags: [cats, meme tokens]
+  description: CryptoShibe is an early entrant into the Chia ecosystem of asset tokens. Crypto Shibe Gold is the foundational token with a circulating supply of one billion tokens.
+  asset_id: a2cadb541cb01c67c3bcddc73ecf33c8ffa37b0d013688904b2747cede020477
+  date: 2022-01-06
+
+- name: CryptoShibe Platinum (CSHP)
+  url: https://cryptoshibe.com/
+  tags: [cats, meme tokens]
+  description: CryptoShibe is an early entrant into the Chia ecosystem of asset tokens. Crypto Shibe Platinum has a smaller supply than CryptoShibe Gold.
+  asset_id: a2cadb541cb01c67c3bcddc73ecf33c8ffa37b0d013688904b2747cede020477
+  date: 2022-01-06
+
+- name: chiaswap
+  url: https://github.com/richardkiss/chiaswap
+  tags: [developers, chialisp]
+  description: A protocol based on submarine swaps for trustlessly swapping XCH and BTC using bitcoin lightning network payments.
+  date: 2022-01-06
+
+- name: TAIL Database
+  url: https://www.taildatabase.com/
+  tags: [cats, resources, verified]
+  description: A listing of Chia Asset Tokens with links to their TAIL for auditing.
+  date: 2022-01-07
+
+- name: Chia Holiday 2021 (CH21)
+  url: https://www.chia.net/2021/12/21/happy-holidays-from-chia.en.html
+  tags: [cats, other tokens, verified]
+  description: From the Chia Network, two CH21 tokens were sent to farmers that won a block on or before December 25, 2021. These tokens are redeemable for a discount on the official merch store and/or a 2021 Holiday Art NFT.
+  asset_id: 509deafe3cd8bbfbb9ccce1d930e3d7b57b40c964fa33379b18d628175eb7a8f
+  date: 2022-01-10
+
+- name: Chia CAT Explorer
+  url: https://xchtoken.org/
+  tags: [cats, resources, tools]
+  description: An explorer for Chia Asset Tokens.
+  date: 2022-01-11
+
+- name: Chia to Mojo Calculator
+  url: https://chiatomojo.com/
+  tags: [tools, statistics]
+  description: A simple calculator for converting XCH to mojos (the smallest divisible unit of XCH).
+  date: 2022-01-11
+
+- name: Chia Timeline
+  url: https://www.chiatimeline.com/
+  tags: [tools, statistics]
+  description: ChiaTimeline is a record of key events and dates for Chia in one place.
+  date: 2022-01-11
+
+- name: The Chia Plot Master Token (TCPM)
+  url: https://thechiaplot.net/2022/01/11/i-made-a-chia-asset-token-using-the-chives-tools/
+  tags: [cats, meme tokens]
+  description: A token created by The Chia Plot to represent ownership of the popular Chia news website.
+  asset_id: ead63a603a0d72dcd5e1bfb1ca4fd485fe063d7f590ff31757b14e1af79a7ceb
+  date: 2022-01-11
+
+- name: Space Marmots Premium (SM1)
+  url: https://spacemarmots.io/
+  tags: [cats, meme tokens]
+  description: Upcoming NFT drop.
+  asset_id: f5f0770713ebdd6e132410b3406f85c7cd49d690080a3277e00c24d7a91a5af0
+  date: 2022-01-11
+
+- name: Hashgreen DEX
+  url: https://dex.hash.green/
+  pair: XCH/USDS
+  pair_url: https://dex.hash.green/dex/XCH-USDS
+  tags: [dexs]
+  description: The first Decentralized Exchange (DEX) on Chia supporting Chia Offers for trading XCH and CATs. This is now a legacy platform to be eventually replaced by HashgreenSwap.
+  date: 2022-01-12
+
+- name: OfferBin
+  url: https://offerbin.io/
+  pair: XCH/USDS
+  pair_url: https://offerbin.io/?o=xch&r=usds
+  tags: [dexs]
+  description: An open marketplace for Chia Offers.
+  date: 2022-01-12
+
+# - name: Tsunami Protocol
+#   url: https://tsunami.network/
+#   tags: [dexs]
+#   description: <strong>Currently in alpha testing</strong>. A DEX from the developers of the browser based Goby wallet.
+#   date: 2022-01-12
+
+- name: Chia Offers (Keybase)
+  url: https://keybase.io/team/chia_offers
+  description: A Keybase chat group that is a dedicated space to posting and trading XCH offer files with each other.
+  tags: [community, verified]
+  date: 2022-01-12
+
+- name: Chia Coin Land
+  url: https://chiacoinland.com/
+  tags: [community]
+  description: News and research about the development of Chia Network and Chia blockchain.
+  date: 2022-01-13
+
+- name: Stably USD (USDS)
+  url: https://www.stably.io/
+  tags: [cats, stablecoins]
+  description: Chia's first stablecoin backed 1-to-1 with US Dollars. Issued by Stably.
+  asset_id: 6d95dae356e32a71db5ddcb42224754a02524c615c5fc35f568c2af04774e589
+  date: 2022-01-14
+
+- name: Catkchi (CTK)
+  url: https://catkchi.com/
+  tags: [cats, platform tokens]
+  description: A token for Chia.tk future ecosystem of decentralized applications.
+  asset_id: f648e8a00b4282ba0642bd413ea50bc216d7ba0110dde58c4b2ab0c9d1e778a5
+  date: 2022-01-14
+
+- name: Golden Chia (GCH)
+  url: https://www.chia.net/
+  tags: [cats, other tokens]
+  description: ???
+  asset_id: aa53978aaac154e32380aaf6322cd316696442248f1d15051007bc48b011694b
+  date: 2022-01-14
+
+- name: Bank On It - Episode 476 - Gene Hoffman from Chia Networks
+  url: https://bankonitpodcast.com/episode-476-gene-hoffman-from-chia-networks
+  tags: [podcasts]
+  description: In this episode the host John Siracusa chats remotely with Gene Hoffman, COO and President of Chia Networks. Chia Network is building a blockchain platform based on Proofs of Space and Time.
+  date: 2022-01-20
+
+- name: Clovyr Code Chia developer environment
+  url: https://clovyr.app/instant/code.2Dchia
+  tags: [chialisp, developers, tools, verified]
+  description: Clovyr Code is a full-featured VSCode browser IDE with a preconfigured Chialisp environment, a real terminal and command-line tools, running on a private VPS accessible only to you. No registration required.
+  date: 2022-01-21
+
+- name: OfferPool
+  url: https://offerpool.io
+  pair: XCH/USDS
+  pair_url: https://offerpool.io
+  tags: [dexs]
+  description: A open-source decentralized peer-to-peer offers database with a web front end.
+  date: 2022-01-25
+
+- name: CHIABATTA
+  url: https://info.chiabatta.xyz/chiabatta
+  tags: [pools, growing]
+  date: 2022-01-28
+
+- name: Sweetchia
+  url: https://sweetchia.com/
+  tags: [pools, growing]
+  date: 2022-01-28
+
+# - name: Space Marmots
+#   url: https://spacemarmots.io/
+#   tags: [nfts, projects]
+#   description: Limited run space marmots NFT embedded on the Chia blockchain.
+#   date: 2022-01-28
+
+# - name: Marvelous Marmots
+#   url: https://marvelousmarmots.com/
+#   tags: [nfts, projects]
+#   description: A PFP NFT from the Marvelous Marmot Kingdom.
+#   date: 2022-02-01
+
+- name: Chialisp Developer Tools With Clovyr
+  creator: Chia Network
+  url: https://www.youtube.com/watch?v=VqWB2BNSC2I
+  tags: [chialisp, videos, developers]
+  description: Chia and Clovyr give a tour and demo of the Clovyr Chialisp developer tools.
+  date: 2021-02-05
+
+- name: GG Pool
+  url: https://ggpool.org/
+  tags: [pools, growing]
+  date: 2022-02-05
+
+- name: Chia Faucet MoJo-JoJo
+  url: https://faucet.directorylib.com/
+  tags: [faucets]
+  date: 2022-02-05
+
+- name: Mint Garden
+  url: https://mintgarden.io/
+  tags: [nfts, marketplaces]
+  description: An NFT marketplace to mint and trade NFTs stored on the Chia blockchain.
+  date: 2022-02-05
+
+- name: XCH Weekly Newsletter
+  url: https://www.xchweekly.com/
+  tags: [community]
+  description: A mailing list and archive of short weekly summaries covering happenings in the Chia ecosystem.
+  date: 2022-02-16
+
+- name: Chia Developers Forum
+  url: https://developers.chia.net/
+  tags: [community, developers, chialisp, verified]
+  description: Official forums hosted by the Chia Network for developers.
+  date: 2022-02-16
+
+- name: Digital Spacecast
+  url: https://digitalspacecast.buzzsprout.com/
+  tags: [podcasts, verified]
+  description: Digital Spacecast covers the Chia cryptocurrency market, technology, innovations and everything in between.
+  date: 2022-02-18
+
+- name: Space Scan
+  url: https://www.spacescan.io/
+  tags: [tools, statistics, verified, featured]
+  description: Chia blockchain explorer and analytics platform with support for CATs.
+  date: 2022-02-20
+
+- name: Space Scan - Top CATs
+  url: https://www.spacescan.io/xch/cat1/topTokens
+  tags: [cats, resources]
+  description: Listing of top CATs by transactions
+  date: 2022-02-20
+
+- name: Chia RPC OpenAPI Documentation
+  url: https://github.com/dkackman/chia-api
+  tags: [developers]
+  description: Unofficial RPC documentation based on OpenAPI.
+  date: 2022-02-20
+
+- name: Chia Node Map
+  url: https://brause.de/chia/ip-location.html
+  tags: [tools, statistics]
+  description: Partial map of Chia full nodes based on IP geolocation.
+  date: 2022-02-20
+
+- name: XCHScan - List of Chia Pools
+  url: https://xchscan.com/chia-pools
+  tags: [pools, resources]
+  description: Listing of Chia Pools with reported netspace and identifies anolamies based on pool block wins.
+  date: 2022-02-20
+
+- name: The Third Coin Ep 07 - The Third New Blockchain
+  url: https://www.youtube.com/watch?v=AfrE4-FXd8E
+  tags: [podcasts]
+  description: Lewis asks the team rudimentary questions about Chia.  Grant and Dan explain why it gets their attention and how different it is from Bitcoin and Ethereum.
+  date: 2022-01-27
+
+- name: The Third Coin Ep 09 - Chia Asset Tokenization and Offer Files on the Chia Blockchain
+  url: https://www.youtube.com/watch?v=PLRKjTfN5U8
+  tags: [podcasts]
+  description: Grant and Dan introduce Chia Asset Tokens and Offer Files.  Two new real-world use cases, one of which is exclusive to the Chia blockchain.
+  date: 2022-02-20
+
+- name: dexie
+  url: https://dexie.space
+  pair: XCH/USDS
+  pair_url: https://dexie.space/offers/USDS/XCH
+  tags: [dexs, verified, nfts, marketplaces]
+  description: A peer-to-peer decentralized exchange for Chia offer files.
+  date: 2022-02-27
+
+- name: Pawket
+  url: https://pawket.app/
+  tags: [wallets]
+  description: Pawket is an open-source secure offline wallet. As a browser-based wallet, optimized UX for both desktop and mobile. Easily customize your transfer by custom CATs and fees.
+  date: 2022-02-27
+
+- name: Pool Energy
+  url: https://pool.energy/explorer
+  tags: [pools,unproven]
+  date: 2022-03-21
+
+- name: UseXCH.net Services Directory
+  url: https://usexch.net/
+  tags: [community]
+  description: Directory of services and merchants accepting XCH as payment.
+  date: 2022-03-24
+
+- name: The 300 (SPTN)
+  url: https://www.the300.net
+  tags: [cats, meme tokens]
+  description: The 300 is a community token with holders of 1 SPTN able to claim regular drops via the discord server. Only 300 tokens will ever exist, with token holders able to exchange for 1 of 300 limited NFTs.
+  asset_id: e95f21b33f465fd4da1eebc49e44591be7ded79788e4ef0473b943ffc550f66f
+  date: 2022-03-25
+
+- name: chiaswap
+  url: https://github.com/richardkiss/chiaswap
+  tags: [tools, developers]
+  description: A protocol for trustless swapping of XCH and BTC using Bitcoin Lightning Network payments.
+  date: 2022-03-27
+
+- name: Chia Full Node Simulator
+  url: https://hub.docker.com/r/irulast/chia-simulator
+  tags: [tools, developers]
+  description: A Docker container to simulate a Chia network for developers to write tests against their code with full control over the  blockchain, and not having to use Testnet.
+  date: 2022-03-27
+
+- name: Hardware Security Module (HSM) Simulator for Chia.
+  url: https://github.com/richardkiss/hsms
+  tags: [tools, developers]
+  description: A project to sign Chia spends using BLS12_381 keys.
+  date: 2022-03-27
+
+- name: GreenWeb.js JavaScript API
+  url: https://github.com/Yakuhito/GreenWeb.js
+  tags: [tools, developers]
+  description: Chia JavaScript API meant to be a web3.js equivalent for Chia.
+  date: 2022-03-27
+
+- name: Leaflet
+  url: https://github.com/FireAcademy/Leaflet
+  tags: [tools, developers]
+  description: Proxy for browser connections to a full node, necessary since browsers don't support custom certificates to authenticate with a websocket on Chia's full node port 8444.
+  date: 2022-03-27
+
+- name: FireAcademy - Chia Nodes as a Service
+  url: https://fireacademy.io/
+  tags: [tools, developers]
+  description: Centralized service to provide on-demand access to Leaflet full nodes.
+  date: 2022-03-27
+
+- name: Chia Sync Network
+  url: http://chiasync.network/
+  tags: [tools, farming]
+  description: List of official introducer and nodes, as well as public nodes to aid in resolving syncing issues.
+  date: 2022-03-27
+
+- name: Chia.tt Block Explorer
+  url: https://chia.tt/
+  tags: [tools, statistics]
+  description: Chia cryptocurrency blockchain explorer and statistics.
+  date: 2022-03-27
+
+# - name: Arbor Wallet
+#   url: https://www.arborwallet.com/
+#   tags: [wallets]
+#   description: Arbor Wallet is a mobile wallet (iOS and Android) that uses the SPV protocol so it can function without a full node.
+#   date: 2022-03-27
+
+- name: How to move the Chia database to a new disk
+  url: https://thechiaplot.net/2022/02/12/how-to-move-your-chia-database-to-a-new-disk/
+  tags: [guides, farming]
+  description: Short guide on how to move your blockchain database files to another drive if your main disk is running out of space.
+  date: 2022-03-27
+
+- name: getxchtx - export XCH transactions to CSV
+  url: https://github.com/steppsr/getxchtx
+  tags: [tools, statistics]
+  description: Generate a list of transactions for Chia (XCH) into a CSV file.
+  date: 2022-04-08
+
+- name: Chia Crypto Utils
+  url: https://github.com/irulast/chia-crypto-utils
+  tags: [tools, developers]
+  description: Utilities to support a working example of Chia Wallet fundamentals
+  date: 2022-04-09
+
+- name: Official Chia Dashboards
+  url: https://dashboard.chia.net/
+  tags: [statistics, verified, featured]
+  description: Dashboards on blockchain and network peer metrics including mempool/fees and full node statistics.
+  date: 2022-04-09
+
+- name: SERPENT Chia offline transaction sign and send
+  url: https://github.com/ageorge95/SERPENT-chia-offline-transaction-sign-and-send
+  tags: [tools, developers]
+  description: Tool that can send funds out of a wallet through the full node RPC, by using a mnemonic
+  date: 2022-04-09
+
+- name: Chia REPL
+  url: https://github.com/dkackman/chia-repl
+  tags: [tools, developers, chialisp]
+  description: A REPL tool for Chia and clvm_tools
+  date: 2022-04-10
+
+- name: CLVM Tools (Javascript)
+  url: https://github.com/Chia-Mine/clvm_tools-js
+  tags: [tools, developers, chialisp]
+  description: Javascript implementation of clvm_tools (clvm = Chia Lisp VM)
+  date: 2022-04-10
+
+- name: IPOs not ICOs - Ryan Singer
+  creator: Pillar VC
+  url: https://www.youtube.com/watch?v=E37MHxxc46s
+  tags: [videos, discussions]
+  description: Filmed at the (Off) The Chain Summit presented by Pillar on April 26th as part of Boston Blockchain Week.
+  date: 2022-04-11
+
+- name: The Tatiana Show - Ryan Singer of Chia Network
+  url: https://www.youtube.com/watch?v=4neQpIH0Pbc&t=1507s
+  tags: [videos, discussions]
+  description: Tatiana and Josh interview Ryan Singer, former CEO of the Chia Network.
+  date: 2022-04-11
+
+- name: Mojo Puzzler - Chialisp Wiki
+  url: https://mojopuzzler.org/mediawiki/index.php/Main_Page
+  tags: [developers, chialisp]
+  description: A wiki with topics and examples for getting started with Chialisp.
+  date: 2022-04-11
+
+- name: LispNYC - Bram Cohen and Richard Kiss discuss why they chose Lisp
+  url: https://www.youtube.com/watch?v=c_ESByB_Xeo
+  tags: [videos, discussions, chialisp]
+  description: Bram and Richard will discuss the why of using Lisp for smart contracts, the design rational of the various language features of ChiaLisp, and the challenges of language development on a blockchain
+  date: 2021-09-14
+
+- name: Swapzone
+  url: https://swapzone.io/
+  pair: XCH/USDT
+  pair_url: https://swapzone.io/exchange/xch/usdterc20
+  tags: [swap services]
+  description: An aggregation of various swap services.
+  date: 2022-04-23
+
+- name: StealthEx
+  url: https://stealthex.io/
+  pair: XCH/USDT
+  pair_url: https://stealthex.io/?amount=1&from=xch&to=usdttrc20
+  tags: [swap services]
+  description: Directly trade another crypto for XCH and vice versa without sign-up or limits.
+  date: 2022-04-23
+
+# - name: CATs Founder Faucet
+#   url: https://www.catsfounder.com/faucet
+#   tags: [faucets]
+#   description: Claim 100,000 mojos up to 3 times daily.
+#   date: 2022-04-23
+
+# - name: CATs Founder Online Minting Tool
+#   url: https://www.catsfounder.com/
+#   tags: [cats, tools]
+#   description: An online tool for minting CATs.
+#   date: 2022-04-23
+
+- name: CAT Auto Send Script
+  url: https://github.com/morph3us1984/CAT-auto-send-script
+  tags: [cats, tools]
+  description: A bash script to send CATs one at a time with fail checks.
+  date: 2022-05-01
+
+- name: CAT Airdrop Tool
+  url: https://github.com/morph3us1984/CAT-Airdrop-Tool
+  tags: [cats, tools]
+  description: A simple bash script uses RPC Calls to split and send out CATs
+  date: 2022-05-01
+
+- name: Chirp - messaging app on Chia
+  url: https://github.com/trepca/chirp
+  tags: [developers, tools]
+  description: An example messaging app running on Chia blockchain.
+  date: 2022-05-01
+
+- name: Coinman
+  url: https://github.com/trepca/coinman
+  tags: [developers, tools]
+  description: Coinman allows you to develop dApps on Chia blockchain without Chialisp knowledge by abstracting coins as APIs that can be directly integrated into your existing apps or UIs.
+  date: 2022-05-01
+
+- name: Beacon coin
+  url: https://github.com/trepca/beacon-coin
+  tags: [developers, tools]
+  description: Beacon coin is a Chia singleton coin that can store data on-chain.
+  date: 2022-05-01
+
+- name: Chia Dev Tracker
+  url: https://dev.chialinks.com
+  tags: [verified, tools, statistics]
+  description: Dashboard monitoring open source development in the Chia ecosystem.
+  date: 2022-05-01
+
+- name: Keyword Crypto - Jon of ChiaLinks
+  url: https://www.keywordcrypto.com/jon-of-chialinks/
+  tags: [podcasts]
+  description: Jon from Chialinks.com sits down with Michael to chat about Chia and Nano.
+  date: 2022-05-01
+
+- name: The Fintech Blueprint - 25 years of cypherpunk innovation in money, privacy, and music, with Chia Network COO Gene Hoffman
+  url: https://lex.substack.com/p/podcast-conversation-25-years-of?s=r
+  tags: [podcasts]
+  description: In this conversation, we chat with Gene Hoffman, Chief Operations Officer and President at Chia Network.
+  date: 2022-05-11
+
+- name: ChiaTK
+  url: https://chiatk.com/
+  tags: [tools, developers, international]
+  description: An ecosystem of tools and apps for Chia, including a wallet, calculator, plotter, marketplace, game, token, etc.
+  date: 2022-05-22
+
+- name: Ozone Wallet
+  url: https://ozonewallet.io/
+  tags: [wallets]
+  description: Wallet in Beta, but fully functional for Android and iOS. Part of ChiaTK tools ecosystem for Chia.
+  date: 2022-05-22
+
+- name: Indodax
+  url: https://www.indodax.com/
+  pair: XCH/IDR
+  pair_url: https://indodax.com/market/XCHIDR
+  tags: [exchanges]
+  description: Indonesia based exchange.
+  date: 2022-05-24
+
+- name: BitMart
+  url: https://www.bitmart.com/
+  pair: XCH/USDT
+  pair_url: https://www.bitmart.com/trade/en?layout=basic&symbol=XCH_USDT
+  tags: [exchanges]
+  description: Cayman Islands based exchange.
+  date: 2022-05-24
+
+- name: BitTurk
+  url: https://bitturk.com/
+  pair: XCH/TRY
+  pair_url: https://bitturk.com/tradesimple/XCH_TRY
+  tags: [exchanges]
+  description: Turkey based exchange.
+  date: 2022-05-24
+
+- name: Hotcoin Global
+  url: https://www.hotcoin.com/
+  pair: XCH/USDT
+  pair_url: https://www.hotcoin.com/currencyExchangeTwo/xch_usdt
+  tags: [exchanges]
+  description: Seychelles based exchange.
+  date: 2022-05-24
+
+- name: Jubi
+  url: https://www.jbex.com/
+  pair: XCH/USDT
+  pair_url: https://www.jbex.com/exchange/XCH2/USDT
+  tags: [exchanges]
+  description: Singapore based exchange.
+  date: 2022-05-24
+
+- name: py-blink_mojo-secure
+  url: https://github.com/geraldneale/py-blink_mojo-secure?
+  tags: [tools, developers]
+  description: Chialisp money privacy tool using aggregated BLS signatures for security and Python3 for automation.
+  date: 2022-05-30
+
+- name: Competitive Chia Farming - Deep dive into HDD power and TCO
+  creator: Chia Decentral
+  url: https://youtu.be/FUVcPPQrweA
+  tags: [videos, energy, farming, verified]
+  description: The most comprehensive analysis of Chia farming power usage and total cost of ownership (TCO). A must watch for serious farmers looking to understand and increase the energy efficiency of their farm.
+  date: 2022-06-07
+
+- name: Forward Thinking Founders Ep 826 - Dylan Rose on building an energy efficient crypto miner
+  url: https://ftf.seedscout.com/826-dylan-rose-evergreen-on-building-an-energy-efficient-crypto-miner/
+  tags: [podcasts]
+  description: An interview with Dylan Rose, cofounder of Evergreen miner.
+  date: 2022-06-07
+
+- name: Climate Warehouse overview
+  url: https://odysee.com/@Chia:d/climatewarehouse:2
+  tags: [videos, energy]
+  description: A talk explaining the purpose of the Climate Warehouse, it's progress, and current participants.
+  date: 2022-06-07
+
+- name: Climate Warehouse explainer
+  url: https://odysee.com/@Chia:d/climate-warehouse-phase-3:9
+  tags: [videos, energy]
+  description: A graphical explanation of how Chia blockchain is used as the underlying technology behind the World Bank's Climate Warehouse as part of the third and final simulation phase.
+  date: 2022-06-07
+
+- name: CHIP-002 dApp Protocol Q&A
+  url: https://youtu.be/c9tRXRiUw_8
+  tags: [videos, developers]
+  description: Community call to discuss feedback on CHIP-002 - dApp Protocol.
+  date: 2022-06-07
+
+- name: Off the Chain 22 - Bram talks custody solutions
+  url: https://odysee.com/@Chia:d/off-the-chain-Bram-Cohen-2022:5
+  tags: [videos, discussions]
+  description: Bram Cohen gives a talk at Off The Chain Con about upcoming decentralized custody solutions such as multi-sig and atomic swaps, authrozied payee wallets, and transaction clawback.
+  date: 2022-06-07
+
+- name: NFTr
+  url: https://nftr.pro/
+  tags: [nfts, marketplaces]
+  description: NFT marketplace and app for minting, trading, and using art, music, virtual assets, tickets, and more
+  date: 2022-06-15
+
+- name: walletnx's Chia Tools
+  url: https://github.com/wallentx/farm-and-ranch-supply-depot
+  tags: [plotting, tools]
+  description: Several tools for automating the plotting process.
+  date: 2022-06-15
+
+- name: Troll Farmer YouTube Channel
+  url: https://www.youtube.com/channel/UCx8kxz0BcL75xRLuiVrE3pg/videos
+  tags: [videos, guides]
+  description: A YouTube channel dedicated to short guides on plotting and farming setups.
+  date: 2022-06-15
+
+- name: Chia in China YouTube Channel
+  url: https://www.youtube.com/watch?v=tpL6CalCMr4&t=3s
+  tags: [videos, discussions]
+  description: Featuring interviews with different Chia team and community members.
+  date: 2022-06-15
+
+- name: SpaceScan.io CAT Explorer
+  url: https://www.spacescan.io/xch/cat1/explore
+  tags: [cats]
+  date: 2022-06-15
+
+- name: SpaceScan.io NFT Explorer
+  url: https://www.spacescan.io/xch/nft/explore
+  tags: [nfts, tools]
+  date: 2022-06-15
+
+- name: SkyNFT
+  url: https://skynft.org/
+  tags: [nfts, marketplaces]
+  description: NFT marketplace for Chia and Chives (Chia fork) NFTs.
+  date: 2022-06-15
+
+- name: OCP Sustainability Initiatives - Storage
+  url: https://www.youtube.com/watch?v=WndbzpDjvVI&t=681s
+  tags: [videos, discussions]
+  description: Jonmichael Hands describes the Circular Drive Initiative as it relates to Open Compute Project's sustainability goals.
+  date: 2022-06-15
+
+- name: Davos 2022 - Web 3.0 Decentralized Infrastructure for the Future of the Web
+  url: https://www.youtube.com/watch?v=Chkv8AI4qXs
+  tags: [videos, discussions]
+  description: Gene Hoffman and other speakers from the blockchain industry discuss web 3.0 infrastructures.
+  date: 2022-06-21
+
+- name: Chia Friends
+  url: https://chiafriends.xyz/
+  tags: [nfts, verified, featured, projects]
+  description: Official NFT profile picture (PFP) project from the Chia Network. 10,000 given away in a raffle.
+  date: 2022-06-30
+
+- name: Chia Twitter Spaces Archive - XCH Dev Spaces
+  url: https://xchdev.com/index.html#!spaces.md
+  tags: [podcasts]
+  description: An archive ot recorded Twitter Spaces talking about Chia, including the Chia 168 hour marathon in July 2022.
+  date: 2022-07-13
+
+- name: Farmers Market by ChiaLinks.com
+  url: https://farmersmarket.cc
+  tags: [nfts, verified, marketplaces]
+  description: Search through select NFT collections by traits and rarity to discover the perfect one to own.
+  date: 2022-07-13
+
+- name: Scrutinous' Guide to Minting NFTs on Chia
+  url: https://github.com/scrutinously/chia-scripts/wiki/Chia-NFTs
+  tags: [nfts, tools]
+  description: A step by step guide on how to mint NFTs on the Chia Blockchain. A more in-depth supplement to the official minting guide.
+  date: 2022-07-16
+
+- name: XCH DEV Testnet Faucet
+  url: https://xchdev.com/#!faucet.md
+  tags: [faucets]
+  description: TESTNET ONLY. Faucet to get TXCH for development purposes on Testnet.
+  date: 2022-08-10
+
+- name: MintGarden Studio
+  url: https://github.com/mintgarden-io/mintgarden-studio
+  tags: [nfts, tools]
+  description: Create NFTs on the Chia blockchain using a simple GUI.
+  date: 2022-08-10
+
+- name: Morphs Bulk Minter
+  url: https://github.com/morph3us1984/morphs_bulk_minter
+  tags: [nfts, tools]
+  description: Morphs Chia NFT bulk minting tool
+  date: 2022-08-10
+
+- name: XCHCentral Mint-An-NFT
+  url: https://github.com/jm-XCHcentral/Mint-An-NFT
+  tags: [nfts, tools]
+  description: Mint-an-NFT is a free tool provided by @XCHcentral to the Chia community to help mint NFTs.
+  date: 2022-08-10
+
+- name: Chia NFT Minting Helper
+  url: https://github.com/zakhikhan/chia-nft-minting-helper
+  tags: [nfts, tools]
+  description: A bash script to help make the process of minting a series of NFTs on the Chia Blockchain easier.
+  date: 2022-08-10
+
+- name: easy_mint
+  url: https://github.com/su77ungr/easy_mint
+  tags: [nfts, tools]
+  description: Automating minting and creating .offer files
+  date: 2022-08-10
+
+- name: mint_test_script
+  url: https://github.com/ockhamstest/mint_test_script
+  tags: [nfts, tools]
+  date: 2022-08-10
+
+- name: nftutil
+  url: https://github.com/imagenaria/nftutil
+  tags: [nfts, tools]
+  description: Utilities for minting collections of NFTs on Chia Blockchain
+  date: 2022-08-10
+
+- name: nft.storage proof of concept
+  url: https://github.com/steppsr/nftstorage-proofofconcept
+  tags: [nfts, tools]
+  description: Proof of concept to upload file to nft.storage
+  date: 2022-08-10
+
+- name: exif2metadata proof of concept
+  url: https://github.com/steppsr/exif2metadata-proofofconcept
+  tags: [nfts, tools]
+  description: exif2metadata-proofofconcept will extract EXIF information from a photograph and build a metadata file for an NFT.
+  date: 2022-08-10
+
+- name: roybot NFT Minter
+  url: https://github.com/roybotbot/roybotNFT-Minter
+  tags: [nfts, tools]
+  description: Chia NFT minting script using RPC and data from a CSV file
+  date: 2022-08-10
+
+- name: Omakasea Chia NFT Tool
+  url: https://github.com/OmakaseaNFT/chia-nft-util
+  tags: [nfts, tools]
+  date: 2022-08-10
+
+- name: Pionex
+  url: https://www.pionex.com/
+  pair: XCH/USDT
+  pair_url: https://www.pionex.com/en-US/trade/XCH_USDT
+  tags: [exchanges]
+  description: Singapore based exchange.
+  date: 2021-08-18
+
+- name: Space Explorer
+  url: https://explorer.space/
+  tags: [tools, statistics]
+  description: Chia blockchain explorer by Space Pool.
+  date: 2022-08-19
+
+- name: Chia Airdrops
+  url: https://chiaairdrops.com/
+  tags: [nfts, cats, tools]
+  description: Discover CAT and NFT project giveaways/airdrops.
+  date: 2022-09-15
+
+- name: Proof of Treasure
+  url: https://www.proofoftreasure.com/
+  tags: [community]
+  description: Proof of Treasure is a location finder game, where you can win real crypto treasure (Proof Of Treasure Coin / POTT) by guessing the location of the game image.
+  date: 2022-09-22
+
+- name: Green-App.io
+  url: https://green-app.io/
+  tags: [tools, developers, cats]
+  description: Green Wallet, Green Swap, NFT marketplace, cross-chain protocol and other products that are combined with one GAD token.
+  date: 2022-05-22
+
+
+- name: Keyspace
+  url: https://keyspacewallet.com/
+  tags: [wallets]
+  description: Mac and iOS wallet with client side peer-to-peer light wallet protocol. Monthly subscription and free trial available.
+  date: 2022-10-08
+
+- name: Hoogii
+  url: https://hoogii.app/
+  tags: [wallets]
+  description: Hoogii is a crypto wallet extension for Chia Network from the Hashgreen Labs team.
+  date: 2022-10-31
+
+- name: hpool
+  url: https://www.hpool.in/
+  tags: [pools, established]
+  description: 
+  date: 2022-10-30
+
+- name: Namesdao
+  url: https://namesdao.org/
+  tags: [nfts, name services]
+  description: Namesdao is a .xch name service for Chia and they also have their own wallet with their .xch name integration.
+  date: 2022-10-31
+
+- name: Go4me
+  url: https://go4.me/
+  tags: [nfts, name services]
+  description: go4me provides a personal page and XCH address linkage attached to your twitter account.
+  date: 2022-10-31
+
+- name: Chia Name Service
+  url: https://xch.cool/
+  tags: [nfts, name services]
+  description: Chia Name Service is from the Pawket team and looks to provide a decentralized, censorship-resistant, open-source .xch name service.
+  date: 2022-10-31
+
+- name: Namesdao .xch wallet
+  url: https://www.namesdao.org/download.html
+  tags: [wallets]
+  description: A fork of the Chia reference wallet that supports Namesdao.org .xch name service.
+  date: 2022-10-31
+
+- name: Gene Hoffman AMA Zoom with Chia in China
+  url: https://www.youtube.com/watch?v=DTGHDUW57tw
+  tags: [discussions, videos]
+  description: Gene Hoffman participates in an AMA with the Chia in China community, answering questions about the prefarm, Climate Action Data Trust, decentralization, and more.
+  date: 2022-11-05
+
+- name: The Chia Paradigm&#58; Speaking With Gene Hoffman&#58; COO Of The Chia Network
+  url: https://www.youtube.com/watch?v=rz5C-bMFGMQ
+  tags: [discussions, videos]
+  description: Corey Costa interviews Gene Hoffman to discuss his background as a serial entrepreneur and how he got involved with Chia.
+  date: 2022-11-09
+
+- name: Chia farming in Ubuntu Server for beginners switching from Windows
+  creator: Chia Decentral
+  url: https://www.youtube.com/watch?v=wGyMhs_H1HY
+  tags: [farming, videos]
+  description: A video for folks that are currently farming Chia in Windows and want to switch over to Ubuntu server, for lightweight and low power, headless (no monitor) Chia farming.
+  date: 2022-11-09
+
+
+- name: Chia Friends Discord
+  url: "https://discord.com/invite/ECAteZ2B6n"
+  tags: [community, nfts, verified, featured]
+  description: Community run Chia Friends Discord server for the Chia NFT community.
+  date: 2022-11-18
+
+
+- name: CoinW
+  url: https://www.coinw.com/
+  pair: XCH/USDT
+  pair_url: https://www.coinw.com/frontSpot/spottrade?symbol=586
+  tags: [exchanges]
+  description: 
+  date: 2022-12-09
+
+- name: xd nft wizard
+  url: https://github.com/steppsr/xd-nft-wizard
+  tags: [nfts, tools]
+  description: xd nft wizard is a interactive Bash script to help with Chia NFTs for creators and collectors alike
+  date: 2022-12-20
+
+- name: Green Wallet
+  url: https://play.google.com/store/apps/details?id=extralogic.wallet.greenapp&pli=1
+  tags: [wallets]
+  description: Green Wallet is an open source non-custodial wallet from the Green App Development.
+  date: 2022-12-20
+
+- name: Constructions in ChiaLisp - Bram Cohen
+  url: https://www.youtube.com/watch?v=nhBzQ-BcFSc
+  tags: [chialisp, videos, developers]
+  description: The Chia on-chain programming environment brings the full power of defi to the UTXO model. We'll cover what the basic constructions in Chialisp are, what has been built to date, and what's upcoming.
+  date: 2023-01-01
+
+- name: Programming in ChiaLisp with Adam Kelly
+  url: https://www.youtube.com/watch?v=JcC1_igwSmA
+  tags: [chialisp, videos, developers]
+  date: 2023-01-01
+
+- name: HashgreenSwap
+  url: https://hash.green/
+  tags: [dexs]
+  description: Upcoming AMM to decentralized staking and liquidity pools to power enable swaps.
+  date: 2023-01-13
