@@ -1,0 +1,34 @@
+{% comment %}
+Logic flow (if tag has sections):
+  - Fetch all links that are tagged with "include.tag" parameter
+  - Sort links alphabetically
+  - Iterate through all "section" tags from site.data.tags.sections (except current tag)
+    - Fetch subset of links that are also in this section
+    - If this subset is non-empty
+      - add the header
+      - iterate through each link to populate it (suppressing the tag of the page)
+  - Repeat for miscellaneous section
+Logic flow (if tag has no sections)
+ - Iterate through all sorted links and display (suppressing the tag of the page)
+{% endcomment %}
+
+{% assign links = site.data.links | where_exp: "item", "item.tags contains include.tag" %}
+{% assign sorted_links = links | sort_natural: 'name' %}
+
+{% if site.data.tags.has_sections contains include.tag %}
+  {% for section in site.data.tags.sections %}
+    {% if section != include.tag %}
+      {% assign section_links = sorted_links | where_exp: "item", "item.tags contains section" %}
+      {% if section_links.size > 0 %}
+        <a name="{{ section }}"></a><h2><img src="/assets/icons/{{ section }}.png" class="h2-icon" />{{ section | capitalize }}</h2>
+        {% for link in section_links %}
+          {% include linkblock.html link=link tag=include.tag %}
+        {% endfor %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% else %}
+  {% for link in sorted_links %}
+    {% include linkblock.html link=link tag=include.tag %}
+  {% endfor %}
+{% endif %}

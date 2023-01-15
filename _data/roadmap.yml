@@ -1,0 +1,212 @@
+## format
+# title: title of timeline event
+# date: date of timeline event
+# description: description of event
+# source: link to reference
+
+- title: Chia Mainnet Launch
+  date: 2021-03-19
+  description: Chia's mainnet goes live with initial netspace of just over 100 PiB.
+  source: https://www.chia.net/2021/03/15/mainnet-update.html
+
+- title: Netspace crosses 1 EiB
+  date: 2021-04-28
+  type: milestone
+
+- title: Transactions Launch
+  date: 2021-05-03
+  description: Transactions enabled on mainnet.
+  source: https://www.nasdaq.com/press-release/chia-launches-its-green-digital-currency-xch-2021-05-12
+
+- title: First Exchange Listing
+  date: 2021-05-13
+  type: milestone
+
+- title: Netspace crosses 10 EiB
+  date: 2021-05-24
+  type: milestone
+
+- title: Netspace crosses 30 EiB
+  date: 2021-07-03
+  type: milestone
+
+- title: Official Pooling Protocol
+  date: 2021-07-07
+  description: New plot format released with decentralized implementation to provide small farmers more consistent rewards.
+  source: https://www.chia.net/2021/07/07/official-pooling-launched.en.html
+
+- title: Cultivation Grant Program
+  date: 2021-08-18
+  description: The Chia Cultivation Program launched to invest in independent developers to the Chia ecosystem.
+  source: https://www.chia.net/2021/08/18/chia-cultivation-grant-program.html
+
+- title: Open Compute Project
+  date: 2021-08-30
+  description: Chia joins the OCP to contribute to sustainabiltiy in storage.
+  source: https://www.chia.net/2021/08/30/chia-joins-the-open-compute-project.html
+
+- title: Global Chia Hackathon
+  date: 2021-09-15
+  description: The first Chia Hackathon finished with 360+ registrations across 50 countries.
+  source: https://sirius-labs2021.medium.com/announcing-the-winners-of-global-chia-hackathon-2021-f5b5e374885
+
+- title: Supranational Partnership
+  date: 2021-10-13
+  description: Chia partners with Supranational to create ASICs used for Proof of Time.
+  source: https://www.businesswire.com/news/home/20211013005324/en/Chia-Partners-With-Supranational-to-Create-Industry-Leading-Proof-of-Space-Time-Security
+
+- title: Crypto Open Patent Alliance
+  date: 2021-10-18
+  description: Chia's issued patents will be pooled with other crypto industry leaders under an open license.
+  source: https://www.chia.net/2021/10/18/chia-joins-copa.en-copy.html
+
+- title: Circular Drive Initiative
+  date: 2021-11-02
+  description: Chia joins major storage vendors, including Seagate Technology, to facilitate second-use business cases for hard drives.
+  source: https://www.prnewswire.com/news-releases/major-storage-vendors-join-circular-drive-initiative-to-combat-e-waste-301413614.html
+
+- title: Chia's First Granted Patent
+  date: 2021-11-02
+  description: The first patent assigned to the Chia Network is granted by the US Patents office.
+  source: https://patents.google.com/patent/US11165582B2/en
+
+- title: World Bank Partnership
+  date: 2021-11-05
+  description: The World Bank selected Chia to develop the Climate Warehouse which will facilitate the sharing and reporting of climate project information and asset issuance.
+  source: https://www.coindesk.com/business/2021/11/05/chia-network-to-develop-prototype-for-world-banks-climate-warehouse/
+
+- title: Costa Rica Partnership
+  date: 2021-11-11
+  description: Costa Rican government will partner with Chia to develop an open-source software platform for managing climate inventory for other countries to freely use.
+  source: https://www.businesswire.com/news/home/20211111005809/en/Costa-Rica-and-Chia-Announce-Partnership-to-Support-Climate-and-Government-Initiatives
+
+- title: CAT1 Standard
+  date: 2021-11-15
+  description: The first Chia Asset Token (CAT) standard is released along with the first two CATs <a href="https://www.spacebuckscoin.com/" target="_blank">SpaceBucks</a> and <a href="https://twitter.com/marmotcoin" target="_blank">Marmotcoin</a>.
+  source: https://www.chia.net/2021/11/15/the-CATs-out-of-the-bag.en.html
+
+- title: Light Wallet Launched
+  date: 2021-11-16
+  description: Electrum-style wallet with CAT support launched to allow transactions without requiring a full node sync.
+  source: https://www.chia.net/2022/01/10/understanding-the-changes-in-the-new-light-wallet.en.html
+
+- title: 2021 Holiday Token Airdrop
+  date: 2022-01-11
+  description: 2021 Holiday CAT (CH21) is airdropped to all farmers that won a block between mainnet launch and December 25, 2021.
+  source: https://www.chia.net/2021/12/21/happy-holidays-from-chia.en.html
+
+- title: Chia Offers Launched
+  date: 2022-01-11
+  description: Chia Offers launched enabling native peer-to-peer swaps of XCH and CATs without an intemediary or counterparty risk.
+  source: https://www.chia.net/2022/01/12/chia-offers-are-here-en.html
+
+- title: Hashgreen DEX
+  date: 2022-01-12
+  description: The first decentralized exchange (DEX) is launched supporting Chia Offers.
+  source: https://www.chia.net/2022/01/12/chia-offers-are-here-en.html
+
+- title: Stably USDS Stablecoin
+  date: 2022-01-12
+  description: The first stablecoin following the CAT1 standard is launched on the Chia blockchain.
+  source: https://www.chia.net/2022/01/12/chia-offers-are-here-en.html
+
+- title: Buy XCH Button on Chia.net
+  date: 2022-01-13
+  description: Non-exchange on-ramp to buy XCH using USDS and Chia Offers is added to the Chia website.
+  source: https://www.chia.net/buy-xch/
+
+- title: Partnership with Clovyr
+  date: 2022-01-18
+  description: A new environment for Clovyr Code released, providing a browser based VSCode instance preconfigured for Chialisp development.
+  source: https://www.chia.net/2022/01/18/learn-chialisp-with-clovyr.en.html
+
+- title: Business Whitepaper v2
+  date: 2022-02-02
+  description: An updated version of the Chia Business Whitepaper is released, discussing many of the milestones and roadmap since mainnet launch.
+  source: https://www.chia.net/2022/02/02/chia-business-whitepaper-2.0.en.html
+
+- title: Chialisp Developer Challenge
+  date: 2022-02-03
+  description: An online event where developers competed to create innovative solutions using the Chia blockchain and Chialisp on Clovyr's development tools.
+  source: https://www.chia.net/2022/01/18/learn-chialisp-with-clovyr.en.html
+
+- title: CHia Improvement Proposals
+  date: 2022-02-14
+  description: CHIP is a standardized template and procedure is established for proposing new ideas to improve the Chia project (akin to EIP/BIP in Ethereum/Bitcoin).
+  source: https://www.chia.net/2022/02/14/chia-improvement-proposals.en.html
+
+- title: Chia Blockchain 1.3 Released
+  date: 2022-03-07
+  description: Major version update of the full node software to include light wallet, new compressed database format, offers and CAT support, and more.
+  source: https://github.com/Chia-Network/chia-blockchain/releases/tag/1.3.0
+
+- title: Climate Warehouse Prototype
+  date: 2022-03-15
+  description: The World Bank announces the Climate Warehouse Observer Node to explore a prototype of the Climate Warehouse, built on the Chia Blockchain.
+  source: https://www.theclimatewarehouse.org/tools/simulation-3
+
+- title: Public Data Dashboards
+  date: 2022-04-06
+  description: Chia Network publishes dashboards on blockchain and network metrics. Notably showing ~200,000 active full nodes.
+  source: https://www.chia.net/2022/04/06/announcing-chia-dashboards.en.html
+
+- title: NFT0 Beta Standard
+  date: 2022-05-11
+  description: Chia Network releases their vision for NFTs an initial NFT0 standard for testnet.
+  source: https://www.chia.net/2022/05/11/our-vision-for-chia-nfts.en.html
+
+- title: Joins Blockchain Association
+  date: 2022-05-18
+  description: Chia joins the industry coalition in regulatory analysis and insight to amplify the continued growth, development, and application of the Chia blockchain and technologies.
+  source: https://www.businesswire.com/news/home/20220518005432/en/Chia-Network-Joins-the-Blockchain-Association-to-Amplify-Policy-Efforts
+
+- title: NFT1 Mainnet Standard
+  date: 2022-06-29
+  description: The first standard for the minting of Non-Fungible Tokens on the Chia blockchain.
+  source: https://www.businesswire.com/news/home/20220629005363/en/Chia-Launches-Innovative-Expanded-NFT-Functionality-in-NFT1-Standard
+
+- title: CAT2 Standard Release
+  date: 2022-07-26
+  description: CAT1 standard was EOL, replaced by CAT2 and assets were reissued to fix a security vulnerability uncovered by an audit.
+  source: https://www.chia.net/2022/07/25/upgrading-the-cat-standard.en.html
+
+- title: Carbon Opportunity Fund
+  date: 2022-08-18
+  description: World Bank's IFC, Cultivo, Aspiration, and Chia Network launch the Carbon Opportunity Fund to raise private capital for source, tokenize, and sell high quality carbon credits on-chain. (Project Asteroids)
+  source: https://www.chia.net/2022/08/17/bringing-transparency-and-efficiency-to-carbon-markets.en.html
+
+- title: Chia Bug Bounty
+  date: 2022-09-21
+  description: Chia's bug bounty program, managed via Bugcrowd, is opened to the public.
+  source: https://bugcrowd.com/chia-network-bb
+
+- title: Chia DataLayer Release
+  date: 2022-09-22
+  description: The Chia DataLayer provides a shared data network with no central authority. Nodes in this network can subscribe to data from other nodes and receive updates whenever the data changes. This technology powers the World Bank Climate Warehouse.
+  source: https://www.chia.net/2022/09/20/enabling-data-for-web3-announcing-chia-datalayer/
+
+- title: Prefarm moved to custody wallets
+  date: 2022-10-29
+  description: All 21 million XCH in Chia's prefarm have been moved to four custom-built custody wallets. Chia's custody solution uses a combination of custom hardware and state-of-the-art ChiaLisp to create the most secure wallet in the industry.
+  source: https://www.chia.net/2022/10/29/a-new-home-for-the-prefarm/
+
+- title: CDI Official Formation
+  date: 2022-11-03
+  description: The Circular Drive Initiative announced its official formation, a collaboration between global leaders in digital storage, sustainability, and blockchain seeking to reduce e-waste through secure reuse of storage hardware. 
+  source: https://www.businesswire.com/news/home/20221103005500/en/Circular-Drive-Initiative-Launches-Publishes-Findings-on-Circularity
+
+- title: Data Vault Partnership
+  date: 2022-11-09
+  description: Through the newly announced partnership, the Datavault platform now allows users to mint NFTs on the Chia Blockchain. This addresses two primary concerns from artists&#58; resale royalties and sustainability.
+  source: https://www.prnewswire.com/news-releases/data-vault-holdings-and-chia-network-announce-partnership-platform-integration-301673223.html
+
+
+- title: Chia Establishes Singapore Entity
+  date: 2022-11-09
+  description: The incorporation and launch of Chia Network subsidiary headquartered in Singapore, Chia Network PTE. LTD was announced. The new office will serve as the primary entity for the company's operations in Asia.
+  source: https://www.businesswire.com/news/home/20221109005726/en/Chia-Network-Establishes-Official-Singapore-Entity-and-Begins-Operations
+
+- title: Climate Action Data Trust launch
+  date: 2022-12-07
+  description: IETA and founding partners announce the launch of Climate Action Data Trust built on the Chia blockchain utilizing the Chia DataLayer.
+  source: https://finance.yahoo.com/news/ieta-founding-partners-announce-launch-091400437.html

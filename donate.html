@@ -1,0 +1,31 @@
+---
+layout: page
+title: Donate a Plot
+permalink: /donate/
+
+nav_exclude: true
+---
+
+<h1>Donate Plots to Support Projects</h1>
+
+<style>
+
+</style>
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+
+<script>
+  var workers;
+  $.ajax({
+    type: "GET",
+    url: "https://api.flexpool.io/v2/miner/workers?coin=xch&address=xch1tnt8h39jevyyzvvtld2gyjc3x2vf053zntt57a9hlz8edsmcgpcq2hrakh",
+    success: function(result, status) {
+      workers = result;
+      console.log(workers);
+      $('#workers').html(JSON.stringify(workers));
+    },
+    dataType: "json"
+  });
+</script>
+
+
+<div id="workers"></div>

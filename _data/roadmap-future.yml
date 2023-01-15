@@ -1,0 +1,37 @@
+## format
+# title: title of timeline event
+# date: date of timeline event
+# description: description of event
+# source: link to reference
+
+# - title: Custody Wallet Solutions
+#   date: H2 2022
+#   description: Important on-chain custody solutions for wallets such as multisig, clawbacks, rate-limited wallets, etc. Will be used to secure the pre-farm.
+
+# - title: Enterprise CAT issuance tool
+#   date: H2 2022
+#   description:
+
+# - title: Automated Market Maker
+#   date: H2 2022
+#   description: A traditional DEX to fill and match offers with a liquidity pool.
+
+# - title: DAO Toolkit
+#   date: H2 2022
+#   description: CATs + Data Layer = truly decentralized DAOs
+
+# - title: ASIC Timelords
+#   date: H2 2022
+#   description: Build and sell custom ASIC Timelords to provide the "proof of time" VDF as quickly as possible. Note this is separate from farming and has no reward attached.
+
+# - title: 1-click farming
+#   date: H2 2023
+#   description: Streamline the plotting and farming process to reduce friction for participating in the network.
+
+# - title: Plot compression tool
+#   date: H2 2023
+#   description: Tool to compress plot file size by an additional 1-2%.
+
+- title: Initial Public Offering (IPO)
+  date: Future
+  description: Chia Network is actively working towards becoming a publicly traded company. No further details can be given ahead of time.

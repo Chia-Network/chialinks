@@ -1,0 +1,35 @@
+<div class="lh-tight my-5">
+  <span class="fs-4 fw-500">
+    {% if include.link.referral_url != nil %}
+    <a href="{{ link.referral_url }}">{{ include.link.name }}</a>
+    {% else %}
+    <a href="{{ link.url }}">{{ include.link.name }}</a>
+    {% endif %}
+  </span>
+  {% if include.link.tags contains "verified" %}
+  <img src="/assets/images/verified.png" alt="ChiaLinks Recommended" title="ChiaLinks Recommended" />
+  {% endif %}
+  <br />
+  {% if include.link.description != nil %}
+  <span class="fs-3">
+    {{ include.link.description }}
+    {% if include.link.creator != nil %}
+    ({{ include.link.creator }})
+    {% endif %}
+  </span><br />
+  {% endif %}
+
+  {% if include.link.asset_id != nil %}
+  <span class="fs-3">
+    <code>Asset ID: {{ include.link.asset_id }}</code>
+  </span><br />
+  {% endif %}
+
+  <span class="fs-2">
+    {% if include.link.referral_url != nil %}
+    <a href="{{ link.referral_url }}">{{ include.link.url }}</a>
+    {% else %}
+    <a href="{{ link.url }}">{{ include.link.url }}</a>
+    {% endif %}
+  </span>
+</div>

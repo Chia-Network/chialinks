@@ -1,0 +1,34 @@
+{% comment %}
+Logic flow (if tag has no sections)
+ - Iterate through all sorted links and display (suppressing the tag of the page)
+{% endcomment %}
+
+{% assign links = site.data.links | where_exp: "item", "item.tags contains include.tag" %}
+{% assign sorted_links = links | sort_natural: include.sort %}
+
+<tbody>
+{% for link in sorted_links %}
+  <tr>
+    <td style="text-align: left">
+      {% if link.referral_url != nil %}
+      <a href="{{ link.referral_url }}">{{ link.name }}</a>
+      {% else %}
+      <a href="{{ link.url }}">{{ link.name }}</a>
+      {% endif %}
+      {% if link.tags contains "verified" %}
+      <img src="/assets/images/verified.png" alt="ChiaLinks Recommended" title="ChiaLinks Recommended" />
+      {% endif %}
+    </td>
+    {% if link.description != nil %}
+    <td style="text-align: left">
+      {{ link.description }}
+    </td>
+    {% endif %}
+    <td style="text-align: left">
+    {% if link.pair != nil %}
+      <a href="{{ link.pair_url }}">{{ link.pair }}</a>
+    {% endif %}
+    </td>
+  </tr>
+{% endfor %}
+</tbody>
