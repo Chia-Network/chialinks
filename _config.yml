@@ -29,7 +29,7 @@ twitter_username:
 github_username:
 
 # Build settings
-theme: just-the-docs
+remote-theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
 
