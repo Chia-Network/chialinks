@@ -2065,3 +2065,58 @@
   tags: [dexs]
   description: Upcoming AMM to decentralized staking and liquidity pools to power enable swaps.
   date: 2023-01-13
+
+- name: Wallet Connect video tutorial
+  url: https://www.youtube.com/watch?v=0qv0X3C9KS8
+  tags: [videos, developers]
+  description: A guide to run a simple dapp connecting to the Chia reference wallet via Wallet Connect.
+  date: 2023-01-20
+
+- name: Yahoo! Finance Live interview with Gene Hoffman
+  url: https://finance.yahoo.com/video/crypto-sec-relatively-supportive-plans-161423976.html
+  tags: [videos, discussions]
+  description: Chia Network CEO and President Gene Hoffman joins Yahoo Finance Live to discuss the failures of FTX, why investors should invest in the Chia blockchain, and the outlook for the crypto space.
+  date: 2023-01-24
+
+- name: Bram Cohen AMA with Chia in China
+  url: https://www.youtube.com/watch?v=sbrvOoc2S2Y
+  tags: [discussions, videos]
+  description: Bram Cohen joins the China in China community for an AMA answering questions about custody, data layer, the future plan for Chia and more.
+  date: 2023-01-24
+
+- name: Official Chia Farming Dashboard
+  creator: Chia Decentral
+  url: https://www.youtube.com/watch?v=7NNbmuwf99s
+  tags: [farming, videos]
+  description: A video for folks that are currently farming Chia in Windows and want to switch over to Ubuntu server, for lightweight and low power, headless (no monitor) Chia farming.
+  date: 2023-01-24
+
+- name: Chia Exporter
+  url: https://github.com/Chia-Network/chia-exporter
+  tags: [farming, tools]
+  description: RPC/Websocket based metrics exporter for Chia
+  date: 2023-01-25
+
+- name: Evergreen Mobile Wallet
+  url: https://evergreenminer.com/pages/setup-mobile
+  tags: [wallets]
+  description: Evergreen Mobile allows you to manage your Evergreen Miner, custody coins, and keep track of your operations and earnings.
+  date: 2023-01-25
+
+- name: Evergreen Miner
+  url:  https://www.evergreenminer.com
+  tags: [farming, hardware, verified]
+  description: Plug and Play Farming Hardware with integrated Chia wallet, collectibles, exchange, and more.
+  date: 2023-01-25
+
+- name: XCHDEV - This Week In Chia
+  url: https://xchdev.com/#!weekinchia.md
+  tags: [community]
+  description: Summary of all the happenings in the Chia ecosystem, updated weekly.
+  date: 2023-01-25
+
+- name: nostr-dex (experimental)
+  url: https://nostr-dex.vercel.app/
+  tags: [dexs]
+  description: An experimental trustless dex using the nostr protocol
+  date: 2023-01-25
