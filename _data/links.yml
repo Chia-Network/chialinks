@@ -2120,3 +2120,9 @@
   tags: [dexs]
   description: An experimental trustless dex using the nostr protocol
   date: 2023-01-25
+
+- name: Chia DID Signing Tools
+  url: https://github.com/mikehw/chia-signing-tools
+  tags: [tools, developers]
+  description: chia-signing-tools provides a node SDK for signing and verifying messages and chia-signing-cli gives end users a CLI for the same.
+  date: 2023-02-04
