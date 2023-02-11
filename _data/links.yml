@@ -2126,3 +2126,53 @@
   tags: [tools, developers]
   description: chia-signing-tools provides a node SDK for signing and verifying messages and chia-signing-cli gives end users a CLI for the same.
   date: 2023-02-04
+
+- name: Intro to Chialisp
+  url: https://www.youtube.com/watch?v=W9QK4PFIIpA
+  creator: Chia Network
+  tags: [chialisp, videos, developers, verified]
+  description: In this video, we’ll go over the basics of Chialisp including syntax & structure, inequalities and if statements, and setting up a development environment.
+  date: 2023-02-07
+
+- name: The Plow
+  url: https://github.com/lmacken/plow
+  tags: [tools, plotting]
+  description: A tool to watch for new Chia plots and move to destination drives in parallel (local or network).
+  date: 2023-02-09
+
+- name: Moving thousands of Chia plots per day - Plow
+  url: https://www.youtube.com/watch?v=0xjqQ9paHq0
+  creator: Chia Decentral
+  tags: [videos, plotting]
+  date: 2023-02-09
+
+- name: Using Chia Data Layer as the backend for your application
+  url: https://medium.com/@michaeltaylor3d/using-chia-data-layer-as-the-backend-for-your-application-3f0a72d19b31
+  tags: [guides, developers]
+  description: A dive into various solutions for incorporating Chia Data Layer into the backend of your application, taking an architectural approach.
+  date: 2023-02-09
+
+- name: GPU and CPU Plotters Comparison
+  url: https://gist.github.com/SlowestTimelord/a2aa4fbca49ce5e3cce37786472b3fd7
+  tags: [tools, plotting]
+  description: A summary of the available GPU and CPU plotters and the hardware requirements for each.
+  date: 2023-02-10
+
+- name: Chia Gigahorse Plotter
+  url: https://github.com/madMAx43v3r/chia-gigahorse
+  tags: [tools, plotting]
+  description: madMAx GPU and CPU plotters that can create compressed plots. Also includes a plot sink tool to distribute plots to destination drives.
+  date: 2023-02-10
+
+- name: Does Chia Kill Drives?
+  url: https://doeschiakilldrives.com
+  tags: [energy]
+  description: Answering the question of whether Chia plotting kills drives
+  date: 2023-02-10
+
+- name: How To Farm Chia w/ Madmax Gigahorse and Chia GPU Plotter in Windows - Chia Farming Guides 2023
+  url: https://www.youtube.com/watch?v=QWiX5a1ehCE
+  creator: Digital Spaceport
+  tags: [plotting, videos]
+  description: In this How To guide for the MadMax Gigahorse plotter and farmer I take you step by step to get you setup and GPU, CPU plotting and farming compressed plots.
+  date: 2023-02-10
