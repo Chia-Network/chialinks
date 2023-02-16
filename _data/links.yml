@@ -1293,11 +1293,11 @@
   description: An open marketplace for Chia Offers.
   date: 2022-01-12
 
-# - name: Tsunami Protocol
-#   url: https://tsunami.network/
-#   tags: [dexs]
-#   description: <strong>Currently in alpha testing</strong>. A DEX from the developers of the browser based Goby wallet.
-#   date: 2022-01-12
+- name: Tsunami Protocol
+  url: https://tsunami.network/
+  tags: [dexs]
+  description: <strong>Currently in beta testing</strong>. A DEX from the developers of the browser based Goby wallet that supports filling partial offers.
+  date: 2023-02-16
 
 - name: Chia Offers (Keybase)
   url: https://keybase.io/team/chia_offers
@@ -2176,3 +2176,40 @@
   tags: [plotting, videos]
   description: In this How To guide for the MadMax Gigahorse plotter and farmer I take you step by step to get you setup and GPU, CPU plotting and farming compressed plots.
   date: 2023-02-10
+
+- name: Chia Reference iOS Wallet 
+  url: https://github.com/lmtlss/chia_reference_wallet_ios
+  tags: [tools, developers]
+  description: Reference iOS Chia wallet implementation that is the basis for the Copycat x Lmtlss app.
+  date: 2023-02-16
+
+- name: Pay to DiD Puzzle
+  url: https://github.com/lmtlss/Pay_to_DiD
+  tags: [chialisp]
+  description: Chialisp puzzle that DID can use to receive payments and survive the recovery. It can be used for normal XCH transaction as well as innerpuzzle for NFTs and CATs.
+  date: 2023-02-16
+
+- name: CLVM Tools (Rust)
+  url: https://github.com/Chia-Network/clvm_tools_rs
+  tags: [chialisp]
+  description: Rust implementation of clvm_tools
+  date: 2023-02-16
+
+- name: Chia Gaming
+  url: https://github.com/bramcohen/chia-gaming
+  tags: [chialisp]
+  description: Bram Cohen's work on on-chain gaming with examples of Rock,Paper,Scissors and Poker.
+  date: 2023-02-16
+
+- name: chia-walletconnect
+  url: https://github.com/Open-Market-Dev-Club/chia-walletconnect
+  tags: [tools, developers]
+  description: A Chia specific WalletConnect client derived from the original Chia Wallet Connect DApp Test with all of the bloat cut out and added chia functionality.
+  date: 2023-02-16
+
+- name: Mixch Chia Developer Toolkit
+  url: https://mixch.dev/#/home
+  tags: [tools, developers]
+  description: A web-based collection of cryptography tools and chialisp coin tools used in Chia blockchain.
+  date: 2023-02-16
+  
