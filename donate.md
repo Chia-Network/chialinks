@@ -10,7 +10,7 @@ nav_exclude: true
 This is a verified list of known charities and ecosystem projects along with their published XCH donation addresses. 
 
 You can support these valuable projects in different ways:
-- Send a donation directly to their donation address.
+- Send a donation (XCH, CAT, NFT) directly to their donation address.
 - Set NFT royalties or set up a [split royalty](https://splitxch.com/) with their donation address.
 - Set farming rewards to them or even a separate pool plot NFT with payouts to their donation address.
 
@@ -19,6 +19,7 @@ You can support these valuable projects in different ways:
 | Name | XCH donation address | Explorer Links |
 | --- | --- | --- |
 | [Spacescan](https://www.spacescan.io/support-us) | `xch1a6cd558gqsz2hch5pt0l8mx7zhavf32q5lyde09zjtqcmkelr9ns59k0j8` | &bull; [Spacescan](https://www.spacescan.io/address/xch1a6cd558gqsz2hch5pt0l8mx7zhavf32q5lyde09zjtqcmkelr9ns59k0j8)<br /> &bull; [XCHscan](https://xchscan.com/address/xch1a6cd558gqsz2hch5pt0l8mx7zhavf32q5lyde09zjtqcmkelr9ns59k0j8) |
+| [XCHcentral](https://www.xchcentral.com/) | `xch1dwm59nranz0khzfzmv0j9g4tpwe4fx7ven0ptr9hufs2c0kgesxq8r7mws` | &bull; [Spacescan](https://www.spacescan.io/address/xch1dwm59nranz0khzfzmv0j9g4tpwe4fx7ven0ptr9hufs2c0kgesxq8r7mws)<br /> &bull; [XCHscan](https://xchscan.com/address/xch1dwm59nranz0khzfzmv0j9g4tpwe4fx7ven0ptr9hufs2c0kgesxq8r7mws) |
 
 ## Charities
 
