@@ -26,6 +26,7 @@ You can support these valuable projects in different ways:
 | Name | XCH donation address | Explorer Links |
 | --- | --- | --- |
 | [Marmot Recovery Foundation](https://marmots.org/) | `xch120ywvwahucfptkeuzzdpdz5v0nnarq5vgw94g247jd5vswkn7rls35y2gc` | &bull; [Spacescan](https://www.spacescan.io/address/xch120ywvwahucfptkeuzzdpdz5v0nnarq5vgw94g247jd5vswkn7rls35y2gc)<br /> &bull; [XCHscan](https://xchscan.com/address/xch120ywvwahucfptkeuzzdpdz5v0nnarq5vgw94g247jd5vswkn7rls35y2gc) |
+| [Coin Center](https://www.coincenter.org/) | `xch16s543lyghakauhda67edae9mrr9t856g9pwasegfy2yfkx5p6wesqqkdhg` | &bull; [Spacescan](https://www.spacescan.io/address/xch16s543lyghakauhda67edae9mrr9t856g9pwasegfy2yfkx5p6wesqqkdhg)<br /> &bull; [XCHscan](https://xchscan.com/address/xch16s543lyghakauhda67edae9mrr9t856g9pwasegfy2yfkx5p6wesqqkdhg) |
 
 ### Add a donation address
 [Submit a link](/submit/) or [add an issue on GitHub](https://github.com/Chia-Network/chialinks/issues) to get necessary approvals from the ChiaLinks maintainers.
