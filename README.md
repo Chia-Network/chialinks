@@ -8,6 +8,7 @@ Besides the collection of links, there are a number of resources original to Chi
 - [Chia Ecosystem Map](https://chialinks.com/ecosystem/)
 - Getting started guides for [Chia](https://chialinks.com/get-started/) and [Chia NFTs](https://chialinks.com/get-started-with-chia-nfts/)
 - [Chia CHIP Tracker](https://chialinks.com/chips/)
+- [Donate and Support Ecosystem](https://chialinks.com/donate/)
 - [F.A.Q. from AMAs and transcribed answers](https://chialinks.com/faq/#chia-network-amas)
 - [General F.A.Q. and answers](https://chialinks.com/faq/#faqs)
 - (not part of ChiaLinks) [Chia Dev Tracker](https://dev.chialinks.com/) for open source development activity
