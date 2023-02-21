@@ -1176,7 +1176,7 @@
   description: Matt Hauff walks through the multiple issuance of a Chia Asset Token (CAT).
   date: 2021-11-16
 
-- name: Chia Official Light Wallet
+- name: Chia Reference Light Wallet
   url: https://www.chia.net/download/
   tags: [wallets, verified]
   description: Now part of the full node software, the official Chia wallet uses an Electrum-style protocol to greatly reduce syncing time. Also the first wallet implementation supporting Chia Asset Tokens (CATs).
