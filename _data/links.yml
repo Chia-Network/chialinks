@@ -1466,9 +1466,9 @@
   date: 2022-02-27
 
 - name: Pawket
-  url: https://pawket.app/
+  url: https://info.pawket.app/
   tags: [wallets]
-  description: Pawket is an open-source secure offline wallet. As a browser-based wallet, optimized UX for both desktop and mobile. Easily customize your transfer by custom CATs and fees.
+  description: Pawket is an open-source secure wallet that offers a range of exclusive tools, including the ability to issue custom CATs, scan assets, and provide encryption. It is also the first air-gapped wallet in the Chia ecosystem.
   date: 2022-02-27
 
 - name: Pool Energy
