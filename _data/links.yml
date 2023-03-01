@@ -27,7 +27,7 @@
 
 - name: plotman
   url: https://github.com/ericaltendorf/plotman
-  tags: [plotting, tools, verified]
+  tags: [plotting, tools]
   description: Tool for managing Chia plotting operations.
   date: 2021-03-17
 
@@ -339,7 +339,7 @@
 
 - name: Swar's Chia Plot Manager
   url: https://github.com/swar/Swar-Chia-Plot-Manager
-  tags: [plotting, tools, verified]
+  tags: [plotting, tools]
   description: Cross platform (Python) plotting manager to help keep plots generating.
   date: 2021-04-29
 
@@ -1131,9 +1131,9 @@
   date: 2021-10-26
 
 - name: XCHcentral
-  url: https://www.xchcentral.com/chia-pools
-  tags: [pooling, resources]
-  description: Statistics and monitoring of top pool performance based on real data.
+  url: https://www.xchcentral.com/
+  tags: [community]
+  description: Chia Blockchain - News, Opinions, and Projects
   date: 2021-10-26
 
 - name: The Chia Plot
@@ -2220,3 +2220,66 @@
   tags: [exchanges]
   description: Singapore based exchange.
   date: 2023-03-01
+
+- name: Using Chia Data Layer as the backend for your application
+  url: https://medium.com/@michaeltaylor3d/using-chia-data-layer-as-the-backend-for-your-application-3f0a72d19b31
+  tags: [guides, developers]
+  description: A dive into various solutions for incorporating Chia Data Layer into the backend of your application, taking an architectural approach.
+  date: 2023-02-09
+
+- name: MEGA Chia GPU Farming and Plotting Guide for Linux - Gigahorse Start to Finish - 2023
+  url: https://www.youtube.com/watch?v=oCuAw3iocY8
+  creator: Digital Spaceport
+  tags: [plotting, videos]
+  description:  This guide is for setting up from start to finish a Chia Farm Gigahorse for Linux.
+  date: 2023-03-01
+
+- name: Chia GPU Plotting Build Guide - Workstations. 100TB per day on a single GPU
+  url: https://www.youtube.com/watch?v=fu64fRjxl7s
+  creator: Chia Decentral
+  tags: [videos, plotting]
+  date: 2023-03-01
+
+- name: Chia Help
+  url: https://help.chia.net/hc/en-us
+  tags: [community, featured, verified]
+  description: Official help and FAQ maintained by the Chia Network team.
+  date: 2023-03-01
+
+- name: Smart Coin First Steps in Chialisp
+  url: https://www.youtube.com/watch?v=-Nza_N9Xb3Y
+  creator: Chia Network
+  tags: [chialisp, videos, developers, verified]
+  description: Let’s take our first steps into using Chialisp in a smart coin. In this video we’ll talk about Currying, Hashing, and Conditions, and submit and use our first Chia Smart Coin.
+  date: 2023-03-01
+
+- name: chia-agent
+  url: https://github.com/Chia-Mine/chia-agent/
+  tags: [tools, developers, chialisp]
+  description: Chia RPC/WebSocket client library for NodeJS.
+  date: 2023-03-01
+
+- name: Digital Spaceport AMA Zoom with Chia in China
+  url: https://www.youtube.com/watch?v=L_qfYhRk1hA
+  tags: [discussions, videos]
+  description: Jerod from Digital Spaceport came to the site of HemaDAO Chia in China AMA. We discussed many interesting issues together, including Plot 2.0, GPU Plotting, CHIP, NFTs, wallets and the future development vision of Digital Spaceport.
+  date: 2023-03-01
+
+- name: SpaceScan Tax Statements
+  url: https://www.spacescan.io/statements
+  tags: [farming, tools]
+  description: Calculate your Chia taxes with ease.
+  date: 2023-03-01
+
+- name: Introducing Chia Data Layer as a Service
+  url: https://medium.com/@michaeltaylor3d/introducing-chia-data-layer-as-a-service-19b750be7db4
+  tags: [guides, developers]
+  description: A description of Data Layer as a Service (DLaaS), where anyone with a full-time node can rent out their data layer to application developers in a decentralized manner.
+  date: 2023-03-01
+
+- name: Chia Spatial.io Metaverse Space Hub
+  url: https://www.spatial.io/s/CHIA-Space-Hub-63f2afee9bd24d49df9c25f8?share=3594911270490729142
+  tags: [community]
+  description: CHIA Space Hub is a landing spot for a lot of different community built destinations in the metaverse. Homes, Galleries, Churches, Shrines, Trailer parks... all found in Spatial.
+  date: 2023-03-01
+
