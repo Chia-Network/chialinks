@@ -2282,4 +2282,10 @@
   tags: [community]
   description: CHIA Space Hub is a landing spot for a lot of different community built destinations in the metaverse. Homes, Galleries, Churches, Shrines, Trailer parks... all found in Spatial.
   date: 2023-03-01
+  
+- name: Frodo Wallet
+  url: https://www.frodowallet.com/
+  tags: [wallets]
+  description: Frodo Wallet is an open-source, secure wallet with a focus on amazing usability, high security and an extensive feature set. You can easily mint DID-backed NFTs and create your own tokens. It offers 24-word default security, the highest, rare in mobile wallets.
+  date: 2023-03-06
 
