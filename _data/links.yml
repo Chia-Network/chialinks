@@ -2110,7 +2110,7 @@
   date: 2023-01-25
 
 - name: XCHDEV - This Week In Chia
-  url: https://xchdev.com/#!weekinchia.md
+  url: https://www.thisweekinchia.com
   tags: [community]
   description: Summary of all the happenings in the Chia ecosystem, updated weekly.
   date: 2023-01-25
@@ -2288,4 +2288,34 @@
   tags: [wallets]
   description: Frodo Wallet is an open-source, secure wallet with a focus on amazing usability, high security and an extensive feature set. You can easily mint DID-backed NFTs and create your own tokens. It offers 24-word default security, the highest, rare in mobile wallets.
   date: 2023-03-06
+
+- name: Cypher ChiaLisp Library
+  url: https://github.com/hashgreen/cypher-chialisp
+  tags: [chialisp, developers, tools]
+  description: A ChiaLisp library to develop smart coins on the Chia Blockchain by Hashgreen Labs.
+  date: 2023-03-09
+
+- name: Chia DataPlayer
+  url: https://github.com/cripsisxyz/chia-dataplayer
+  tags: [tools, developers]
+  description: Work with Chia DataLayer in a human way and encrypt any data you want with COSE (CBOR Object Signing and Encryption).
+  date: 2023-03-09
+
+- name: Air-gapped (offline) wallet guide with Pawket
+  url: https://developers.chia.net/t/tutorial-how-to-create-an-air-gapped-offline-wallet-with-pawket-keep-safe/828
+  tags: [guides, developers]
+  description: Step-by-step guide on how to create an air-gapped (offline) wallet using the Pawket mobile wallet.
+  date: 2023-03-09
+
+- name: XCH Balance
+  url: https://xchbalance.com/
+  tags: [tools, farming]
+  description: An online tool for examining balances from multiple chia wallets and addresses. Using public key derivation, your private keys are never exposed.
+  date: 2023-03-09
+
+
+
+
+
+
 
