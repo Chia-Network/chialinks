@@ -2313,7 +2313,11 @@
   description: An online tool for examining balances from multiple chia wallets and addresses. Using public key derivation, your private keys are never exposed.
   date: 2023-03-09
 
-
+- name: Offerpool Polls
+  url: https://polls.offerpool.io/
+  tags: [nfts, tools]
+  description: Create a poll where only owners of an NFT in a collection can vote, or where each DID can only vote once. Votes are published on nostr, and you can use Wallet Connect or the Chia CLI to vote.
+  date: 2023-03-09
 
 
 
