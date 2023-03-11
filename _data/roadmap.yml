@@ -215,3 +215,9 @@
   date: 2023-01-19
   description: In a step towards maintaining momentum towards the stated goal of going public, Bram Cohen transitioned from CEO to Chairman of the Board and CTO while Gene Hoffman transitioned from COO to CEO and President of Chia Network Inc.
   source: https://www.businesswire.com/news/home/20230119005167/en/Chia-Network-Announces-Leadership-Transition-to-Support-Scaling-Growth
+
+
+- title: Chia Blockchain 1.7 released
+  date: 2023-02-15
+  description: A major version update with security fixes and introduces Fee Estimator, NFT search and bulk actions, on-chain Offers notifications, and more.
+  source: https://www.chia.net/2023/02/15/version-1-7-0-release/
