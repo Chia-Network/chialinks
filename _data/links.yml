@@ -2320,7 +2320,7 @@
   description: Automatically track and classify your XCH transactions classification with easy, one-click, approvals. Export a pre-filled 1040 schedule 1 to make filing your taxes infinitely easier.
   date: 2023-03-14
 
-- name: Tibetswap
+- name: TibetSwap
   url: https://github.com/Yakuhito/tibet
   tags: [dexs]
   description: <strong>Coming soon</strong>. TibetSwap v1 is a decentralized AMM modeled after Uniswap v1 that will run on the Chia blockchain.
