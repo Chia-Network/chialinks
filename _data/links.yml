@@ -402,7 +402,7 @@
   url: https://gate.io
   pair: XCH/USDT
   pair_url: https://www.gate.io/trade/XCH_USDT
-  tags: [exchanges, verified]
+  tags: [exchanges]
   description: Cayman Islands based exchange. Not available to US citizens.
   date: 2021-05-03
 
@@ -525,7 +525,7 @@
   url: https://www.coinex.com/
   pair: XCH/USDT
   pair_url: https://www.coinex.com/exchange/xch-usdt
-  tags: [exchanges, verified]
+  tags: [exchanges]
   description: Hong Kong based exchange.
   date: 2021-05-08
 
@@ -628,7 +628,7 @@
   url: https://www.huobi.com/
   pair: XCH/USDT
   pair_url: https://www.huobi.com/en-us/exchange/xch_usdt
-  tags: [exchanges, verified]
+  tags: [exchanges]
   description: Singapore based exchange.
   date: 2021-05-14
 
@@ -699,7 +699,7 @@
 
 - name: Spacefarmers.io
   url: https://spacefarmers.io/
-  tags: [pools, established]
+  tags: [pools, established, verified]
   date: 2021-05-19
 
 - name: machinaris
@@ -740,11 +740,6 @@
   url: https://chia-stats.lorado.dev/upload-log
   tags: [plotting, tools]
   description: Upload plotting logs for analysis and statistics collection.
-  date: 2021-05-22
-
-- name: PoolChia
-  url: https://poolchia.com/
-  tags: [pools, established]
   date: 2021-05-22
 
 - name: Programkom's CHIA Plotter
@@ -1010,7 +1005,7 @@
   tags: [pools, unproven]
   date: 2021-07-23
 
-- name: Open Chia
+- name: OpenChia
   url: https://openchia.io
   description: An open-source pool with notifications, a mobile app for monitoring, and XCH price tracking for payouts.
   tags: [pools, established, verified]
@@ -2034,7 +2029,7 @@
   pair: XCH/USDT
   pair_url: https://www.coinw.com/frontSpot/spottrade?symbol=586
   tags: [exchanges]
-  description: 
+  description: Singapore based exchange.
   date: 2022-12-09
 
 - name: xd nft wizard
@@ -2267,7 +2262,7 @@
 
 - name: SpaceScan Tax Statements
   url: https://www.spacescan.io/statements
-  tags: [farming, tools]
+  tags: [tools, statistics]
   description: Calculate your Chia taxes with ease.
   date: 2023-03-01
 
@@ -2309,7 +2304,7 @@
 
 - name: XCH Balance
   url: https://xchbalance.com/
-  tags: [tools, farming]
+  tags: [tools, statistics]
   description: An online tool for examining balances from multiple chia wallets and addresses. Using public key derivation, your private keys are never exposed.
   date: 2023-03-09
 
@@ -2319,7 +2314,27 @@
   description: Create a poll where only owners of an NFT in a collection can vote, or where each DID can only vote once. Votes are published on nostr, and you can use Wallet Connect or the Chia CLI to vote.
   date: 2023-03-09
 
+- name: ChiaTracker
+  url: https://chiatracker.com/
+  tags: [tools, statisticcs]
+  description: Automatically track and classify your XCH transactions classification with easy, one-click, approvals. Export a pre-filled 1040 schedule 1 to make filing your taxes infinitely easier.
+  date: 2023-03-14
 
+- name: TibetSwap
+  url: https://github.com/Yakuhito/tibet
+  tags: [dexs]
+  description: <strong>Coming soon</strong>. TibetSwap v1 is a decentralized AMM modeled after Uniswap v1 that will run on the Chia blockchain.
+  date: 2023-03-14
 
+- name: Chia XCH Wallet Dealer
+  url: https://github.com/cripsisxyz/chia-wallet-rpc-xch-dealer
+  tags: [tools, developers]
+  description: Fractionate and send XCH of a chia wallet to multiple wallets destinations using partitions rules.
+  date: 2023-03-14
 
+- name: Seedener HSM
+  url: https://github.com/MaximEdogawa/seedener
+  tags: [tools, developers]
+  description: Raspberry Pi HSM (Hardware Security Module) for Chia blockchain custody solution to generate keys and air-gapped sign spend bundles.
+  date: 2023-03-14
 
