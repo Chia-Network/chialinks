@@ -2005,6 +2005,7 @@
 
 - name: The Chia Paradigm&#58; Speaking With Gene Hoffman&#58; COO Of The Chia Network
   url: https://www.youtube.com/watch?v=rz5C-bMFGMQ
+  creator: Corey Costa
   tags: [discussions, videos]
   description: Corey Costa interviews Gene Hoffman to discuss his background as a serial entrepreneur and how he got involved with Chia.
   date: 2022-11-09
@@ -2338,3 +2339,39 @@
   description: Raspberry Pi HSM (Hardware Security Module) for Chia blockchain custody solution to generate keys and air-gapped sign spend bundles.
   date: 2023-03-14
 
+- name: A Primer on Chia DataLayer
+  url: https://medium.com/@fizpawiz/a-primer-on-chia-datalayer-e4a4796c390e
+  tags: [tools, developers]
+  date: 2023-03-14
+
+- name: Farming compressed plots with the Chia client
+  url: https://www.youtube.com/watch?v=Uq0RMTY5Jvc
+  creator: Chia Decentral
+  tags: [videos, farming]
+  date: 2023-03-16
+
+- name: Bladebit Simulate for Chia Farming - CPU overhead for compressed plots
+  url: https://www.youtube.com/watch?v=cZfptl66TLE
+  creator: Chia Decentral
+  tags: [videos, farming]
+  date: 2023-03-22
+
+- name: Mojonode - Blockchain SQL Explorer
+  url: https://mojonode.com/
+  tags: [tools, statistics]
+  description: Query Chia blockchain state with SQL. Coins, coin spends, puzzles and transactions!
+  date: 2023-03-24
+
+- name: The Cypherpunk Ethos&#58; Speaking With Bram Cohen&#58; Creator Of Chia And BitTorrent
+  url: https://www.youtube.com/watch?v=NuiUfgXUuaw
+  creator: Corey Costa
+  tags: [discussions, videos]
+  description: Corey Costa interviews Bram Cohen to discuss his background as a cypherpunk and how Chia embodies that ethos.
+  date: 2023-03-20
+
+- name: Regulatory Compliance Structures&#58; Discussing Chia With Gene Hoffman
+  url: https://www.youtube.com/watch?v=HEPM5WOKiQM
+  creator: Corey Costa
+  tags: [discussions, videos]
+  description: Corey Costa interviews Bram Cohen to discuss his background as a cypherpunk and how Chia embodies that ethos.
+  date: 2023-03-20
