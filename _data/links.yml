@@ -2374,4 +2374,18 @@
   creator: Corey Costa
   tags: [discussions, videos]
   description: Corey Costa interviews Bram Cohen to discuss his background as a cypherpunk and how Chia embodies that ethos.
-  date: 2023-03-20
+  date: 2023-03-23
+  
+- name: Signatures in Chialisp
+  url: https://www.youtube.com/watch?v=zD1rhLKgc9Y
+  creator: Chia Network
+  tags: [chialisp, videos, developers, verified]
+  description: In this video, we discuss a better way to secure our coins - Signatures.
+  date: 2023-03-29
+
+- name: XCH.farm
+  url: https://xch.farm
+  tags: [farming, plotting, tools, guides, verified]
+  description: Learn about Chia farming's core concepts, read step-by-step guides on setting up your Chia farm, and discover valuable tools and strategies for optimizing your farming experience.
+  date: 2023-04-03
+  
