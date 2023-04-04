@@ -2383,6 +2383,12 @@
   description: In this video, we discuss a better way to secure our coins - Signatures.
   date: 2023-03-29
 
+- name: Chia Plot Compression Guide
+  url: https://chia-compression.netlify.app/
+  tags: [plotting, tools]
+  description: Find out how many plots of each compresison level fit in a given drive capacity.
+  date: 2023-04-03
+
 - name: XCH.farm
   url: https://xch.farm
   tags: [farming, plotting, tools, guides, verified]
