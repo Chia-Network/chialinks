@@ -226,3 +226,8 @@
   date: 2023-03-19
   description: Chia begins sharing quarterly checkpoints of the growing blockchain database file via BitTorrent. This provides a faster option for new farmers to initially synchronize their full node.
   source: https://www.chia.net/2023/03/19/introducing-chia-blockchain-database-bittorent-checkpoints/
+
+- title: Clawback Primitive
+  date: 2023-03-30
+  description: The clawback primitive is released as a command-line tool supporting XCH and TXCH in this first iteration geared for developers. The primitive is designed to guard against sending Chia assets to an incorrect address.
+  source: https://docs.chia.net/guides/clawback-primitive-guide/
