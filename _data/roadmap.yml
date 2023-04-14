@@ -231,3 +231,8 @@
   date: 2023-03-30
   description: The clawback primitive is released as a command-line tool supporting XCH and TXCH in this first iteration geared for developers. The primitive is designed to guard against sending Chia assets to an incorrect address.
   source: https://docs.chia.net/guides/clawback-primitive-guide/
+
+- title: Draft Registration for Proposed IPO
+  date: 2023-04-14
+  description: Chia Network, Inc. announced that it has confidentially submitted a draft registration statement on Form S-1 to the U.S. SEC relating to the proposed initial public offering of its common stock.
+  source: https://www.businesswire.com/news/home/20230413005830/en/
