@@ -2395,3 +2395,15 @@
   description: Learn about Chia farming's core concepts, read step-by-step guides on setting up your Chia farm, and discover valuable tools and strategies for optimizing your farming experience.
   date: 2023-04-03
   
+- name: Inner Puzzles in Chialisp
+  url: https://www.youtube.com/watch?v=GAw1yMmkO3g
+  creator: Chia Network
+  tags: [chialisp, videos, developers, verified]
+  description: In this video, we’ll talk about why you might want to nest puzzles and how to set them up.
+  date: 2023-04-10
+
+- name: Chia GPU plotting - Skylake workstation build with HP Z6 G4 in Windows
+  url: https://www.youtube.com/watch?v=uyluhQGlmAY
+  creator: Chia Decentral
+  tags: [videos, plotting]
+  date: 2023-04-11
