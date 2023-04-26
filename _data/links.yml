@@ -2322,9 +2322,9 @@
   date: 2023-03-14
 
 - name: TibetSwap
-  url: https://github.com/Yakuhito/tibet
+  url: https://v1.tibetswap.io
   tags: [dexs]
-  description: <strong>Coming soon</strong>. TibetSwap v1 is a decentralized AMM modeled after Uniswap v1 that will run on the Chia blockchain.
+  description: TibetSwap v1 is a decentralized AMM modeled after Uniswap v1 that will run on the Chia blockchain.
   date: 2023-03-14
 
 - name: Chia XCH Wallet Dealer
@@ -2407,3 +2407,35 @@
   creator: Chia Decentral
   tags: [videos, plotting]
   date: 2023-04-11
+
+- name: Mint your first NFT on Chia Blockchain with MintGarden
+  url: https://www.youtube.com/watch?v=iVi3StgPhJ4
+  creator: Block Cultivator
+  tags: [guides, videos, nfts]
+  date: 2023-04-17
+
+- name: Intro to Farming
+  url: https://www.youtube.com/watch?v=W9v7A8UJk9Q
+  creator: Chia Network
+  tags: [videos, farming, verified]
+  description: This video will walk you through the basics of farming and how to sync using a certified torrent file to speed up the process.
+  date: 2023-04-19
+
+- name: Chia-Py-RPC
+  url: https://github.com/L4bb3rs/Chia-Py-RPC
+  tags: [tools, developers]
+  description: Chia-Py-RPC is a Python library for interacting with the Chia blockchain and managing Chia assets.
+  date: 2023-04-23
+
+- name: Simple Chia
+  url: https://simplechia.co/
+  tags: [tools, statistics]
+  description: Simple Chia is a basic blockchain explorer.
+  date: 2023-04-25
+
+- name: Power Consumption of Single Drives vs RAID Array in Chia Farming
+  url: https://www.youtube.com/watch?v=X4Gv839Long
+  creator: Home SysAdmin
+  tags: [videos, farming, energy]
+  description: Does farming Chia on a RAID0 array consume more power than farming on individual drives? Logic suggests it does, but exactly how much more and what's the power cost? Let's find out.
+  date: 2023-04-25
