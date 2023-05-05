@@ -236,3 +236,23 @@
   date: 2023-04-14
   description: Chia Network, Inc. announced that it has confidentially submitted a draft registration statement on Form S-1 to the U.S. SEC relating to the proposed initial public offering of its common stock.
   source: https://www.businesswire.com/news/home/20230413005830/en/
+
+- title: SpaceKnow Collaboration
+  date: 2023-04-27
+  description: Chia Network, Inc. and SpaceKnow announced a collaboration to unlock actionable intelligence and data from space for the benefit of sustainability efforts, beginning with the AgroTech industry using Chia DataLayer.
+  source: https://www.businesswire.com/news/home/20230427005194/en/Chia-Network-and-SpaceKnow-Collaborate-to-Secure-Spatial-Data-and-Analytics-for-AgroTech-Industry
+
+- title: Chia moves to Discord
+  date: 2023-05-03
+  description: Chia moves its official communication channel from Keybase to Discord.
+  source: https://www.chia.net/2023/05/03/were-moving-to-discord-part-2/
+
+- title: Chia Open Digital Economy (CODE)
+  date: 2023-05-04
+  description: Chia Network, Inc. announced the launch of its Chia Open Digital Economy ("CODE") framework with initial efforts focused on supporting the video game industry in its path to a more open metaverse.
+  source: https://www.businesswire.com/news/home/20230413005830/en/
+
+- title: ChiaTCG Web3 Proof-of-Concept Game
+  date: 2023-05-04
+  description: The Chia Trading Card Game (ChiaTCG) is an open-source, proof-of-concept Web3 game that serves as a reference product to support adoption among game developers and jumpstart their journey using Chia technology within the CODE framework.
+  source: https://www.chia.net/tcg/
