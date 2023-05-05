@@ -2415,3 +2415,10 @@
   tags: [discussions, videos]
   description: Julian Torres interviews Gene Hoffman on Behind Company Lines.
   date: 2023-05-03
+
+- name: ChiaTCG
+  url: https://chiatcg.com
+  tags: [nfts, projects, verified]
+  description: The Chia Trading Card Game (ChiaTCG) is an open-source, proof-of-concept Web3 game. Play with any Chia NFT!
+  date: 2023-05-04
+  
