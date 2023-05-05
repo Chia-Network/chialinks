@@ -2415,7 +2415,7 @@
   description: Chia-Py-RPC is a Python library for interacting with the Chia blockchain and managing Chia assets.
   date: 2023-04-23
 
-  - name: Simple Chia
+- name: Simple Chia
   url: https://simplechia.co/
   tags: [tools, statistics]
   description: Simple Chia is a basic blockchain explorer.
