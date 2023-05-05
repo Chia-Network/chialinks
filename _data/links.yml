@@ -89,12 +89,6 @@
   description: The official Chia subreddit
   date: 2021-04-12
 
-- name: Official Keybase group for chat and support
-  url: https://keybase.io/team/chia_network.public
-  tags: [community, featured, verified]
-  description: The official destination to engage with the Chia team and community. Please ask questions in &#35;beginner or &#35;support.
-  date: 2021-04-18
-
 - name: NUC Small Form Factor Chia Plotting Build
   creator: Chia Decentral
   url: https://chiadecentral.com/nuc-small-form-factor-plotting-build/
@@ -1294,12 +1288,6 @@
   description: <strong>Currently in beta testing</strong>. A DEX from the developers of the browser based Goby wallet that supports filling partial offers.
   date: 2023-02-16
 
-- name: Chia Offers (Keybase)
-  url: https://keybase.io/team/chia_offers
-  description: A Keybase chat group that is a dedicated space to posting and trading XCH offer files with each other.
-  tags: [community, verified]
-  date: 2022-01-12
-
 - name: Chia Coin Land
   url: https://chiacoinland.com/
   tags: [community]
@@ -2322,9 +2310,9 @@
   date: 2023-03-14
 
 - name: TibetSwap
-  url: https://v1.tibetswap.io
+  url: https://github.com/Yakuhito/tibet
   tags: [dexs]
-  description: TibetSwap v1 is a decentralized AMM modeled after Uniswap v1 that will run on the Chia blockchain.
+  description: <strong>Coming soon</strong>. TibetSwap v1 is a decentralized AMM modeled after Uniswap v1 that will run on the Chia blockchain.
   date: 2023-03-14
 
 - name: Chia XCH Wallet Dealer
@@ -2373,7 +2361,7 @@
   url: https://www.youtube.com/watch?v=HEPM5WOKiQM
   creator: Corey Costa
   tags: [discussions, videos]
-  description: Corey Costa interviews Bram Cohen to discuss his background as a cypherpunk and how Chia embodies that ethos.
+  description: Corey Costa interviews Gene Hoffman to discuss the recent events and news surrounding regulatory compliance in cryptocurrency and how Chia is positioning in this new atmosphere of compliance structures thereof!
   date: 2023-03-23
   
 - name: Signatures in Chialisp
@@ -2408,34 +2396,22 @@
   tags: [videos, plotting]
   date: 2023-04-11
 
-- name: Mint your first NFT on Chia Blockchain with MintGarden
-  url: https://www.youtube.com/watch?v=iVi3StgPhJ4
-  creator: Block Cultivator
-  tags: [guides, videos, nfts]
-  date: 2023-04-17
+- name: The Chia IPO Paradigm&#58; With Chia CEO Gene Hoffman
+  url: https://www.youtube.com/watch?v=5cInEI3sbVw
+  creator: Corey Costa
+  tags: [discussions, videos]
+  description: Corey Costa interviews Gene Hoffman to discuss the intricacies of regulatory compliance, the Chia IPO and new partnerships in the Chia ecosystem!
+  date: 2023-05-02
 
-- name: Intro to Farming
-  url: https://www.youtube.com/watch?v=W9v7A8UJk9Q
-  creator: Chia Network
-  tags: [videos, farming, verified]
-  description: This video will walk you through the basics of farming and how to sync using a certified torrent file to speed up the process.
-  date: 2023-04-19
+- name: Official Discord server for chat and support
+  url: https://discord.gg/chia
+  tags: [community, featured, verified]
+  description: The official destination to engage with the Chia team and community.
+  date: 2023-05-03
 
-- name: Chia-Py-RPC
-  url: https://github.com/L4bb3rs/Chia-Py-RPC
-  tags: [tools, developers]
-  description: Chia-Py-RPC is a Python library for interacting with the Chia blockchain and managing Chia assets.
-  date: 2023-04-23
-
-- name: Simple Chia
-  url: https://simplechia.co/
-  tags: [tools, statistics]
-  description: Simple Chia is a basic blockchain explorer.
-  date: 2023-04-25
-
-- name: Power Consumption of Single Drives vs RAID Array in Chia Farming
-  url: https://www.youtube.com/watch?v=X4Gv839Long
-  creator: Home SysAdmin
-  tags: [videos, farming, energy]
-  description: Does farming Chia on a RAID0 array consume more power than farming on individual drives? Logic suggests it does, but exactly how much more and what's the power cost? Let's find out.
-  date: 2023-04-25
+- name: Behind Company Lines interview with Gene Hoffman
+  url: https://www.youtube.com/watch?v=e-zdErf-PaA
+  creator: HireOtter
+  tags: [discussions, videos]
+  description: Julian Torres interviews Gene Hoffman on Behind Company Lines.
+  date: 2023-05-03
