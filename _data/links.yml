@@ -2028,7 +2028,7 @@
   date: 2022-12-20
 
 - name: Green Wallet
-  url: https://play.google.com/store/apps/details?id=extralogic.wallet.greenapp&pli=1
+  url: https://play.google.com/store/apps/details?id=com.green.wallet
   tags: [wallets]
   description: Green Wallet is an open source non-custodial wallet from the Green App Development.
   date: 2022-12-20
@@ -2453,4 +2453,9 @@
   tags: [nfts, projects, verified]
   description: The Chia Trading Card Game (ChiaTCG) is an open-source, proof-of-concept Web3 game. Play with any Chia NFT!
   date: 2023-05-04
-  
+
+- name: Chia CMO Richard Tsao interview with Chia in China
+  url: https://www.youtube.com/watch?v=Nnfu3b2docw
+  tags: [discussions, videos]
+  description: Richard Tsao joins the Chia in China community to discuss the CODE framework for the metaverse, and ChiaTCG.
+  date: 2023-05-07
