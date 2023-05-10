@@ -23,6 +23,8 @@ In particular, note some characters (such as `:`) in YAML `.yml` files will brea
 ### Removed
 - *Description here*
 
+## Other updates
+- *Description here*
 
 ## Reviewers/Approvers
 - @SlowestTimelord
