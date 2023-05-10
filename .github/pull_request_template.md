@@ -30,6 +30,6 @@ In particular, note some characters (such as `:`) in YAML `.yml` files will brea
 - @SlowestTimelord
 - @cmmarslender
 - @sargonas
-- @roybotbotd
+- @roybotbot
 
 Note that updates to the `donate.md` page will specifically require approval from @sargonas or @cmmarslender.
