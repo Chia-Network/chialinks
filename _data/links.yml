@@ -665,7 +665,9 @@
 - name: Crypto.com
   url: https://www.crypto.com
   tags: [exchanges, verified]
-  description: US based exchange. XCH currently cannot be deposited or withdrawn to an external wallet.
+  description: Both the Exchange and App support XCH deposits and withdrawals. Not available in all countries or states.
+  pair: XCH/USD
+  pair_url: https://crypto.com/exchange/trade/XCH_USD
   date: 2021-05-15
 
 - name: Buy Chia Plots
