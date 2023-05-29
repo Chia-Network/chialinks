@@ -144,11 +144,11 @@
   description: Step-by-step walkthrough of setting up the Chia software on Ubuntu
   date: 2021-04-05
 
-- name: ChiaForum
-  url: https://chiaforum.com/
-  tags: [community]
-  description: Discourse forum for discussing Chia in a more traditional message board format.
-  date: 2021-04-21
+# - name: ChiaForum
+#   url: https://chiaforum.com/
+#   tags: [community]
+#   description: Discourse forum for discussing Chia in a more traditional message board format.
+#   date: 2021-04-21
 
 - name: Best Consumer M.2 NVMe SSDs for Plotting
   creator: Chia Decentral
@@ -1366,11 +1366,6 @@
   description: Chia and Clovyr give a tour and demo of the Clovyr Chialisp developer tools.
   date: 2021-02-05
 
-- name: GG Pool
-  url: https://ggpool.org/
-  tags: [pools, growing]
-  date: 2022-02-05
-
 - name: Chia Faucet MoJo-JoJo
   url: https://faucet.directorylib.com/
   tags: [faucets]
@@ -1653,11 +1648,11 @@
   description: Beacon coin is a Chia singleton coin that can store data on-chain.
   date: 2022-05-01
 
-- name: Chia Dev Tracker
-  url: https://dev.chialinks.com
+- name: XCH.builders
+  url: https://xch.builders
   tags: [verified, tools, statistics]
   description: Dashboard monitoring open source development in the Chia ecosystem.
-  date: 2022-05-01
+  date: 2023-05-29
 
 - name: Keyword Crypto - Jon of ChiaLinks
   url: https://www.keywordcrypto.com/jon-of-chialinks/
@@ -2473,4 +2468,16 @@
   tags: [nfts, tools]
   description: Scan your wallets to create a list of NFTs with their ChiaTCG attributes.
   date: 2023-05-18
+
+- name: Bram Choen Chia CLVM Talk @ Google
+  url: https://www.youtube.com/watch?v=5HfHoRCSrKY
+  tags: [chialisp, videos, developers]
+  description: Chia Founder, Bram Cohen, presents on the Chialisp coin set model as part of a Google CLVM talk.
+  date: 2023-05-23
+
+- name: XCH.trade
+  url: https://xch.trade
+  tags: [cats, resources, tools]
+  description: A aggregator of CAT prices and trade history across DEXs.
+  date: 2023-05-29
 
