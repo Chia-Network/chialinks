@@ -1203,20 +1203,6 @@
   description: Goby is a browser based wallet similar to Metamask. It supports CATs and the backend is open-source.
   date: 2022-01-03
 
-- name: CryptoShibe Gold (CSH)
-  url: https://cryptoshibe.com/
-  tags: [cats, meme tokens]
-  description: CryptoShibe is an early entrant into the Chia ecosystem of asset tokens. Crypto Shibe Gold is the foundational token with a circulating supply of one billion tokens.
-  asset_id: a2cadb541cb01c67c3bcddc73ecf33c8ffa37b0d013688904b2747cede020477
-  date: 2022-01-06
-
-- name: CryptoShibe Platinum (CSHP)
-  url: https://cryptoshibe.com/
-  tags: [cats, meme tokens]
-  description: CryptoShibe is an early entrant into the Chia ecosystem of asset tokens. Crypto Shibe Platinum has a smaller supply than CryptoShibe Gold.
-  asset_id: a2cadb541cb01c67c3bcddc73ecf33c8ffa37b0d013688904b2747cede020477
-  date: 2022-01-06
-
 - name: chiaswap
   url: https://github.com/richardkiss/chiaswap
   tags: [developers, chialisp]
@@ -1254,20 +1240,6 @@
   description: ChiaTimeline is a record of key events and dates for Chia in one place.
   date: 2022-01-11
 
-- name: The Chia Plot Master Token (TCPM)
-  url: https://thechiaplot.net/2022/01/11/i-made-a-chia-asset-token-using-the-chives-tools/
-  tags: [cats, meme tokens]
-  description: A token created by The Chia Plot to represent ownership of the popular Chia news website.
-  asset_id: ead63a603a0d72dcd5e1bfb1ca4fd485fe063d7f590ff31757b14e1af79a7ceb
-  date: 2022-01-11
-
-- name: Space Marmots Premium (SM1)
-  url: https://spacemarmots.io/
-  tags: [cats, meme tokens]
-  description: Upcoming NFT drop.
-  asset_id: f5f0770713ebdd6e132410b3406f85c7cd49d690080a3277e00c24d7a91a5af0
-  date: 2022-01-11
-
 - name: Hashgreen DEX
   url: https://dex.hash.green/
   pair: XCH/USDS
@@ -1301,13 +1273,6 @@
   tags: [cats, stablecoins]
   description: Chia's first stablecoin backed 1-to-1 with US Dollars. Issued by Stably.
   asset_id: 6d95dae356e32a71db5ddcb42224754a02524c615c5fc35f568c2af04774e589
-  date: 2022-01-14
-
-- name: Catkchi (CTK)
-  url: https://catkchi.com/
-  tags: [cats, platform tokens]
-  description: A token for Chia.tk future ecosystem of decentralized applications.
-  asset_id: f648e8a00b4282ba0642bd413ea50bc216d7ba0110dde58c4b2ab0c9d1e778a5
   date: 2022-01-14
 
 - name: Golden Chia (GCH)
@@ -1461,13 +1426,6 @@
   tags: [community]
   description: Directory of services and merchants accepting XCH as payment.
   date: 2022-03-24
-
-- name: The 300 (SPTN)
-  url: https://www.the300.net
-  tags: [cats, meme tokens]
-  description: The 300 is a community token with holders of 1 SPTN able to claim regular drops via the discord server. Only 300 tokens will ever exist, with token holders able to exchange for 1 of 300 limited NFTs.
-  asset_id: e95f21b33f465fd4da1eebc49e44591be7ded79788e4ef0473b943ffc550f66f
-  date: 2022-03-25
 
 - name: chiaswap
   url: https://github.com/richardkiss/chiaswap
@@ -2481,3 +2439,20 @@
   description: A aggregator of CAT prices and trade history across DEXs.
   date: 2023-05-29
 
+- name: P2P Securities
+  url: https://p2psecurities.io
+  tags: [cats, tools]
+  description: Securities and real-world asset tokenization platform
+  date: 2023-06-16
+
+- name: Mintr
+  url: https://mintr.nftr.pro/
+  tags: [nfts, tools]
+  description: Minting tool from NFTr
+  date: 2023-06-16
+
+- name: Rust Library for Chia Blockchain
+  url: https://github.com/GalactechsLLC/dg_xch_utils
+  tags: [developers, tools]
+  description:  A collection of packages for working with the Chia Blockchain using Rust
+  date: 2023-06-16
