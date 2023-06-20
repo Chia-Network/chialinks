@@ -2456,3 +2456,9 @@
   tags: [developers, tools]
   description:  A collection of packages for working with the Chia Blockchain using Rust
   date: 2023-06-16
+
+- name: Kiwi Memorial NFT Faucet
+  url: http://kiwifaucet.site
+  tags: [nfts]
+  description:  A faucet site for receiving a free Kiwi Memorial NFT
+  date: 2023-06-20
