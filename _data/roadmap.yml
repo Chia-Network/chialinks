@@ -256,3 +256,13 @@
   date: 2023-05-04
   description: The Chia Trading Card Game (ChiaTCG) is an open-source, proof-of-concept Web3 game that serves as a reference product to support adoption among game developers and jumpstart their journey using Chia technology within the CODE framework.
   source: https://www.chia.net/tcg/
+
+- title: Public Verifiable Carbon Offset
+  date: 2023-06-27
+  description: Announcement of the first publicly verifiable carbon offset transactions and retirement using Chia and CADTrust, which took place on April 28, 2023.
+  source: https://www.businesswire.com/news/home/20230628724840/en/
+
+- title: Chia Blockchain 1.8.2 released
+  date: 2023-06-28
+  description: A version update that introduces transaction level claw backs, the Verifiable Credentials (VC) primitive, WalletConnect DApp notifications, and identical spend aggregation.
+  source: https://www.chia.net/2023/06/28/version-1-8-2-release/
