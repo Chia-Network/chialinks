@@ -337,14 +337,9 @@
   description: Cross platform (Python) plotting manager to help keep plots generating.
   date: 2021-04-29
 
-- name: Outsmartin Technology
-  url: https://outsmartin.com/projects/cryptocurrency-chia/
-  tags: [services]
-  date: 2021-04-29
-
 - name: Midwest Plotting Services
   url: https://midwestplotting.carrd.co/
-  tags: [services]
+  tags: [plotting,plotting services]
   date: 2021-04-29
 
 - name: Chia Blockchain
@@ -543,7 +538,7 @@
 
 - name: QuikPlots
   url: https://quikplot.j0e.ca/
-  tags: [services]
+  tags: [plotting,plotting services]
   date: 2021-05-10
 
 - name: Chia Plotting Calculator
@@ -583,11 +578,6 @@
 - name: chiahub.io
   url: https://chiahub.io/
   tags: [pools, services, growing]
-  date: 2021-05-12
-
-- name: GreenPool
-  url: https://greenpool.io
-  tags: [pools, unproven]
   date: 2021-05-12
 
 - name: letsfarm.io
@@ -642,13 +632,13 @@
   description: Australia based exchange.
   date: 2021-05-14
 
-- name: Hoo
-  url: https://www.hoo.com/
-  pair: XCH/USDT
-  pair_url: https://hoo.com/innovation/hxch-usdt
-  tags: [exchanges]
-  description: Hong Kong based exchange.
-  date: 2021-05-14
+# - name: Hoo
+#   url: https://www.hoo.com/
+#   pair: XCH/USDT
+#   pair_url: https://hoo.com/innovation/hxch-usdt
+#   tags: [exchanges]
+#   description: Hong Kong based exchange.
+#   date: 2021-05-14
 
 - name: How to install Chia and Ubuntu Linux for Chia farming
   url: https://www.youtube.com/watch?v=Y1uF58HP5Kg
@@ -669,11 +659,6 @@
   pair: XCH/USD
   pair_url: https://crypto.com/exchange/trade/XCH_USD
   date: 2021-05-15
-
-- name: Buy Chia Plots
-  url: https://chia-plots-sale.com
-  tags: [services]
-  date: 2021-05-17
 
 - name: Chia Plot Graph
   url: https://github.com/stolk/chiaplotgraph
@@ -723,7 +708,7 @@
 
 - name: Chia Novia
   url: https://chianovia.com
-  tags: [services]
+  tags: [plotting,plotting services]
   date: 2021-05-20
 
 - name: Chia Telegram Bot
@@ -764,7 +749,7 @@
 
 - name: GoPlot
   url: https://www.goplot.it/
-  tags: [services]
+  tags: [plotting,plotting services]
   date: 2021-05-23
 
 - name: XCHscan
@@ -775,12 +760,12 @@
 
 - name: Chia Plots Market
   url: https://www.chia-plots-market.com/
-  tags: [services]
+  tags: [plotting,plotting services]
   date: 2021-05-24
 
 - name: Plotting cloud
   url: https://plotting.cloud/
-  tags: [services]
+  tags: [plotting,plotting services]
   date: 2021-05-25
 
 - name: Lbank
@@ -796,11 +781,6 @@
   tags: [tools, statistics]
   description: Show your XCH balance in the MacOS menu bar.
   date: 2021-05-27
-
-- name: MyChiaPool.io
-  url: https://mychiapool.io/
-  tags: [pools, unproven]
-  date: 2021-05-29
 
 - name: Chia Log Analyzer
   url: https://github.com/kubec/chia-log-analyzer
@@ -840,7 +820,7 @@
 
 - name: PepperPlots
   url: https://www.chiapepper.net
-  tags: [services]
+  tags: [plotting,plotting services]
   date: 2021-06-03
 
 - name: Chia Coloured Coins - A non-technical user guide
@@ -865,11 +845,6 @@
   url: https://www.youtube.com/watch?v=zAG9KeMTZw8
   tags: [videos, chialisp, developers]
   description: Matt Howard explains the purpose and implementation of decentralized identity with ChiaLisp at the Champaign Blockchain Meetup.
-  date: 2021-06-05
-
-- name: Chia Appliance
-  url: https://chiaappliance.com/
-  tags: [services]
   date: 2021-06-05
 
 - name: Chia Plot Planner
@@ -915,7 +890,7 @@
 
 - name: ChiaPlot.ru
   url: https://chiaplot.ru/en
-  tags: [services]
+  tags: [plotting,plotting services]
   date: 2021-06-21
 
 - name: MadMax's Chia Plotter Manager
@@ -936,11 +911,6 @@
   description: Hot Plotter allows you to remotely start chia plots utilizing MadMax, or the official Chia plotting tool. Supports Windows or Linux.
   date: 2021-06-30
 
-- name: 1Plot.io
-  url: https://1plot.io/
-  tags: [services]
-  date: 2021-07-06
-
 - name: The Chia Pool Directory
   url: https://chiapool.directory/
   tags: [pools, resources, verified]
@@ -949,7 +919,7 @@
 
 - name: Bamboo Plots
   url: https://bambooplots.com/
-  tags: [services]
+  tags: [plotting,plotting services]
   date: 2021-07-09
 
 - name: Find Chia
@@ -973,11 +943,6 @@
   tags: [plotting, tools]
   description: A simple script that can watch a list of directories and does some action when a specific kind of change happens. Can be used to replace old plots with portable plots one at a time.
   date: 2021-07-10
-
-- name: AOT Chia Plotting
-  url: https://www.chiaplotting.digital/
-  tags: [services]
-  date: 2021-07-13
 
 - name: Graph Chia
   url: https://www.graphchia.com
@@ -1043,12 +1008,6 @@
   url: https://github.com/dkackman/chia-dotnet
   tags: [tools, developers]
   description: A cross-platform dotnet5 client library for chia RPC.
-  date: 2021-08-26
-
-- name: Nucle
-  url: https://nucle.io/
-  tags: [wallets]
-  description: Nucle is an open-source and decentralized Chia web wallet that does not require syncing a full node. It is also the first SPV type wallet for Chia.
   date: 2021-08-26
 
 - name: TeePool
@@ -2142,7 +2101,7 @@
 
 - name: chia-walletconnect
   url: https://github.com/Open-Market-Dev-Club/chia-walletconnect
-  tags: [tools, developers]
+  tags: [tools, developers, walletconnect]
   description: A Chia specific WalletConnect client derived from the original Chia Wallet Connect DApp Test with all of the bloat cut out and added chia functionality.
   date: 2023-02-16
 
@@ -2236,7 +2195,7 @@
 
 - name: Chia DataPlayer
   url: https://github.com/cripsisxyz/chia-dataplayer
-  tags: [tools, developers]
+  tags: [tools, developers, datalayer]
   description: Work with Chia DataLayer in a human way and encrypt any data you want with COSE (CBOR Object Signing and Encryption).
   date: 2023-03-09
 
@@ -2284,7 +2243,7 @@
 
 - name: A Primer on Chia DataLayer
   url: https://medium.com/@fizpawiz/a-primer-on-chia-datalayer-e4a4796c390e
-  tags: [tools, developers]
+  tags: [tools, developers, datalayer]
   date: 2023-03-14
 
 - name: Farming compressed plots with the Chia client
@@ -2481,3 +2440,154 @@
   tags: [videos, discussions]
   date: 2023-06-29
 
+- name: Chia Official Example dApp
+  url: https://github.com/Chia-Network/walletconnect-rpcs-dapp
+  creator: Chia Network
+  tags: [developers, walletconnect]
+  date: 2023-08-14
+
+- name: Chia Official Example dApp (deprecated)
+  url: https://github.com/Chia-Network/chia-wallet-connect-dapp-test
+  creator: Chia Network
+  tags: [developers, walletconnect]
+  date: 2023-08-14
+
+- name: Open Market Dev Clup dApp example
+  url: https://github.com/Open-Market-Dev-Club/chia-walletconnect
+  tags: [developers, walletconnect]
+  date: 2023-08-14
+
+- name: ChiaWalletConnect .net core implementation
+  url: https://github.com/Blackcode/ChiaWalletConnect.dotnet
+  tags: [developers, walletconnect]
+  date: 2023-08-14
+
+- name: WalletConnect Angular dApp implementation
+  url: https://github.com/greimela/walletconnect-chia-angular
+  tags: [developers, walletconnect]
+  date: 2023-08-14
+
+- name: WalletConnect Angular dApp implementation
+  url: https://github.com/greimela/walletconnect-chia-angular
+  tags: [developers, walletconnect]
+  date: 2023-08-14
+
+- name: DID message signing example
+  url: https://github.com/mikehw/chia-did-message-demo
+  tags: [developers, walletconnect]
+  date: 2023-08-14
+
+- name: Chia Official CADTrust API
+  url: https://github.com/Chia-Network/cadt
+  creator: Chia Network
+  tags: [developers, datalayer]
+  date: 2023-08-14
+
+- name: Chia Official CADTrust UI
+  url: https://github.com/Chia-Network/cadt-ui
+  creator: Chia Network
+  tags: [developers, datalayer]
+  date: 2023-08-14
+
+- name: Tail Database App
+  url: https://github.com/Tail-Database/tail-database-app
+  tags: [developers, datalayer]
+  date: 2023-08-14
+
+- name: Tail Database API
+  url: https://github.com/Tail-Database/tail-database-api
+  tags: [developers, datalayer]
+  date: 2023-08-14
+
+- name: Tail Database Client
+  url: https://github.com/Tail-Database/tail-database-client
+  tags: [developers, datalayer]
+  date: 2023-08-14
+
+- name: DataPlayer DataLayer Wrapper
+  url: https://github.com/cripsisxyz/chia-dataplayer
+  tags: [developers, datalayer]
+  date: 2023-08-14
+
+- name: Sprout CLI DataLayer Wrapper
+  url: https://github.com/MichaelTaylor3D/ChiaSproutCli
+  creator: Michael Taylor
+  tags: [developers, datalayer]
+  date: 2023-08-14
+
+- name: ChangeList Chunks JS DataLayer Wrapper
+  url: https://github.com/MichaelTaylor3D/ChiaChangeListChunks
+  creator: Michael Taylor
+  tags: [developers, datalayer]
+  date: 2023-08-14
+
+- name: ChangeList Generator DataLayer Wrapper
+  url: https://github.com/MichaelTaylor3D/chia-changelist-generator
+  creator: Michael Taylor
+  tags: [developers, datalayer]
+  date: 2023-08-14
+
+- name: Datalayer kv cache
+  url: https://github.com/MichaelTaylor3D/chia-datalayer-kv-cache
+  creator: Michael Taylor
+  tags: [developers, datalayer]
+  date: 2023-08-14
+
+- name: Datalayer update notifier
+  url: https://github.com/MichaelTaylor3D/chia-datalayer-update-notifier
+  creator: Michael Taylor
+  tags: [developers, datalayer]
+  date: 2023-08-14
+
+- name: databin.store T3 dApp example
+  url: https://github.com/JonathanLangton1/databin.store
+  creator: Michael Taylor
+  tags: [developers, datalayer]
+  date: 2023-08-14
+
+- name: Chia Fee Estimator Node.js package
+  url: https://www.npmjs.com/package/chia-fee-estimator
+  creator: Michael Taylor
+  tags: [developers, tools]
+  date: 2023-08-14
+
+- name: ChiaDLFileStore Node.js package
+  url: https://www.npmjs.com/package/chia-dl-file-store
+  tags: [developers, datalayer]
+  date: 2023-08-14
+
+- name: XCH.LOL - Chia memes
+  url: https://xch.lol
+  tags: [community]
+  description: Collection of Chia related memes.
+  date: 2023-08-14
+
+- name: Buidl Crypto Episode 4 - Programmable Money
+  url: https://buidlcrypto.buzzsprout.com/1567471/7252243-4-programmable-money
+  tags: [podcasts]
+  description: Bram Cohen, the legendary inventor of BitTorrent, talks about his programmable money startup Chia. It plans to make cryptocurrencies more efficient and easier to use then today. Bram is joined by Chia's president Gene Hoffman, former CEO of Vindicia and co-founder of emusic.
+  date: 2021-01-11
+
+- name: Buidl Crypto Episode 5 - Green Programmable Money
+  url: https://buidlcrypto.buzzsprout.com/1567471/7646299-5-green-programmable-money
+  tags: [podcasts]
+  description: Continued conversation with Gene Hoffman president of Chia (former CEO of Vindicia and co-founder of emusic) along with Bram Cohen, on future of Chia network.   
+  date: 2021-02-12
+
+- name: Buidl Crypto Episode 19 - Chia, The Best Damn Blockchain
+  url: https://buidlcrypto.buzzsprout.com/1567471/9676932-19-chia-the-best-damn-blockchain
+  tags: [podcasts]
+  description: Jonmichael Hands, VP Storage at Chia talks about how Chia's energy efficient blockchain raises the stake for nakamoto consensus and proof of work. 
+  date: 2021-12-06
+
+- name: Buidl Crypto Episode 28 - A new kind of decentralize exchange
+  url: https://buidlcrypto.buzzsprout.com/1567471/13283806-28-a-new-kind-of-decentralize-exchange
+  tags: [podcasts]
+  description: TibetSwap is an Automated Market Maker (AMM) running on the Chia blockchain. It uses funds provided users (liquidity providers) to allow anyone to trade XCH and tokens at what it considers to be a fair price.
+  date: 2023-07-24
+
+- name: Buidl Crypto Episode 28 - Empowering Individuals with Producer Economy
+  url: https://buidlcrypto.buzzsprout.com/1567471/13332900-30-empowering-individuals-with-producer-economy
+  tags: [podcasts]
+  description: Jerod Moore a YouTuber and tech nerd who has been nerding it up for the past 20 years runs Digital Spaceport.
+  date: 2023-08-01
