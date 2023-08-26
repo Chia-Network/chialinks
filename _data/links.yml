@@ -2645,3 +2645,9 @@
   tags: [tools, statistics]
   description: Enter your master public key or an address to see your XCH and CAT balances without having to enter any assetIDs.
   date: 2023-08-26
+
+- name: Marmots.io
+  url: https://info.marmots.io/
+  tags: [games]
+  description: Marmots.io is an online browser game in which you compete with other players for the opportunity to collect the $MIO cryptocurrency.
+  date: 2023-08-26
