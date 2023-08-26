@@ -1846,7 +1846,7 @@
 
 - name: Proof of Treasure
   url: https://www.proofoftreasure.com/
-  tags: [community]
+  tags: [community, games]
   description: Proof of Treasure is a location finder game, where you can win real crypto treasure (Proof Of Treasure Coin / POTT) by guessing the location of the game image.
   date: 2022-09-22
 
@@ -2364,7 +2364,7 @@
 
 - name: ChiaTCG
   url: https://chiatcg.com
-  tags: [nfts, projects, verified]
+  tags: [nfts, projects, verified, games]
   description: The Chia Trading Card Game (ChiaTCG) is an open-source, proof-of-concept Web3 game. Play with any Chia NFT!
   date: 2023-05-04
 
@@ -2591,3 +2591,39 @@
   tags: [podcasts]
   description: Jerod Moore a YouTuber and tech nerd who has been nerding it up for the past 20 years runs Digital Spaceport.
   date: 2023-08-01
+
+- name: Python-chianode wrapper
+  url: https://github.com/circuitdao/python-chianode
+  tags: [developers]
+  description: Python-chianode is a Python wrapper for Chia blockchain full node APIs. The package supports the official RPC API for Chia nodes running on localhost, as well as the Mojonode API. Calls are made asynchronously, and it is possible to receive streaming responses.
+  date: 2023-08-25
+
+- name: XCH.events
+  url: https://xch.events
+  tags: [developers, tools]
+  description: Real time feed and visualization of all events happening on the Chia blockchain.
+  date: 2023-08-25
+
+- name: XDTEES
+  url: https://xdtees.printify.me/products
+  tags: [community]
+  description: T-shirts and other swag from @steppsr
+  date: 2023-08-25
+
+- name: Abandoned Land
+  url: https://abandoned.land
+  tags: [games, nfts]
+  description: Abandoned land is an experimental collectible card game on the Chia blockchain that combines NFTs with Chia Asset Tokens. Think of it as a mix between an idle game and a resource trading game. The owner of the cards will be paid out daily the amount listed on the card. Different tokens will be used to trade for more assets, card, or to upgrade your current card.
+  date: 2023-08-25
+
+- name: FarmerVerse
+  url: https://farmerverse.space
+  tags: [games]
+  description: An innovative decentralized farming adventure on the Chia Network, where your prosperity grows as you cultivate your virtual land.
+  date: 2023-08-25
+
+- name: ChiaSlimes
+  url: https://discord.gg/WSgQTrVbVM
+  tags: [games, nfts]
+  description: Discord game NFTs on Chia
+  date: 2023-08-25

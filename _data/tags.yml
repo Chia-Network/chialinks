@@ -2,7 +2,7 @@
 has_sections: [plotting, farming, guides, tools, videos, pools, cats, nfts, developers]
 
 # sections are how above pages are divided. there's no "other/misc" section so every link needs a tag that exists here
-sections: [marketplaces, plotting, farming, guides, datalayer, walletconnect, tools, videos, discussions, energy, economics, statistics, developers, established, growing, unproven, resources, stablecoins, platform tokens, meme tokens, other tokens, nfts, name services, projects, plotting services]
+sections: [marketplaces, plotting, farming, guides, datalayer, walletconnect, tools, videos, discussions, energy, economics, statistics, developers, established, growing, unproven, resources, stablecoins, platform tokens, meme tokens, other tokens, nfts, name services, projects, plotting services, games]
 
 # links hide all labels by default unless they show here. overridden by tag parameter (e.g. main page doesn't show Featured tag)
 labels_show: [featured]
