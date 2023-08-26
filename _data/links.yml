@@ -2637,4 +2637,11 @@
 - name: Chreatures
   url: http://discord.gg/zNEGwDr36J
   tags: [games, nfts]
-  date: 2023-08-25
+  description: Explore the Forest and complete quests with their dynamic task system. Gain $FAME and spend it in the shop to buy items and NFTs on Chia.
+  date: 2023-08-26
+
+- name: Chia balance checker
+  url: https://balance.circuitdao.com
+  tags: [tools, statistics]
+  description: Enter your master public key or an address to see your XCH and CAT balances without having to enter any assetIDs.
+  date: 2023-08-26
