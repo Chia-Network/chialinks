@@ -1,48 +1,52 @@
 {% assign sorted_future_events = site.data.roadmap-future | sort: 'date' | reverse %}
 {% assign lastdir = "direction-r" %}
 
-<ul class="timeline" style="padding-left: 0; --hexa-color-var: #eeeeee; --time-color-var: #666666;">
-{% for item in sorted_future_events %}
-<li>
-  {% if lastdir == "direction-r" %}
-    {% assign lastdir = "direction-l" %}
-  {% else %}
-    {% assign lastdir = "direction-r" %}
-  {% endif %}
-  <div class="{{ lastdir }}">
-    <div class="flag-wrapper">
-      <span class="hexa"></span>
-      <span class="flag">{{ item.title }}</span>
-      <span class="time-wrapper"><span class="time">{{ item.date }}</span></span>
-    </div>
-    {% if item.description != nil %}
-    <div class="desc">{{ item.description }}</div>
-    {% endif %}
-  </div>
-</li>
-{% endfor %}
-</ul>
+<div class="main-timeline">
 
-{% assign sorted_events = site.data.roadmap | sort: 'date' | reverse %}
-
-<ul class="timeline" style="padding-left: 0; --hexa-color-var: #3aac59; --time-color-var: #3aac59;">
-{% for item in sorted_events %}
-<li>
-  {% if lastdir == "direction-r" %}
-    {% assign lastdir = "direction-l" %}
-  {% else %}
-    {% assign lastdir = "direction-r" %}
-  {% endif %}
-  <div class="{{ lastdir }}">
-    <div class="flag-wrapper">
-      <span class="hexa"></span>
-      <span class="flag">{{ item.title }}</span>
-      <span class="time-wrapper"><span class="time"{% if item.type == "milestone" %} style="background:#266838;"{% endif %}>{{ item.date | date: "%b %Y" }}</span></span>
-    </div>
-    {% if item.description != nil %}
-    <div class="desc">{{ item.description }} {% if item.source != nil %}(<a href="{{ item.source }}" target="_blank">Source</a>){% endif %}</div>
+  <ul class="timeline" style="padding-left: 0; --hexa-color-var: #eeeeee; --time-color-var: #666666;">
+  {% for item in sorted_future_events %}
+  <li>
+    {% if lastdir == "direction-r" %}
+      {% assign lastdir = "direction-l" %}
+    {% else %}
+      {% assign lastdir = "direction-r" %}
     {% endif %}
-  </div>
-</li>
-{% endfor %}
-</ul>
+    <div class="{{ lastdir }}">
+      <div class="flag-wrapper">
+        <span class="hexa"></span>
+        <span class="flag">{{ item.title }}</span>
+        <span class="time-wrapper"><span class="time">{{ item.date }}</span></span>
+      </div>
+      {% if item.description != nil %}
+      <div class="desc">{{ item.description }}</div>
+      {% endif %}
+    </div>
+  </li>
+  {% endfor %}
+  </ul>
+
+  {% assign sorted_events = site.data.roadmap | sort: 'date' | reverse %}
+
+  <ul class="timeline" style="padding-left: 0; --hexa-color-var: #3aac59; --time-color-var: #3aac59;">
+  {% for item in sorted_events %}
+  <li>
+    {% if lastdir == "direction-r" %}
+      {% assign lastdir = "direction-l" %}
+    {% else %}
+      {% assign lastdir = "direction-r" %}
+    {% endif %}
+    <div class="{{ lastdir }}">
+      <div class="flag-wrapper">
+        <span class="hexa"></span>
+        <span class="flag">{{ item.title }}</span>
+        <span class="time-wrapper"><span class="time"{% if item.type == "milestone" %} style="background:#266838;"{% endif %}>{{ item.date | date: "%b %Y" }}</span></span>
+      </div>
+      {% if item.description != nil %}
+      <div class="desc">{{ item.description }} {% if item.source != nil %}(<a href="{{ item.source }}" target="_blank">Source</a>){% endif %}</div>
+      {% endif %}
+    </div>
+  </li>
+  {% endfor %}
+  </ul>
+
+</div>
