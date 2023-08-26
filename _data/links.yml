@@ -2627,3 +2627,27 @@
   tags: [games, nfts]
   description: Discord game NFTs on Chia
   date: 2023-08-25
+
+- name: Farmers of Chialisp
+  url: https://discord.gg/Z5AZETrTDb
+  tags: [games, nfts]
+  description: A Discord game where Farmers cultivate $BLOCK to grow their community and face threat from Mugglers, who steal $BLOCK. Farmers offer tributes to Mugglers for safety. Leaving their farm or betrayal among Farmers gives Mugglers a chance to strike.
+  date: 2023-08-25
+
+- name: Chreatures
+  url: http://discord.gg/zNEGwDr36J
+  tags: [games, nfts]
+  description: Explore the Forest and complete quests with their dynamic task system. Gain $FAME and spend it in the shop to buy items and NFTs on Chia.
+  date: 2023-08-26
+
+- name: Chia balance checker
+  url: https://balance.circuitdao.com
+  tags: [tools, statistics]
+  description: Enter your master public key or an address to see your XCH and CAT balances without having to enter any assetIDs.
+  date: 2023-08-26
+
+- name: Marmots.io
+  url: https://info.marmots.io/
+  tags: [games]
+  description: Marmots.io is an online browser game in which you compete with other players for the opportunity to collect the $MIO cryptocurrency.
+  date: 2023-08-26
