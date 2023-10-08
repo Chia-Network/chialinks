@@ -285,7 +285,7 @@
 
 - name: Foxy-Pool
   url: https://foxypool.io/
-  tags: [pools, established]
+  tags: [pools, established, verified]
   date: 2021-04-25
 
 - name: r/chiamemes
