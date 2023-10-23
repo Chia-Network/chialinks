@@ -271,3 +271,9 @@
   date: 2023-08-24
   description: A major release that introduces plot compression support and GPU plotting and farming, soft and hard fork protocol updates, and more.
   source: https://www.chia.net/2023/08/24/version-2-0-0-release/
+
+- title: Chia Blockchain 2.1.0 released
+  date: 2023-10-05
+  description: This release features Credential Restricted CATs, upgraded support for offers, WalletConnect, DataLayer features, and more.
+  source: https://www.chia.net/2023/10/05/version-2-1-0-release/
+
