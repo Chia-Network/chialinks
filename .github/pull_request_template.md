@@ -29,7 +29,5 @@ In particular, note some characters (such as `:`) in YAML `.yml` files will brea
 ## Reviewers/Approvers
 - @SlowestTimelord
 - @cmmarslender
-- @sargonas
-- @roybotbot
 
 Note that updates to the `donate.md` page will specifically require approval from @sargonas or @cmmarslender.
