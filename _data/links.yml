@@ -1086,7 +1086,7 @@
 
 - name: Chia - Official Documentation
   url: https://docs.chia.net/
-  tags: [chialisp, developers, verified]
+  tags: [chialisp, developers, verified, featured]
   description: The source of truth for Chia documentation. Start here to learn more about Chia.
   date: 2021-12-18
 
@@ -2066,11 +2066,11 @@
   tags: [videos, plotting]
   date: 2023-03-01
 
-- name: Chia Help
-  url: https://help.chia.net/hc/en-us
-  tags: [community, featured, verified]
-  description: Official help and FAQ maintained by the Chia Network team.
-  date: 2023-03-01
+#- name: Chia Help
+#  url: https://help.chia.net/hc/en-us
+#  tags: [community, featured, verified]
+#  description: Official help and FAQ maintained by the Chia Network team.
+#  date: 2023-03-01
 
 - name: Smart Coin First Steps in Chialisp
   url: https://www.youtube.com/watch?v=-Nza_N9Xb3Y
