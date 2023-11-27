@@ -2630,3 +2630,33 @@
   tags: [plotting,plotting services]
   date: 2023-10-22
 
+- name: Circuit DAO
+  url: https://circuitdao.com/
+  tags: [cats, stablecoins]
+  description: Circuit is an onchain collateralized stablecoin protocol built on the Chia blockchain
+  date: 2023-11-22
+
+- name: Datalayer Storage
+  url: https://datalayer.storage/
+  tags: [developers, tools, datalayer]
+  creator: Michael Taylor
+  description: DataLayer is the go-to tool for sharing your data while ensuring that you control which data you share, and with whom!
+  date: 2023-11-22
+
+- name: XCHPay.me
+  url: https://xchpay.me/
+  tags: [developers, tools]
+  description: XCHPay.me is a non-custodial payment gateway and invoicing solution. It offers peer-to-peer payments in XCH, without any trusted third parties.
+  date: 2023-11-22
+
+- name: JXCH-Transact-Framework
+  url: https://github.com/mindspice/JXCH-Transact-Framework
+  tags: [developers, nfts, tools]
+  description: A robust and lightweight framework for implementing bulk minting and transaction services on the chia blockchain.
+  date: 2023-11-22
+
+- name: FastFarmer
+  url: https://github.com/GalactechsLLC/dg_fast_farmer
+  tags: [farming, tools]
+  description: A Lite farmer for the Chia Blockchain currently supporting Bladebit CPU Compression
+  date: 2023-11-22
