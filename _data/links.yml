@@ -519,11 +519,6 @@
   description: The largest Chia farming pool following the official pooling protocol.
   date: 2021-05-10
 
-- name: QuikPlots
-  url: https://quikplot.j0e.ca/
-  tags: [plotting,plotting services]
-  date: 2021-05-10
-
 - name: Chia Plotting Calculator
   url: https://artofpc.com/chia-plotting-calculator/
   tags: [plotting, tools]
@@ -679,11 +674,6 @@
   description: A list of peer IPs of active nodes on the Chia network to add manually if you are having sync issues.
   date: 2021-05-20
 
-- name: Chia Novia
-  url: https://chianovia.com
-  tags: [plotting,plotting services]
-  date: 2021-05-20
-
 - name: Chia Telegram Bot
   url: https://interchargers.com/chia-telegram-bot/
   tags: [farming, tools]
@@ -719,16 +709,6 @@
   tags: [tools, statistics, verified]
   description: XCHscan is a block explorer and analytics platform for the Chia Network.
   date: 2021-05-24
-
-- name: Chia Plots Market
-  url: https://www.chia-plots-market.com/
-  tags: [plotting,plotting services]
-  date: 2021-05-24
-
-- name: Plotting cloud
-  url: https://plotting.cloud/
-  tags: [plotting,plotting services]
-  date: 2021-05-25
 
 - name: Lbank
   url: https://www.lbank.info/
@@ -774,11 +754,6 @@
   tags: [community, international]
   description: Turkish Chia community Telegram group from Chiarex
   date: 2021-06-02
-
-- name: PepperPlots
-  url: https://www.chiapepper.net
-  tags: [plotting,plotting services]
-  date: 2021-06-03
 
 - name: Chia Coloured Coins - A non-technical user guide
   url: https://www.youtube.com/watch?v=YOlpmCBK8zY
@@ -844,11 +819,6 @@
   url: https://techtellectual.com/chia-plotting-in-linux-getting-started/
   tags: [guides, plotting]
   date: 2021-06-20
-
-- name: ChiaPlot.ru
-  url: https://chiaplot.ru/en
-  tags: [plotting,plotting services]
-  date: 2021-06-21
 
 - name: MadMax's Chia Plotter Manager
   url: https://github.com/tobernguyen/madmax-manager
@@ -2625,11 +2595,6 @@
   description: A convenient way to check your wallet balance for CATs and XCH.
   date: 2023-10-22
 
-- name: Anyplots
-  url: https://anyplots.com/
-  tags: [plotting,plotting services]
-  date: 2023-10-22
-
 - name: Circuit DAO
   url: https://circuitdao.com/
   tags: [cats, stablecoins]
@@ -2660,3 +2625,15 @@
   tags: [farming, tools]
   description: A Lite farmer for the Chia Blockchain currently supporting Bladebit CPU Compression
   date: 2023-11-22
+
+- name: MirrorSync
+  url: https://github.com/Datalayer-Storage/MirrorSync
+  tags: [developers, tools, datalayer]
+  description: A utility service that will synchronize the list of Chia data layer singletons from datalayer.storage to the local chia node. 
+  date: 2023-12-09
+
+- name: Pyramid Coin
+  url: https://github.com/geraldneale/pyramid_coin
+  tags: [developers, chialisp]
+  description: Chialisp puzzle to deliever a geometric shotgun blast of coins.
+  date: 2023-12-09
