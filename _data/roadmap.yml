@@ -277,3 +277,27 @@
   description: This release features Credential Restricted CATs, upgraded support for offers, WalletConnect, DataLayer features, and more.
   source: https://www.chia.net/2023/10/05/version-2-1-0-release/
 
+- title: Chia Network engages Market Maker
+  date: 2023-10-15
+  description: CNI moved part of its strategic reserve (200,000 XCH) to be loaned to a market maker to increase market liquidity.
+  source: https://x.com/SlowestTimelord/status/1713739158353568190?s=20
+
+- title: ASIC Timelords come online
+  date: 2023-10-26
+  description: The ASIC Timelords developed with Supranational begin ramp up on mainnet. These low energy ASICs further increase the decentralization and security of the network.
+  source: https://www.chia.net/2023/10/26/asic-timelords-faster-than-fast-chia-network/
+
+- title: World Bank announces Core Registry
+  date: 2023-12-03
+  description: World Bank announces the open-source Core Registry, a series of applications built on Chia to serve as an end-to-end solution for carbon credit tracking, trading, and tokenization.
+  source: https://x.com/SlowestTimelord/status/1731356416248619102?s=20
+
+- title: Bhutan launches National Carbon Registry
+  date: 2023-12-04
+  description: The country of Bhutan launches their National Carbon Registry based on this open source Core Registry powered by the Chia blockchain.
+  source: https://x.com/SlowestTimelord/status/1731356420279259358?s=20
+
+- title: Verra onboards to CAD Trust
+  date: 2023-12-07
+  description: Verra, the world's largest carbon credit registry and verifier has onboarded their projects to the global CAD Trust database, each batch of updates is made to Chia's DataLayer and settled on L1.
+  source: https://x.com/SlowestTimelord/status/1732884145112600912?s=20
