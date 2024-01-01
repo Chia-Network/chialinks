@@ -343,12 +343,6 @@
   description: A German news, community, and tutorial site.
   date: 2021-04-30
 
-- name: ChiaXCH (Chinese)
-  url: https://www.chiaxch.net/
-  tags: [community, international]
-  description: A Chinese news site and forum for Chia
-  date: 2021-04-30
-
 - name: Ploto
   url: https://github.com/tydeno/Ploto
   tags: [plotting, tools]
@@ -400,28 +394,12 @@
   description: China based exchange
   date: 2021-05-03
 
-- name: BKEx
-  url: https://www.bkex.com
-  pair: XCH/USDT
-  pair_url: https://www.bkex.com/trade/XCH_USDT
-  tags: [exchanges]
-  description: British Virgin Islands based exchange.
-  date: 2021-05-03
-
 - name: DigiFinex
   url: https://www.digifinex.com
   pair: XCH/USDT
   pair_url: https://www.digifinex.com/en-ww/trade/USDT/XCH
   tags: [exchanges]
   description: China based exchange.
-  date: 2021-05-03
-
-- name: WhaleEx
-  url: https://www.whaleex.com
-  pair: XCH/USDT
-  pair_url: https://www.whaleex.com/trade/XCH_USDT
-  tags: [exchanges]
-  description: Singapore based exchange.
   date: 2021-05-03
 
 - name: XT
@@ -483,14 +461,6 @@
   pair_url: https://trade.citex.co.kr/trade/XCH_USDT
   tags: [exchanges]
   description: South Korea based exchange.
-  date: 2021-05-08
-
-- name: ZBG
-  url: https://www.zbg.com/
-  pair: XCH/USDT
-  pair_url: https://www.zbg.com/trade/xch_usdt
-  tags: [exchanges]
-  description: Hong Kong based exchange.
   date: 2021-05-08
 
 - name: CoinEx
@@ -710,14 +680,6 @@
   description: XCHscan is a block explorer and analytics platform for the Chia Network.
   date: 2021-05-24
 
-- name: Lbank
-  url: https://www.lbank.info/
-  pair: XCH/USDT
-  pair_url: https://www.lbank.info/exchange/xch/usdt
-  tags: [exchanges]
-  description: China based exchange.
-  date: 2021-05-25
-
 - name: Chia Bar
   url: https://github.com/EstebanFuentealba/chia-bar
   tags: [tools, statistics]
@@ -866,12 +828,6 @@
   description: A simple script that can watch a list of directories and does some action when a specific kind of change happens. Can be used to replace old plots with portable plots one at a time.
   date: 2021-07-10
 
-- name: Graph Chia
-  url: https://www.graphchia.com
-  tags: [statistics]
-  description: Interactive graphs about the Chia network.
-  date: 2021-07-17
-
 - name: After Journal Complete Chia Pools List
   url: https://afterjournal.com/complete-chia-pools-list-more-than-130-official-unofficial-chia-coin-pools/
   tags: [pools, resources]
@@ -1002,12 +958,6 @@
   description: New exchange for green cryptocurrencies such as XCH and STOR.
   date: 2021-10-26
 
-- name: XCHcentral
-  url: https://www.xchcentral.com/
-  tags: [community]
-  description: Chia Blockchain - News, Opinions, and Projects
-  date: 2021-10-26
-
 # - name: XCH Faucet
 #   url: https://xchfaucet.togatech.org/
 #   tags: [faucets]
@@ -1115,22 +1065,6 @@
   description: ChiaTimeline is a record of key events and dates for Chia in one place.
   date: 2022-01-11
 
-- name: Hashgreen DEX
-  url: https://dex.hash.green/
-  pair: XCH/USDS
-  pair_url: https://dex.hash.green/dex/XCH-USDS
-  tags: [dexs]
-  description: The first Decentralized Exchange (DEX) on Chia supporting Chia Offers for trading XCH and CATs. This is now a legacy platform to be eventually replaced by HashgreenSwap.
-  date: 2022-01-12
-
-- name: OfferBin
-  url: https://offerbin.io/
-  pair: XCH/USDS
-  pair_url: https://offerbin.io/?o=xch&r=usds
-  tags: [dexs]
-  description: An open marketplace for Chia Offers.
-  date: 2022-01-12
-
 - name: Tsunami Protocol
   url: https://tsunami.network/
   tags: [dexs]
@@ -1223,12 +1157,6 @@
   description: A mailing list and archive of short weekly summaries covering happenings in the Chia ecosystem.
   date: 2022-02-16
 
-- name: Chia Developers Forum
-  url: https://developers.chia.net/
-  tags: [community, developers, chialisp, verified]
-  description: Official forums hosted by the Chia Network for developers.
-  date: 2022-02-16
-
 - name: Digital Spacecast
   url: https://digitalspacecast.buzzsprout.com/
   tags: [podcasts, verified]
@@ -1242,7 +1170,7 @@
   date: 2022-02-20
 
 - name: Space Scan - Top CATs
-  url: https://www.spacescan.io/xch/cat1/topTokens
+  url: https://www.spacescan.io/tokens/ranks?type=cat2
   tags: [cats, resources]
   description: Listing of top CATs by transactions
   date: 2022-02-20
@@ -1290,11 +1218,6 @@
   tags: [wallets]
   description: Pawket is an open-source secure wallet that offers a range of exclusive tools, including the ability to issue custom CATs, scan assets, and provide encryption. It is also the first air-gapped wallet in the Chia ecosystem.
   date: 2022-02-27
-
-- name: Pool Energy
-  url: https://pool.energy/explorer
-  tags: [pools,unproven]
-  date: 2022-03-21
 
 - name: chiaswap
   url: https://github.com/richardkiss/chiaswap
@@ -1600,20 +1523,9 @@
   description: Featuring interviews with different Chia team and community members.
   date: 2022-06-15
 
-- name: SpaceScan.io CAT Explorer
-  url: https://www.spacescan.io/xch/cat1/explore
-  tags: [cats]
-  date: 2022-06-15
-
 - name: SpaceScan.io NFT Explorer
-  url: https://www.spacescan.io/xch/nft/explore
+  url: https://www.spacescan.io/nft/ranks
   tags: [nfts, tools]
-  date: 2022-06-15
-
-- name: SkyNFT
-  url: https://skynft.org/
-  tags: [nfts, marketplaces]
-  description: NFT marketplace for Chia and Chives (Chia fork) NFTs.
   date: 2022-06-15
 
 - name: OCP Sustainability Initiatives - Storage
@@ -1736,12 +1648,6 @@
   description: Chia blockchain explorer by Space Pool.
   date: 2022-08-19
 
-- name: Chia Airdrops
-  url: https://chiaairdrops.com/
-  tags: [nfts, cats, tools]
-  description: Discover CAT and NFT project giveaways/airdrops.
-  date: 2022-09-15
-
 - name: Proof of Treasure
   url: https://www.proofoftreasure.com/
   tags: [community, games]
@@ -1855,12 +1761,6 @@
   url: https://www.youtube.com/watch?v=JcC1_igwSmA
   tags: [chialisp, videos, developers]
   date: 2023-01-01
-
-- name: HashgreenSwap
-  url: https://hash.green/
-  tags: [dexs]
-  description: Upcoming AMM to decentralized staking and liquidity pools to power enable swaps.
-  date: 2023-01-13
 
 - name: Wallet Connect video tutorial
   url: https://www.youtube.com/watch?v=0qv0X3C9KS8
@@ -2314,10 +2214,10 @@
   description:  A collection of packages for working with the Chia Blockchain using Rust
   date: 2023-06-16
 
-- name: Kiwi Memorial NFT Faucet
-  url: http://kiwifaucet.site
-  tags: [nfts]
-  description:  A faucet site for receiving a free Kiwi Memorial NFT
+- name: Kiwi Memorial Site
+  url: https://kiwifaucet.datalayer.link/
+  tags: [community]
+  description:  A site memorializing noted community member Kiwi
   date: 2023-06-20
 
 - name: Regulatory Compliance, Chia, The Future Of Blockchain&#58; With Bram Cohen And Gene Hoffman
@@ -2550,6 +2450,13 @@
   description: Marmots.io is an online browser game in which you compete with other players for the opportunity to collect the $MIO cryptocurrency.
   date: 2023-08-26
 
+- name: Chia Updates With Gene Hoffman&#58; What’s Going On With Chia
+  url: https://www.youtube.com/watch?v=FFrTL-goHNQ
+  creator: Corey Costa
+  tags: [discussions, videos]
+  description: Corey Costa interviews Gene Hoffman to discuss numerous updates surrounding the Chia protocol, new onboards to the Chia Board of Directors and more.
+  date: 2023-09-18
+
 - name: Digital Spaceport Interview with Chia CEO Gene Hoffman
   url: https://www.youtube.com/watch?v=szl7kE4CuiU
   creator: Digital Spaceport
@@ -2575,6 +2482,7 @@
   pair: XCH/USDC
   pair_url: https://simpleswap.io/crypto-to-crypto/xch-usdc
   tags: [swap services]
+  description: " "
   date: 2023-10-22
 
 - name: ChiaBashNFTScripts
@@ -2637,3 +2545,23 @@
   tags: [developers, chialisp]
   description: Chialisp puzzle to deliever a geometric shotgun blast of coins.
   date: 2023-12-09
+
+- name: Setting The Stage for 2024&#58; The Chia Model with Gene Hoffman
+  url: https://www.youtube.com/watch?v=9N1RFy4aS4g
+  creator: Corey Costa
+  tags: [discussions, videos]
+  description: Corey Costa interviews Gene Hoffman surrounding an assortment of topics regarding Chia and how Chia will set the stage in 2024!
+  date: 2023-12-14
+
+- name: XCH.today
+  url: https://xch.today
+  tags: [community, verified, featured]
+  description: A community contributed site highlighting Chia blockchain news and information
+  date: 2023-12-31
+
+- name: Chia Academy
+  url: https://docs.chia.net/academy-intro/
+  tags: [chialisp, guides, developers, verified]
+  description: The official scholarly hub for delving deep into Chia blockchain technology.
+  date: 2023-12-31
+
