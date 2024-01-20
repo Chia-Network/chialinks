@@ -1661,11 +1661,11 @@
   date: 2022-05-22
 
 
-- name: Keyspace
-  url: https://keyspacewallet.com/
-  tags: [wallets]
-  description: Mac and iOS wallet with client side peer-to-peer light wallet protocol. Monthly subscription and free trial available.
-  date: 2022-10-08
+# - name: Keyspace
+#   url: https://keyspace.app/
+#   tags: [wallets]
+#   description: Mac and iOS wallet with client side peer-to-peer light wallet protocol. Monthly subscription and free trial available.
+#   date: 2022-10-08
 
 - name: Hoogii
   url: https://hoogii.app/
@@ -2593,4 +2593,10 @@
   url: https://github.com/efnats/chiagarden
   tags: [tools, farming, plotting]
   description: A set of linux tools to help build and manage your chia farm
+  date: 2024-01-20
+
+- name: Unimojo - Xchscriptions Protocol
+  url: https://unimojo.io
+  tags: [tools, statistics]
+  description: Unimojo is the first inscription and transaction platform on the XCHS protocol.
   date: 2024-01-20
