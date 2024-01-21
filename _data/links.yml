@@ -1147,7 +1147,7 @@
 
 - name: Mint Garden
   url: https://mintgarden.io/
-  tags: [nfts, marketplaces]
+  tags: [nfts, marketplaces, merchants]
   description: An NFT marketplace to mint and trade NFTs stored on the Chia blockchain.
   date: 2022-02-05
 
@@ -1661,11 +1661,11 @@
   date: 2022-05-22
 
 
-- name: Keyspace
-  url: https://keyspacewallet.com/
-  tags: [wallets]
-  description: Mac and iOS wallet with client side peer-to-peer light wallet protocol. Monthly subscription and free trial available.
-  date: 2022-10-08
+# - name: Keyspace
+#   url: https://keyspace.app/
+#   tags: [wallets]
+#   description: Mac and iOS wallet with client side peer-to-peer light wallet protocol. Monthly subscription and free trial available.
+#   date: 2022-10-08
 
 - name: Hoogii
   url: https://hoogii.app/
@@ -1801,7 +1801,7 @@
 
 - name: Evergreen Miner
   url:  https://www.evergreenminer.com
-  tags: [farming, hardware, verified]
+  tags: [farming, hardware, verified, merchants]
   description: Plug and Play Farming Hardware with integrated Chia wallet, collectibles, exchange, and more.
   date: 2023-01-25
 
@@ -2017,7 +2017,7 @@
 
 - name: ChiaTracker
   url: https://chiatracker.com/
-  tags: [tools, statisticcs]
+  tags: [tools, statistics, verified, merchants]
   description: Automatically track and classify your XCH transactions classification with easy, one-click, approvals. Export a pre-filled 1040 schedule 1 to make filing your taxes infinitely easier.
   date: 2023-03-14
 
@@ -2511,14 +2511,14 @@
 
 - name: Datalayer Storage
   url: https://datalayer.storage/
-  tags: [developers, tools, datalayer]
+  tags: [developers, tools, datalayer, merchants]
   creator: Michael Taylor
   description: DataLayer is the go-to tool for sharing your data while ensuring that you control which data you share, and with whom!
   date: 2023-11-22
 
 - name: XCHPay.me
   url: https://xchpay.me/
-  tags: [developers, tools]
+  tags: [developers, tools, merchants]
   description: XCHPay.me is a non-custodial payment gateway and invoicing solution. It offers peer-to-peer payments in XCH, without any trusted third parties.
   date: 2023-11-22
 
@@ -2565,3 +2565,38 @@
   description: The official scholarly hub for delving deep into Chia blockchain technology.
   date: 2023-12-31
 
+- name: XCH.tools
+  url: https://xch.tools
+  tags: [tools]
+  description: A collection of tools for Chia users such as transaction fee estimator.
+  date: 2024-01-20
+
+- name: XCHSTORE
+  url: https://www.xchstore.com/
+  tags: [merchants]
+  description: Sells Chia branded Tangem hardware crypto wallets, NFT badges and more.
+  date: 2024-01-20
+
+- name: CHELLYZ
+  url: https://chellyz.com/
+  tags: [merchants]
+  description: CHELLYZ branded clothing and mugs.
+  date: 2024-01-20
+
+- name: Thunder Squid 
+  url:  https://www.tsquid.com
+  tags: [farming, hardware, merchants]
+  description: Cost effective hard drive pre-plotted farming hardware.
+  date: 2024-01-20
+
+- name: ChiaGarden
+  url: https://github.com/efnats/chiagarden
+  tags: [tools, farming, plotting]
+  description: A set of linux tools to help build and manage your chia farm
+  date: 2024-01-20
+
+- name: Unimojo - Xchscriptions Protocol
+  url: https://unimojo.io
+  tags: [tools, statistics]
+  description: Unimojo is the first inscription and transaction platform on the XCHS protocol.
+  date: 2024-01-20
