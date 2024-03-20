@@ -1147,7 +1147,7 @@
 
 - name: Mint Garden
   url: https://mintgarden.io/
-  tags: [nfts, marketplaces, merchants]
+  tags: [nfts, marketplaces, merchants, verified]
   description: An NFT marketplace to mint and trade NFTs stored on the Chia blockchain.
   date: 2022-02-05
 
@@ -1209,7 +1209,7 @@
   url: https://dexie.space
   pair: XCH/USDS
   pair_url: https://dexie.space/offers/USDS/XCH
-  tags: [dexs, verified, nfts, marketplaces]
+  tags: [dexs, verified, nfts, marketplaces, defi]
   description: A peer-to-peer decentralized exchange for Chia offer files.
   date: 2022-02-27
 
@@ -1413,7 +1413,7 @@
 - name: Ozone Wallet
   url: https://ozonewallet.io/
   tags: [wallets]
-  description: Wallet in Beta, but fully functional for Android and iOS. Part of ChiaTK tools ecosystem for Chia.
+  description: Cross platform wallet designed for transactions with XCH, CATs, and NFTs in a reliable and secure way.
   date: 2022-05-22
 
 - name: Indodax
@@ -2023,7 +2023,7 @@
 
 - name: TibetSwap
   url: https://v2.tibetswap.io
-  tags: [dexs]
+  tags: [dexs, defi, verified]
   description: TibetSwap v2 is a decentralized AMM modeled after Uniswap v1 that runs on the Chia blockchain.
   date: 2023-03-14
 
@@ -2192,7 +2192,7 @@
 
 - name: XCH.trade
   url: https://xch.trade
-  tags: [cats, resources, tools]
+  tags: [cats, resources, tools, defi]
   description: A aggregator of CAT prices and trade history across DEXs.
   date: 2023-05-29
 
@@ -2505,7 +2505,7 @@
 
 - name: Circuit DAO
   url: https://circuitdao.com/
-  tags: [cats, stablecoins]
+  tags: [cats, stablecoins, defi, verified]
   description: Circuit is an onchain collateralized stablecoin protocol built on the Chia blockchain
   date: 2023-11-22
 
@@ -2600,3 +2600,16 @@
   tags: [tools, statistics]
   description: Unimojo is the first inscription and transaction platform on the XCHS protocol.
   date: 2024-01-20
+
+- name: Splash!
+  url: https://github.com/dexie-space/splash
+  tags: [tools, defi]
+  description: Splash! is a decentralized network for sharing Offers across the Chia ecosystem
+  date: 2024-03-19
+
+- name: Splash! UI
+  url: https://github.com/greimela/splash-ui
+  tags: [tools, defi]
+  description: An experimental UI for Splash!
+  date: 2024-03-19
+
