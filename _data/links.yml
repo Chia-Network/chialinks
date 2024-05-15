@@ -2613,3 +2613,20 @@
   description: An experimental UI for Splash!
   date: 2024-03-19
 
+- name: SnapCAT
+  url: https://github.com/dexie-space/snapcat
+  tags: [tools, cats]
+  description: snapcat is a Python command-line tool that helps monitor CATs (Chia Asset Tokens) on Chia Blockchain.
+  date: 2024-05-15
+
+- name: Chia Passkey Wallet Demo
+  url: https://github.com/mintgarden-io/passkey-wallet-demo
+  tags: [tools, developers]
+  description: A demo application to showcase how passkeys can be used as a Chia wallet.
+  date: 2024-05-15
+
+- name: ChiaXGrant
+  url: https://twitter.com/CHIAXGRANT
+  tags: [community]]
+  description: A community driven initiative to support Chia projects.
+  date: 2024-05-15
