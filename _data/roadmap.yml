@@ -317,6 +317,11 @@
   description: The first block reward halving occured, reducing the block reward from 2 XCH to 1 XCH.
   source: https://www.chia.net/2024/02/15/chia-blockchain-explainer-the-halvings/
 
+- title: Second Draft Registration Submitted
+  date: 2024-03-29
+  description: Chia Network Inc announced that it has confidentially submitted an amendment to its initial draft registration statement on Form S-1 to the SEC relating to the proposed IPO of its common stock.
+  source: https://finance.yahoo.com/news/chia-network-announces-second-confidential-211700042.html
+
 - title: Chia Blockchain 2.3.0 released
   date: 2024-05-01
   description: This release includes a new wallet sync protocol, DataLayer performance improvements, and introduces a soft fork for new Chialisp message conditions.
@@ -337,12 +342,7 @@
   description: This release includes the new wallet sync protocol, observer wallets, higher block fill, and introduces a soft fork relating to the BLS signature implementation.
   source: https://www.chia.net/2024/06/20/version-2-4-0-release/
 
-- title: Second Draft Registration Submitted
-  date: 2024-03-29
-  description: Chia Network Inc. today announced that it has confidentially submitted an amendment to its initial draft registration statement on Form S-1 to the SEC relating to the proposed IPO of its common stock.
-  source: https://finance.yahoo.com/news/chia-network-announces-second-confidential-211700042.html
-
 - title: Third Draft Registration Submitted
   date: 2024-08-12
-  description: Chia Network Inc. today announced that it has confidentially submitted an amendment to its initial draft registration statement on Form S-1 to the SEC relating to the proposed IPO of its common stock.
+  description: Chia Network Inc announced that it has confidentially submitted an amendment to its initial draft registration statement on Form S-1 to the SEC relating to the proposed IPO of its common stock.
   source: https://www.businesswire.com/news/home/20240812678890/en/Chia-Network-Announces-Third-Confidential-Submission-of-Draft-Registration-Statement-for-Proposed-Initial-Public-Offering
