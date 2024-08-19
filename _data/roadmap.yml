@@ -302,6 +302,16 @@
   description: Verra, the world's largest carbon credit registry and verifier has onboarded their projects to the global CAD Trust database, each batch of updates is made to Chia's DataLayer and settled on L1.
   source: https://x.com/SlowestTimelord/status/1732884145112600912?s=20
 
+- title: Chia Blockchain 2.2.1 released
+  date: 2024-02-28
+  description: This release includes an enhanced harvester protocol, increased block utilization, improved mempool logic, and a new type of singleton spend aggregation.
+  source: https://www.chia.net/2024/02/28/version-2-2-1-release/
+
+- title: Chia Academy Launches
+  date: 2023-03-01
+  description: Chia Academy bridges the gap between curiosity and proficiency – serving both newcomers seeking a solid understanding of blockchain basics and grizzled veteran developers looking to delve into Chialisp intricacies.
+  source: https://www.chia.net/2024/03/01/dive-into-the-chia-academy/
+
 - title: First Block Reward Halving
   date: 2023-03-07
   description: The first block reward halving occured, reducing the block reward from 2 XCH to 1 XCH.

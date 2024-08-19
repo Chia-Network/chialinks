@@ -2630,3 +2630,29 @@
   tags: [community]
   description: A community driven initiative to support Chia projects.
   date: 2024-05-15
+
+- name: warp.green
+  url: https://warp.green
+  tags: [verified, defi]
+  description: A cross-chain messaging protocol that enables an ETH/Base to Chia bridge, bringing wrapped Chia assets to EVM and wrapped EVM assets to Chia.
+  date: 2024-08-19
+
+- name: Aerodrome Finance
+  url: https://aerodrome.finance
+  pair: wXCH/USDC
+  pair_url: https://aerodrome.finance/swap?from=0x36be1d329444aef5d28df3662ec5b4f965cd93e9&to=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913
+  tags: [dexs, defi]
+  description: "A Base (ETH L2) AMM that supports a wXCH/USDC pair."
+  date: 2024-08-19
+
+- name: XCH.ninja
+  url: https://xch.ninja
+  tags: [tools]
+  description: Chia pre-farm tracker.
+  date: 2024-08-19
+
+- name: Sol's Lot
+  url: https://solslot.com/
+  tags: [nfts, merchants]
+  description: Fractional Real Estate marketplace, powered by Chia.
+  date: 2024-08-19
