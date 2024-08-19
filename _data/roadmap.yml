@@ -301,3 +301,38 @@
   date: 2023-12-07
   description: Verra, the world's largest carbon credit registry and verifier has onboarded their projects to the global CAD Trust database, each batch of updates is made to Chia's DataLayer and settled on L1.
   source: https://x.com/SlowestTimelord/status/1732884145112600912?s=20
+
+- title: First Block Reward Halving
+  date: 2023-03-07
+  description: The first block reward halving occured, reducing the block reward from 2 XCH to 1 XCH.
+  source: https://www.chia.net/2024/02/15/chia-blockchain-explainer-the-halvings/
+
+- title: Chia Blockchain 2.3.0 released
+  date: 2024-05-01
+  description: This release includes a new wallet sync protocol, DataLayer performance improvements, and introduces a soft fork for new Chialisp message conditions.
+  source: https://www.chia.net/2024/05/01/version-2-3-0-release/
+
+- title: Chia Network Acquires DrPlotter
+  date: 2024-05-13
+  description: Chia Network acquires DrPlotter technology and hires the creator, DrNick, to bring his expertise to the team to work on the new proof of space format.
+  source: https://www.chia.net/2024/05/13/chia-network-acquires-drplotter-technology-and-expertise/
+
+- title: ASIC Timelords Distributed Globally
+  date: 2024-06-10
+  description: The ASIC Timelords have been distributed globally to the community, further decentralizing the network and increasing security.
+  source: https://www.chia.net/2024/06/10/global-expansion-of-chia-network-security-with-successful-asic-timelord-rollout/
+
+- title: Chia Blockchain 2.4.0 released
+  date: 2024-06-20
+  description: This release includes the new wallet sync protocol, observer wallets, higher block fill, and introduces a soft fork relating to the BLS signature implementation.
+  source: https://www.chia.net/2024/06/20/version-2-4-0-release/
+
+- title: Second Draft Registration Submitted
+  date: 2024-03-29
+  description: Chia Network Inc. today announced that it has confidentially submitted an amendment to its initial draft registration statement on Form S-1 to the SEC relating to the proposed IPO of its common stock.
+  source: https://finance.yahoo.com/news/chia-network-announces-second-confidential-211700042.html
+
+- title: Third Draft Registration Submitted
+  date: 2024-08-12
+  description: Chia Network Inc. today announced that it has confidentially submitted an amendment to its initial draft registration statement on Form S-1 to the SEC relating to the proposed IPO of its common stock.
+  source: https://www.businesswire.com/news/home/20240812678890/en/Chia-Network-Announces-Third-Confidential-Submission-of-Draft-Registration-Statement-for-Proposed-Initial-Public-Offering
