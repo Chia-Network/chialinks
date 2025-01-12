@@ -1636,12 +1636,6 @@
   description: Singapore based exchange.
   date: 2021-08-18
 
-- name: Space Explorer
-  url: https://explorer.space/
-  tags: [tools, statistics]
-  description: Chia blockchain explorer by Space Pool.
-  date: 2022-08-19
-
 - name: Proof of Treasure
   url: https://www.proofoftreasure.com/
   tags: [community, games]
