@@ -346,3 +346,18 @@
   date: 2024-08-12
   description: Chia Network Inc announced that it has confidentially submitted an amendment to its initial draft registration statement on Form S-1 to the SEC relating to the proposed IPO of its common stock.
   source: https://www.businesswire.com/news/home/20240812678890/en/Chia-Network-Announces-Third-Confidential-Submission-of-Draft-Registration-Statement-for-Proposed-Initial-Public-Offering
+
+- title: Carbon Credits Tokenized and Listed
+  date: 2024-08-28
+  description: Chia Network Inc in partnership with EcoRegistry listed high-quality tokenized Carbon Credits. These are listed as Offers at Dexie.
+  source: https://www.chia.net/2024/08/28/from-carbon-market-to-one-market/
+
+- title: Chia Cloud Wallet Open Beta
+  date: 2024-12-03
+  description: Early open beta of the Chia Cloud Wallet is available on testnet. Chia Signer App is released as well to use alongside the Cloud Wallet as a secure hardware passkey.
+  source: https://www.chia.net/2024/12/03/test-the-chia-cloud-wallet/
+
+- title: Chia Blockchain 2.5.0 released
+  date: 2024-12-12
+  description: This release includes the soft fork from CHIP-36 which adds the keccak256 operator to the CLVM in order to enable the support of Ethereum addresses. Upgrading is highly recommended for this release.
+  source: https://github.com/Chia-Network/chia-blockchain/releases/tag/2.5.0
