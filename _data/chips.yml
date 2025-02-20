@@ -27,7 +27,7 @@
   date: "2022-06"
   title: "DID1 Standard"
   discussion_links:
-    - "PR Comments|"
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/18"
   status: "Final"
 
 - chip: "CHIP-0005"
