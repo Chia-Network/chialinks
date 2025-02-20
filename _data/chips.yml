@@ -1,0 +1,392 @@
+- chip: "CHIP-0001"
+  url: "https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0001.md"
+  date: "2021-11"
+  title: "CHIP Process"
+  discussion_links: []
+  status: "Living"
+
+- chip: "CHIP-0002"
+  url: "https://github.com/GobyWallet/chips/blob/chip0002/CHIPs/chip-0002.md"
+  date: "2022-04"
+  title: "dApp Protocol"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/9"
+    - "Community Q&A|https://youtu.be/c9tRXRiUw_8"
+  status: "Final"
+
+- chip: "CHIP-0003"
+  url: "https://github.com/Chia-Network/chips/blob/7ac848115cc8ce48663d6ac17a7563cc4c7822a3/CHIPs/chip-0003.md"
+  date: "2022-05"
+  title: "Minimum Fee"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/13"
+  status: "Withdrawn"
+
+- chip: "CHIP-0004"
+  url: "https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0004.md"
+  date: "2022-06"
+  title: "DID1 Standard"
+  discussion_links:
+    - "PR Comments|"
+  status: "Final"
+
+- chip: "CHIP-0005"
+  url: "https://github.com/Chia-Network/chips/blob/867440430b75735fcc7655cb7bd95a6cf8c56a11/CHIPs/chip-0005.md"
+  date: "2022-06"
+  title: "NFT1 Standard"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/19"
+  status: "Final"
+
+- chip: "CHIP-0006"
+  url: "https://github.com/Trifolio/chips/blob/main/CHIPs/chip-trifolio-did-external-linking.md"
+  date: "2022-05"
+  title: "DID External Linking"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/12"
+  status: "Withdrawn"
+
+- chip: "CHIP-0007"
+  url: "https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0007.md"
+  date: "2022-06"
+  title: "Off-chain NFT Metadata"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/26"
+  status: "Final"
+
+- chip: "CHIP-0008"
+  url: "https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0008.md"
+  date: "2022-09"
+  title: "Split Royalties for NFTs"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/30"
+    - "Community Call|https://drive.google.com/file/d/18NyB13Cu24VNRFOKl0umbNq1tzzLY1jj/view"
+  status: "Final"
+
+- chip: "CHIP-0009"
+  url: "https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0009.md"
+  date: "2022-10"
+  title: "Name Service Wallet Address Resolution"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/34"
+    - "Community Call|https://www.youtube.com/watch?v=N7u3Zg_9WMs"
+  status: "Final"
+
+- chip: "CHIP-0010"
+  url: "https://github.com/Chia-Network/chips/blob/878bbb6968e161275b75bf3d000c110d8c83900a/CHIPs/chip-0010.md"
+  date: "2022-10"
+  title: "Owner-editable Metadata for NFT1"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/33"
+    - "Community Call|https://www.youtube.com/watch?v=vPN3FFU0acc"
+  status: "Review"
+
+- chip: "CHIP-0011"
+  url: "https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0011.md"
+  date: "2022-12"
+  title: "BLS/SECP Additions (ZK Proofs)"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/46"
+  status: "Final"
+
+- chip: "CHIP-0012"
+  url: "https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0012.md"
+  date: "2023-01"
+  title: "Decrease Plot Filter"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/53"
+    - "Community Call|https://www.youtube.com/watch?v=hf01z8Uhj1Y"
+  status: "Final"
+
+- chip: "CHIP-0013"
+  url: "https://github.com/Chia-Network/chips/blob/6a6351d9625f10ee8306bb0af98bd94ab0072d9b/CHIPs/chip-0013.md"
+  date: "2023-02"
+  title: "Tighten Plot Filter Rules"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/57"
+  status: "Withdrawn"
+
+- chip: "CHIP-0014"
+  url: "https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0014.md"
+  date: "2023-02"
+  title: "Chialisp ASSERT_BEFORE_ Conditions"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/59"
+    - "Community Call|https://www.youtube.com/watch?v=_CHs87Ywklw"
+  status: "Final"
+
+- chip: "CHIP-0015"
+  url: "https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0015.md"
+  date: "2023-05"
+  title: "Extension of Off-chain metadata format for NFT1"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/62"
+    - "Community Call|https://www.youtube.com/watch?v=gZ9V5GxT0GU"
+  status: "Final"
+
+- chip: "CHIP-0016"
+  url: "https://github.com/Chia-Network/chips/blob/5c57550354b3b2f13d71a4854fbcc3b7537ab570/CHIPs/chip-0016.md"
+  date: "2023-05"
+  title: "Verifiable Credentials (VC) Standard"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/65"
+    - "Community Call|https://www.youtube.com/watch?v=WUf79mnlUQQ"
+  status: "Stagnant"
+
+- chip: "CHIP-0017"
+  url: "https://github.com/Chia-Network/chips/blob/0b869a5daafa7b9125e89aa73e275031d85da996/CHIPs/chip-0017.md"
+  date: "2023-05"
+  title: "VC Metadata Standard"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/66"
+    - "Community Call|https://www.youtube.com/watch?v=WUf79mnlUQQ"
+  status: "Stagnant"
+
+- chip: "CHIP-0018"
+  url: "https://github.com/Chia-Network/chips/blob/88655f8d449a9e565d09fd8ed71933c91e4672aa/CHIPs/chip-0018.md"
+  date: "2023-05"
+  title: "KYC-VC Proof Structure"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/67"
+    - "Community Call|https://www.youtube.com/watch?v=WUf79mnlUQQ"
+  status: "Stagnant"
+
+- chip: "CHIP-0019"
+  url: "https://github.com/Chia-Network/chips/blob/ae85861873f9d6f259f1a2a98b19a370c7cbb6cf/CHIPs/chip-0019.md"
+  date: "2023-05"
+  title: "Restricted CAT Standard"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/68"
+    - "Community Call|https://www.youtube.com/watch?v=WUf79mnlUQQ"
+  status: "Stagnant"
+
+- chip: "CHIP-0020"
+  url: "https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0020.md"
+  date: "2023-08"
+  title: "Wallet Hinted Coin Discovery"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/81"
+    - "Community Call|https://www.youtube.com/watch?v=Jw74RNhX8TQ"
+  status: "Final"
+
+- chip: "CHIP-0021"
+  url: "https://github.com/Chia-Network/chips/blob/20f32258c8038c7fd255bb5fd020b86ccd1769f6/CHIPs/chip-0021.md"
+  date: "2023-11"
+  title: "NFT Fusion Puzzle"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/86"
+    - "Community Call|https://www.youtube.com/watch?v=Rqd0hNsWgWM"
+  status: "Draft"
+
+- chip: "CHIP-0022"
+  url: "https://github.com/Chia-Network/chips/blob/6e062df0398117dfc601dab9348f984dfa9ec1bd/CHIPs/chip-0022.md"
+  date: "2023-11"
+  title: "Enhanced Harvester Protocol"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/88"
+    - "Community Call|https://www.youtube.com/watch?v=ul4Coa99aOE"
+  status: "Final"
+
+- chip: "CHIP-0023"
+  url: "https://github.com/Chia-Network/chips/blob/056beca66866fedbf81124e46bf6af8639ec932b/CHIPs/chip-0023.md"
+  date: "2023-11"
+  title: "On-Chain Voting Standard"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/90"
+  status: "Stagnant"
+
+- chip: "CHIP-0024"
+  url: "https://github.com/Chia-Network/chips/blob/3d72c5bad9d3af2f5d873d534c2c2f733806e228/CHIPs/chip-0024.md"
+  date: "2023-12"
+  title: "DAO1 Standard"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/93"
+    - "Community Call|https://www.youtube.com/watch?v=NfA_yWoX2kw"
+  status: "Stagnant"
+
+- chip: "CHIP-0025"
+  url: "https://github.com/Chia-Network/chips/blob/b07ea68dc29bd5d2534c01eea1927d96e21f59bf/CHIPs/chip-0025.md"
+  date: "2024-01"
+  title: "Chialisp Message Condition"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/98"
+  status: "Final"
+
+- chip: "CHIP-0026"
+  url: "https://github.com/Chia-Network/chips/blob/f416cfe9747bbd4aef9adb7283ecf6521c10f0ef/CHIPs/chip-0026.md"
+  date: "2024-03"
+  title: "New Wallet Sync Protocol"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/100"
+    - "Community Call|https://www.youtube.com/watch?v=onIB-ikRJ-M"
+  status: "Final"
+
+- chip: "CHIP-0027"
+  url: "https://github.com/Chia-Network/chips/blob/a95c2bf3e0ac44c95ef7a2373815f2f8b479ba3d/CHIPs/chip-0027.md"
+  date: "2024-03"
+  title: "Signer Protocol Wallet APIs"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/102"
+  status: "Draft"
+
+- chip: "CHIP-0028"
+  url: "https://github.com/Chia-Network/chips/blob/50f21bd591ed355f89462d2eb0f1a09a6067b1f1/CHIPs/chip-0028.md"
+  date: "2024-03"
+  title: "Blind Signer Translation"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/103"
+  status: "Draft"
+
+- chip: "CHIP-0029"
+  url: "https://github.com/Chia-Network/chips/blob/aa32220dbcabd60e6f66312f234d87308901198d/CHIPs/chip-0029.md"
+  date: "2024-03"
+  title: "Signer Protocol Serialization"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/104"
+  status: "Draft"
+
+- chip: "CHIP-0030"
+  url: "https://github.com/Chia-Network/chips/blob/223dce330cbb2723bbcaee619d39a062e3e15f99/CHIPs/chip-0030.md"
+  date: "2024-03"
+  title: "Wallet signer BLOB subdivision"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/105"
+  status: "Draft"
+
+- chip: "CHIP-0031"
+  url: "https://github.com/Chia-Network/chips/blob/744d664b098d452315b4a0c9eb55a1691ed9db91/CHIPs/chip-0031.md"
+  date: "2024-03"
+  title: "Wallet signer QR transportation"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/106"
+  status: "Draft"
+
+- chip: "CHIP-0032"
+  url: "https://github.com/Chia-Network/chips/blob/cd9935402e9458344f3312d223c7c32d4249cb50/CHIPs/chip-0032.md"
+  date: "2024-03"
+  title: "Block NoSSD"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/111"
+  status: "Withdrawn"
+
+- chip: "CHIP-0033"
+  url: "https://github.com/Chia-Network/chips/blob/9c8df11d59bc3100b97238a9a28f5fb5c586dd00/CHIPs/chip-0033.md"
+  date: "2024-03"
+  title: "Additional Partial Headers"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/114"
+  status: "Final"
+
+- chip: "CHIP-0034"
+  url: "https://github.com/Chia-Network/chips/blob/8fabb1d62c11d60c539926e3d028d07f8a41714a/CHIPs/chip-0034.md"
+  date: "2024-04"
+  title: "keccak and base64 operators"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/116"
+    - "Community Call|https://www.youtube.com/watch?v=hFwPBfM4s8c"
+  status: "Withdrawn"
+
+- chip: "CHIP-0035"
+  url: "https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0035.md"
+  date: "2024-07"
+  title: "DataLayer Delegation Capabilities"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/125"
+    - "Community Call|https://www.youtube.com/watch?v=jyg4Ji9LvKI"
+  status: "Final"
+
+- chip: "CHIP-0036"
+  url: "https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0036.md"
+  date: "2024-10"
+  title: "keccak256 CLVM operator"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/131"
+    - "Community Call|https://www.youtube.com/watch?v=hFwPBfM4s8c"
+  status: "Final"
+
+- chip: "CHIP-0037"
+  url: "https://github.com/Chia-Network/chips/pull/132"
+  date: "2024-11"
+  title: "EIP-712 Wallet Puzzle"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/132"
+  status: "Review"
+
+- chip: "CHIP-0038"
+  url: "https://github.com/Chia-Network/chips/blob/e6553a89241eaec6ab3706a2da32d326a97a75f5/CHIPs/chip-0038.md"
+  date: "2024-12"
+  title: "Revocable CATs"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/136"
+  status: "Review"
+
+- chip: "CHIP-0039"
+  url: "https://github.com/Chia-Network/chips/blob/f6a5c8ef591cd2b747154107829cbabc6d2f71c8/CHIPs/chip-0039.md"
+  date: "2024-12"
+  title: "Fee Service Standard"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/138"
+    - "Community Call|https://www.youtube.com/watch?v=kWXT4WXtkC4"
+  status: "Draft"
+
+- chip: "CHIP-0040"
+  url: "https://github.com/Chia-Network/chips/blob/dfbc3b220c7c470d15cfa8ad225ddeefeeb7b9bb/CHIPs/chip-0040.md"
+  date: "2024-12"
+  title: "everything_with_singleton TAIL"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/139"
+  status: "Review"
+
+- chip: "CHIP-0041"
+  url: "https://github.com/Chia-Network/chips/blob/59e90f00bb07445c07b6db8832f6cc105f860456/CHIPs/chip-0041.md"
+  date: "2025-02"
+  title: "Streaming Puzzle"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/142"
+  status: "Draft"
+
+- chip: "CHIP-0042"
+  url: "https://github.com/Chia-Network/chips/blob/832ec2dbfa421de509c89a78c2b672af282824a7/CHIPs/chip-0042.md"
+  date: "2025-02"
+  title: "Protected Single Sided Offers"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/143"
+  status: "Draft"
+
+- chip: "CHIP-0043"
+  url: "https://github.com/Chia-Network/chips/blob/96419d9a6fbcfe9748acd9654e02ac32b5bcbb53/CHIPs/chip-0043.md"
+  date: "2025-02"
+  title: "Meta Inner Puzzle Spec (MIPS)"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/145"
+  status: "Draft"
+
+
+# Unassigned CHIPs
+- chip: "CHIP-????"
+  url: "https://github.com/Chia-Network/chips/blob/d6133f30043b462a359b78a7b3eb5bb21d276e63/CHIPs/chip-long-term-grinding-protection.md"
+  date: "2023-12"
+  title: "Long-term Grinding Protection"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/95"
+
+  status: "Withdrawn"
+
+- chip: "CHIP-????"
+  url: "https://github.com/joshpainter/chips/blob/main/CHIPs/chip-joshpainter-auctions.md"
+  date: "2022-06"
+  title: "Auctions"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/24"
+    - "Twitter Thread|https://x.com/endertown/status/1537076782779797505"
+  status: "Idea"
+
+# Template
+# - chip: "CHIP-####"
+#   url: ""
+#   date: "YYYY-MM"
+#   title: ""
+#   discussion_links:
+#     - "PR Comments|https://github.com/Chia-Network/chips/pull/##"
+#     - "Community Call|https://www.youtube.com/"
+#   status: "Draft"

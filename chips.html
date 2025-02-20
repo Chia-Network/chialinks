@@ -1,0 +1,50 @@
+---
+layout: page
+title: CHIP Tracker
+permalink: /chips/
+
+nav_exclude: true
+---
+
+<h1>CHIP Tracker</h1>
+
+<h2>What is a CHIP?</h2>
+<p>A CHIP (Chia Improvement Proposals) is a formal design documents proposed by the Chia team and community as features or changes to the Chia ecosystem. More details can be found in the <a href="https://www.chia.net/2022/02/14/chia-improvement-proposals.en.html">introductory blog post</a> and <a href="https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0001.md">CHIP-0001</a> that outlines the CHIP process.</p>
+
+<h2>List of Proposals</h2>
+<table>
+    <thead>
+      <tr>
+        <th>CHIP</th>
+        <th>Date</th>
+        <th>Title</th>
+        <th>Discussion Links</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for chip in site.data.chips %}
+      <tr>
+        <td><a href="{{ chip.url }}">{{ chip.chip }}</a></td>
+        <td>{{ chip.date }}</td>
+        <td>{{ chip.title }}</td>
+        <td>{% if chip.discussion_links.size > 0 %}{% for link in chip.discussion_links %}{% assign link_parts = link | split: "|" %}<a href="{{ link_parts[1] }}">- {{ link_parts[0] }}</a>{% unless forloop.last %}<br/>{% endunless %}{% endfor %}{% else %}n/a{% endif %}</td>
+        <td>{% if chip.status == "Final" or chip.status == "Withdrawn" %}<strong>{{ chip.status }}</strong>{% else %}{{ chip.status }}{% endif %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+</table>
+
+<style>
+ td {
+    max-width: 200px;
+}
+</style>
+
+<p>Also check out the <a href="https://github.com/Chia-Network/chips/projects/1">CHIPs backlog</a> and #chips channel on Discord for more details.</p>
+
+<h2>CHIP Process Flow Chart</h2>
+<img src="https://www.chia.net/wp-content/uploads/2022/08/image-21.png" alt="CHIP Flow Chart">
+<p align="center">
+    Fig.1 - Flow chart of the CHIP process (<a href="https://www.chia.net/2022/02/14/chia-improvement-proposals.en.html" target="_blank">Source</a>)
+</p>
