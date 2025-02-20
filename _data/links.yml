@@ -483,12 +483,6 @@
   description: The solid state drive database has been compiled to help you compare SSD's and make an informed decision.
   date: 2021-05-09
 
-- name: Space Pool
-  url: http://pool.space/
-  tags: [pools, verified, established]
-  description: The largest Chia farming pool following the official pooling protocol.
-  date: 2021-05-10
-
 - name: Chia Plotting Calculator
   url: https://artofpc.com/chia-plotting-calculator/
   tags: [plotting, tools]
@@ -1542,7 +1536,7 @@
 
 - name: Chia Friends
   url: https://chiafriends.xyz/
-  tags: [nfts, verified, featured, projects]
+  tags: [nfts, verified, projects]
   description: Official NFT profile picture (PFP) project from the Chia Network. 10,000 given away in a raffle.
   date: 2022-06-30
 
@@ -1641,12 +1635,6 @@
   tags: [exchanges]
   description: Singapore based exchange.
   date: 2021-08-18
-
-- name: Space Explorer
-  url: https://explorer.space/
-  tags: [tools, statistics]
-  description: Chia blockchain explorer by Space Pool.
-  date: 2022-08-19
 
 - name: Proof of Treasure
   url: https://www.proofoftreasure.com/
@@ -2656,3 +2644,45 @@
   tags: [nfts, merchants]
   description: Fractional Real Estate marketplace, powered by Chia.
   date: 2024-08-19
+
+- name: XCH.network
+  url: https://xch.network
+  tags: [community]
+  description: Collection of resources to learn about and start using the Chia Blockchain.
+  date: 2025-01-12
+
+- name: XCH.coffee
+  url: https://xch.coffee
+  tags: [podcasts]
+  description: AI powered podcast introducing the basics of the Chia blockchain.
+  date: 2025-01-12
+
+- name: Sage Wallet
+  url: https://sagewallet.net
+  tags: [wallets, verified]
+  description: Cross-platform Rust-based Chia light wallet with support for CATs, NFTs, Offers, DIDs and more.
+  date: 2025-01-12
+
+- name: XCH Picker
+  url: https://cassfairiesclub.github.io/xch-picker/
+  tags: [nft, tools]
+  description: Fairly and randomly select an NFT from a specified NFT collection.
+  date: 2025-01-12
+
+- name: XCH Foundation
+  url: https://xch.foundation/
+  tags: [community]
+  description: A nonprofit organization for the Chia community.
+  date: 2025-01-12
+
+- name: Chia Signer
+  url: https://apps.apple.com/us/app/chia-signer/id6504493785
+  tags: [tools]
+  description: A cryptocurrency hardware wallet for smartphones. It allows you to sign transactions using a key that lives in your phone's Secure Enclave.
+  date: 2025-01-12
+
+- name: Chia Cloud Wallet (Testnet)
+  url: https://vault.chiatest.net/
+  tags: [wallets]
+  description: The Chia Cloud Wallet allows an easier way to self-custody digital assets and more intelligently and securely control their entire portfolio.
+  date: 2025-01-12
