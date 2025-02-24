@@ -305,11 +305,11 @@
   status: "Final"
 
 - chip: "CHIP-0037"
-  url: "https://github.com/Chia-Network/chips/pull/132"
+  url: "https://github.com/Chia-Network/chips/blob/e96d53e145b0ba6554797120f75eabeab1cc1556/CHIPs/chip-0037.md"
   date: "2024-11"
   title: "EIP-712 Wallet Puzzle"
   discussion_links:
-    - "PR Comments|https://github.com/Chia-Network/chips/pull/132"
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/147"
   status: "Review"
 
 - chip: "CHIP-0038"
@@ -343,7 +343,8 @@
   title: "Streaming Puzzle"
   discussion_links:
     - "PR Comments|https://github.com/Chia-Network/chips/pull/142"
-  status: "Draft"
+    - "Community Call|https://www.youtube.com/watch?v=QUvbveve3EU"
+  status: "Review"
 
 - chip: "CHIP-0042"
   url: "https://github.com/Chia-Network/chips/blob/832ec2dbfa421de509c89a78c2b672af282824a7/CHIPs/chip-0042.md"
