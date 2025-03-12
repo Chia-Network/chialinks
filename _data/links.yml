@@ -512,16 +512,6 @@
   tags: [pools, established]
   date: 2021-05-11
 
-- name: SuperMine
-  url: https://www.supermine.io
-  tags: [pools, unproven]
-  date: 2021-05-12
-
-- name: chiahub.io
-  url: https://chiahub.io/
-  tags: [pools, services, growing]
-  date: 2021-05-12
-
 - name: letsfarm.io
   url: https://letsfarm.io/
   tags: [pools, growing]
@@ -1105,11 +1095,6 @@
   description: A open-source decentralized peer-to-peer offers database with a web front end.
   date: 2022-01-25
 
-- name: CHIABATTA
-  url: https://info.chiabatta.xyz/chiabatta
-  tags: [pools, growing]
-  date: 2022-01-28
-
 - name: Sweetchia
   url: https://sweetchia.com/
   tags: [pools, growing]
@@ -1335,7 +1320,7 @@
   pair: XCH/USDT
   pair_url: https://stealthex.io/?amount=1&from=xch&to=usdttrc20
   tags: [swap services]
-  description: Directly trade another crypto for XCH and vice versa without sign-up or limits.
+  description: ""
   date: 2022-04-23
 
 # - name: CATs Founder Faucet
@@ -2686,3 +2671,44 @@
   tags: [wallets]
   description: The Chia Cloud Wallet allows an easier way to self-custody digital assets and more intelligently and securely control their entire portfolio.
   date: 2025-01-12
+
+- name: XCH.live
+  url: https://xch.live
+  tags: [tools]
+  description: Service for monitoring cold wallets and get email notifications on transfers
+  date: 2025-03-12
+
+- name: XCHprice.info
+  url: https://xchprice.info
+  tags: [tools]
+  description: Aggregate data from trusted exchange sources to give the most updated and accurate comparison for trading XCH.
+  date: 2025-03-12
+
+- name: BTCPay Server Chia Plugin
+  url: https://github.com/XCHPay/btcpayserver-chia-plugin
+  tags: [developers, tools, merchants]
+  description: This plugin extends the functionality of BTCPay Server, a self-hosted cryptocurrency payment processor that allows merchants to accept Bitcoin and other cryptocurrencies.
+  date: 2025-03-12
+
+- name: TradeOgre
+  url: https://tradeogre.com/
+  pair: XCH/USDT
+  pair_url: https://tradeogre.com/exchange/XCH-USDT
+  tags: [exchanges]
+  date: 2025-03-12
+
+- name: Exolix
+  url: https://exolix.com/exchange
+  pair: XCH/USDC
+  pair_url: https://exolix.com/currencies/xch
+  tags: [swap services]
+  description: " "
+  date: 2025-03-12
+
+- name: ChangeNOW
+  url: https://changenow.io/
+  pair: XCH/USDC
+  pair_url: https://changenow.io/?from=usdc&to=xch
+  tags: [swap services]
+  description: " "
+  date: 2025-03-12
