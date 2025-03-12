@@ -361,3 +361,18 @@
   date: 2024-12-12
   description: This release includes the soft fork from CHIP-36 which adds the keccak256 operator to the CLVM in order to enable the support of Ethereum addresses. Upgrading is highly recommended for this release.
   source: https://github.com/Chia-Network/chia-blockchain/releases/tag/2.5.0
+
+- title: Permuto Capital MSFT Trust Registration
+  date: 2025-01-15
+  description: Permuto Capital, a joint venture between 3V Capital Partners and Chia Network Inc. was launched and a new voting trust investment vehicle formed by Permuto has filed a registration statement with the SEC relating to a new type of equity product.
+  source: https://www.businesswire.com/news/home/20250114592626/en/Newly-Launched-Permuto-Capital-Announces-Filing-of-Registration-Statement-for-New-Type-of-Equity-Product
+
+- title: Chia Blockchain 2.5.2 released
+  date: 2025-02-20
+  description: This release increases block fill to 100% and includes a required mempool fix to allow farmers to continue making blocks uninterrupted. 
+  source: https://www.chia.net/2025/02/20/version-2-5-2-release/
+
+- title: Permuto MSFT/AAPL/AVGO Filings
+  date: 2025-02-28
+  description: Permuto Capital has filed an amendment for its MSFT trust registration statement and two new filings for AAPL and AVGO trusts.
+  source: https://www.businesswire.com/news/home/20250227601720/en/Permuto-Capital-Announces-Amended-Registration-Statement-and-Additional-Registration-Statements-for-Novel-Equity-Product
