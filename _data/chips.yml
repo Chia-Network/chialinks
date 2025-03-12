@@ -305,11 +305,11 @@
   status: "Final"
 
 - chip: "CHIP-0037"
-  url: "https://github.com/Chia-Network/chips/pull/132"
+  url: "https://github.com/Chia-Network/chips/blob/e96d53e145b0ba6554797120f75eabeab1cc1556/CHIPs/chip-0037.md"
   date: "2024-11"
   title: "EIP-712 Wallet Puzzle"
   discussion_links:
-    - "PR Comments|https://github.com/Chia-Network/chips/pull/132"
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/147"
   status: "Review"
 
 - chip: "CHIP-0038"
@@ -343,7 +343,8 @@
   title: "Streaming Puzzle"
   discussion_links:
     - "PR Comments|https://github.com/Chia-Network/chips/pull/142"
-  status: "Draft"
+    - "Community Call|https://www.youtube.com/watch?v=QUvbveve3EU"
+  status: "Review"
 
 - chip: "CHIP-0042"
   url: "https://github.com/Chia-Network/chips/blob/832ec2dbfa421de509c89a78c2b672af282824a7/CHIPs/chip-0042.md"
@@ -351,7 +352,8 @@
   title: "Protected Single Sided Offers"
   discussion_links:
     - "PR Comments|https://github.com/Chia-Network/chips/pull/143"
-  status: "Draft"
+    - "Community Call|https://www.youtube.com/watch?v=lqHeQOP_Fuw"
+  status: "Review"
 
 - chip: "CHIP-0043"
   url: "https://github.com/Chia-Network/chips/blob/96419d9a6fbcfe9748acd9654e02ac32b5bcbb53/CHIPs/chip-0043.md"
@@ -359,6 +361,22 @@
   title: "Meta Inner Puzzle Spec (MIPS)"
   discussion_links:
     - "PR Comments|https://github.com/Chia-Network/chips/pull/145"
+  status: "Draft"
+
+- chip: "CHIP-0044"
+  url: "https://github.com/Chia-Network/chips/blob/714a529876f3889eeba5a188131c05ff539fc171/CHIPs/chip-rigidity-clawbacks.md"
+  date: "2025-03"
+  title: "Clawback Standard v2"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/150"
+  status: "Draft"
+
+- chip: "CHIP-0045"
+  url: "https://github.com/Chia-Network/chips/blob/255a787073329453574254065afafecd288a7519/CHIPs/chip-rigidity-options.md"
+  date: "2025-03"
+  title: "Option Contracts"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/152"
   status: "Draft"
 
 
