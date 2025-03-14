@@ -379,6 +379,13 @@
     - "PR Comments|https://github.com/Chia-Network/chips/pull/152"
   status: "Draft"
 
+- chip: "CHIP-0046"
+  url: "https://github.com/Chia-Network/chips/blob/913fa6447733c83e60da470a25656fc07f418242/CHIPs/chip-trgarrett-detecting-dishonest-nft-offers.md"
+  date: "2025-03"
+  title: "Detecting Dishonest NFT Offers"
+  discussion_links:
+    - "PR Comments|https://github.com/Chia-Network/chips/pull/151"
+  status: "Draft"
 
 # Unassigned CHIPs
 - chip: "CHIP-????"
