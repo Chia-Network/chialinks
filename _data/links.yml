@@ -2712,3 +2712,12 @@
   tags: [swap services]
   description: " "
   date: 2025-03-12
+
+- name: CoinoSwap
+  url: https://coinoswap.com/
+  pair: XCH/USDT
+  pair_url: https://www.coinoswap.com/?to=xch&toNetwork=xch&from=usdt&fromNetwork=trx&sellAmount=125&direction=direct
+  tags: [swap services]
+  description: " "
+  date: 2025-08-11
+
