@@ -2387,11 +2387,11 @@
   description: Abandoned land is an experimental collectible card game on the Chia blockchain that combines NFTs with Chia Asset Tokens. Think of it as a mix between an idle game and a resource trading game. The owner of the cards will be paid out daily the amount listed on the card. Different tokens will be used to trade for more assets, card, or to upgrade your current card.
   date: 2023-08-25
 
-- name: FarmerVerse
-  url: https://farmerverse.space
-  tags: [games]
-  description: An innovative decentralized farming adventure on the Chia Network, where your prosperity grows as you cultivate your virtual land.
-  date: 2023-08-25
+#- name: FarmerVerse
+#  url: https://farmerverse.space
+#  tags: [games]
+#  description: An innovative decentralized farming adventure on the Chia Network, where your prosperity grows as you cultivate your virtual land.
+#  date: 2023-08-25
 
 - name: ChiaSlimes
   url: https://discord.gg/WSgQTrVbVM
