@@ -1639,6 +1639,7 @@
 #   tags: [wallets]
 #   description: Mac and iOS wallet with client side peer-to-peer light wallet protocol. Monthly subscription and free trial available.
 #   date: 2022-10-08
+#   Note: No longer actively maintained
 
 - name: Hoogii
   url: https://hoogii.app/
@@ -2606,7 +2607,9 @@
 
 - name: warp.green
   url: https://warp.green
-  tags: [verified, defi]
+  tags: [verified, defi, bridges]
+  pair: XCH/wXCH
+  pair_url: https://warp.green
   description: A cross-chain messaging protocol that enables an ETH/Base to Chia bridge, bringing wrapped Chia assets to EVM and wrapped EVM assets to Chia.
   date: 2024-08-19
 
@@ -2664,6 +2667,12 @@
   url: https://apps.apple.com/us/app/chia-signer/id6504493785
   tags: [tools]
   description: A cryptocurrency hardware wallet for smartphones. It allows you to sign transactions using a key that lives in your phone's Secure Enclave.
+  date: 2025-01-12
+
+- name: Chia Cloud Wallet
+  url: https://vault.chia.net/
+  tags: [wallets, verified]
+  description: The Chia Cloud Wallet allows an easier way to self-custody digital assets and more intelligently and securely control their entire portfolio. Web-based wallet with ACH bank transfer support for US users to purchase XCH directly.
   date: 2025-01-12
 
 - name: Chia Cloud Wallet (Testnet)
