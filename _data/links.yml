@@ -325,11 +325,12 @@
   description: An app that can monitor your Chia services and report it to a web service so you can monitor your farming remotely with a slick dashboard.
   date: 2021-04-27
 
-- name: chia-rest-api
-  url: https://github.com/Godfather95/chia-rest-api
-  tags: [tools, developers]
-  description: REST API wrapper for Chia-RPC for developers to use in building their Chia applications.
-  date: 2021-04-27
+# - name: chia-rest-api
+#   url: https://github.com/Godfather95/chia-rest-api
+#   tags: [tools, developers]
+#   description: REST API wrapper for Chia-RPC for developers to use in building their Chia applications.
+#   date: 2021-04-27
+#   note: 404 error
 
 - name: Swar's Chia Plot Manager
   url: https://github.com/swar/Swar-Chia-Plot-Manager
@@ -628,11 +629,12 @@
   description: A list of peer IPs of active nodes on the Chia network to add manually if you are having sync issues.
   date: 2021-05-20
 
-- name: Chia Telegram Bot
-  url: https://interchargers.com/chia-telegram-bot/
-  tags: [farming, tools]
-  description: Windows Powershell script to monitor log files and trigger a Telegram notification.
-  date: 2021-05-22
+# - name: Chia Telegram Bot
+#   url: https://interchargers.com/chia-telegram-bot/
+#   tags: [farming, tools]
+#   description: Windows Powershell script to monitor log files and trigger a Telegram notification.
+#   date: 2021-05-22
+#   note: 404 error
 
 - name: Chia Logs Analyser
   url: https://chia-stats.lorado.dev/upload-log
@@ -1328,12 +1330,14 @@
 #   tags: [faucets]
 #   description: Claim 100,000 mojos up to 3 times daily.
 #   date: 2022-04-23
+#   Note: No longer actively maintained
 
 # - name: CATs Founder Online Minting Tool
 #   url: https://www.catsfounder.com/
 #   tags: [cats, tools]
 #   description: An online tool for minting CATs.
 #   date: 2022-04-23
+#   Note: No longer actively maintained
 
 - name: CAT Auto Send Script
   url: https://github.com/morph3us1984/CAT-auto-send-script
@@ -1371,11 +1375,12 @@
   description: Dashboard monitoring open source development in the Chia ecosystem.
   date: 2023-05-29
 
-- name: Keyword Crypto - Jon of ChiaLinks
-  url: https://www.keywordcrypto.com/jon-of-chialinks/
-  tags: [podcasts]
-  description: Jon from Chialinks.com sits down with Michael to chat about Chia and Nano.
-  date: 2022-05-01
+# - name: Keyword Crypto - Jon of ChiaLinks
+#   url: https://www.keywordcrypto.com/jon-of-chialinks/
+#   tags: [podcasts]
+#   description: Jon from Chialinks.com sits down with Michael to chat about Chia and Nano.
+#   date: 2022-05-01
+#   note: 404 error
 
 - name: The Fintech Blueprint - 25 years of cypherpunk innovation in money, privacy, and music, with Chia Network COO Gene Hoffman
   url: https://lex.substack.com/p/podcast-conversation-25-years-of?s=r
@@ -1395,13 +1400,14 @@
   description: Cross platform wallet designed for transactions with XCH, CATs, and NFTs in a reliable and secure way.
   date: 2022-05-22
 
-- name: Indodax
-  url: https://www.indodax.com/
-  pair: XCH/IDR
-  pair_url: https://indodax.com/market/XCHIDR
-  tags: [exchanges]
-  description: Indonesia based exchange.
-  date: 2022-05-24
+# - name: Indodax
+#   url: https://www.indodax.com/
+#   pair: XCH/IDR
+#   pair_url: https://indodax.com/market/XCHIDR
+#   tags: [exchanges]
+#   description: Indonesia based exchange.
+#   date: 2022-05-24
+#   note: 404 error
 
 - name: BitMart
   url: https://www.bitmart.com/
@@ -1525,11 +1531,12 @@
   description: Official NFT profile picture (PFP) project from the Chia Network. 10,000 given away in a raffle.
   date: 2022-06-30
 
-- name: Chia Twitter Spaces Archive - XCH Dev Spaces
-  url: https://xchdev.com/index.html#!spaces.md
-  tags: [podcasts]
-  description: An archive ot recorded Twitter Spaces talking about Chia, including the Chia 168 hour marathon in July 2022.
-  date: 2022-07-13
+# - name: Chia Twitter Spaces Archive - XCH Dev Spaces
+#   url: https://xchdev.com/index.html#!spaces.md
+#   tags: [podcasts]
+#   description: An archive of recorded Twitter Spaces talking about Chia, including the Chia 168 hour marathon in July 2022.
+#   date: 2022-07-13
+#   note: 404 error
 
 - name: Farmers Market by ChiaLinks.com
   url: https://farmersmarket.cc
@@ -1573,16 +1580,18 @@
   description: A bash script to help make the process of minting a series of NFTs on the Chia Blockchain easier.
   date: 2022-08-10
 
-- name: easy_mint
-  url: https://github.com/su77ungr/easy_mint
-  tags: [nfts, tools]
-  description: Automating minting and creating .offer files
-  date: 2022-08-10
+# - name: easy_mint
+#   url: https://github.com/su77ungr/easy_mint
+#   tags: [nfts, tools]
+#   description: Automating minting and creating .offer files
+#   date: 2022-08-10
+#   note: 404 error
 
-- name: mint_test_script
-  url: https://github.com/ockhamstest/mint_test_script
-  tags: [nfts, tools]
-  date: 2022-08-10
+# - name: mint_test_script
+#   url: https://github.com/ockhamstest/mint_test_script
+#   tags: [nfts, tools]
+#   date: 2022-08-10
+#   note: 404 error
 
 - name: nftutil
   url: https://github.com/imagenaria/nftutil
@@ -1641,11 +1650,12 @@
 #   date: 2022-10-08
 #   Note: No longer actively maintained
 
-- name: Hoogii
-  url: https://hoogii.app/
-  tags: [wallets]
-  description: Hoogii is a crypto wallet extension for Chia Network from the Hashgreen Labs team.
-  date: 2022-10-31
+# - name: Hoogii
+#   url: https://hoogii.app/
+#   tags: [wallets]
+#   description: Hoogii is a crypto wallet extension for Chia Network from the Hashgreen Labs team.
+#   date: 2022-10-31
+#   Note: No longer actively maintained
 
 - name: H9
   url: https://www.h9.com/statistics/chiapp
@@ -1767,17 +1777,19 @@
   description: RPC/Websocket based metrics exporter for Chia
   date: 2023-01-25
 
-- name: Evergreen Mobile Wallet
-  url: https://evergreenminer.com/pages/setup-mobile
-  tags: [wallets]
-  description: Evergreen Mobile allows you to manage your Evergreen Miner, custody coins, and keep track of your operations and earnings.
-  date: 2023-01-25
+# - name: Evergreen Mobile Wallet
+#   url: https://evergreenminer.com/pages/setup-mobile
+#   tags: [wallets]
+#   description: Evergreen Mobile allows you to manage your Evergreen Miner, custody coins, and keep track of your operations and earnings.
+#   date: 2023-01-25
+#   Note: No longer actively maintained
 
-- name: Evergreen Miner
-  url:  https://www.evergreenminer.com
-  tags: [farming, hardware, verified, merchants]
-  description: Plug and Play Farming Hardware with integrated Chia wallet, collectibles, exchange, and more.
-  date: 2023-01-25
+# - name: Evergreen Miner
+#   url:  https://www.evergreenminer.com
+#   tags: [farming, hardware, verified, merchants]
+#   description: Plug and Play Farming Hardware with integrated Chia wallet, collectibles, exchange, and more.
+#   date: 2023-01-25
+#   Note: No longer actively maintained
 
 - name: XCHDEV - This Week In Chia
   url: https://www.thisweekinchia.com
@@ -1910,11 +1922,12 @@
   tags: [videos, plotting]
   date: 2023-03-01
 
-#- name: Chia Help
-#  url: https://help.chia.net/hc/en-us
-#  tags: [community, featured, verified]
-#  description: Official help and FAQ maintained by the Chia Network team.
-#  date: 2023-03-01
+# - name: Chia Help
+#   url: https://help.chia.net/hc/en-us
+#   tags: [community, featured, verified]
+#   description: Official help and FAQ maintained by the Chia Network team.
+#   date: 2023-03-01
+#   Note: No longer actively maintained
 
 - name: Smart Coin First Steps in Chialisp
   url: https://www.youtube.com/watch?v=-Nza_N9Xb3Y
@@ -1953,11 +1966,12 @@
   description: CHIA Space Hub is a landing spot for a lot of different community built destinations in the metaverse. Homes, Galleries, Churches, Shrines, Trailer parks... all found in Spatial.
   date: 2023-03-01
   
-- name: Frodo Wallet
-  url: https://www.frodowallet.com/
-  tags: [wallets]
-  description: Frodo Wallet is an open-source, secure wallet with a focus on amazing usability, high security and an extensive feature set. You can easily mint DID-backed NFTs and create your own tokens. It offers 24-word default security, the highest, rare in mobile wallets.
-  date: 2023-03-06
+# - name: Frodo Wallet
+#   url: https://www.frodowallet.com/
+#   tags: [wallets]
+#   description: Frodo Wallet is an open-source, secure wallet with a focus on amazing usability, high security and an extensive feature set. You can easily mint DID-backed NFTs and create your own tokens. It offers 24-word default security, the highest, rare in mobile wallets.
+#   date: 2023-03-06
+#   Note: No longer actively maintained
 
 - name: Cypher ChiaLisp Library
   url: https://github.com/hashgreen/cypher-chialisp
@@ -2218,11 +2232,12 @@
   tags: [developers, walletconnect]
   date: 2023-08-14
 
-- name: Chia Official Example dApp (deprecated)
-  url: https://github.com/Chia-Network/chia-wallet-connect-dapp-test
-  creator: Chia Network
-  tags: [developers, walletconnect]
-  date: 2023-08-14
+# - name: Chia Official Example dApp (deprecated)
+#   url: https://github.com/Chia-Network/chia-wallet-connect-dapp-test
+#   creator: Chia Network
+#   tags: [developers, walletconnect]
+#   date: 2023-08-14
+#   note: 404 error
 
 - name: Open Market Dev Clup dApp example
   url: https://github.com/Open-Market-Dev-Club/chia-walletconnect
@@ -2334,35 +2349,40 @@
   description: Collection of Chia related memes.
   date: 2023-08-14
 
-- name: Buidl Crypto Episode 4 - Programmable Money
-  url: https://buidlcrypto.buzzsprout.com/1567471/7252243-4-programmable-money
-  tags: [podcasts]
-  description: Bram Cohen, the legendary inventor of BitTorrent, talks about his programmable money startup Chia. It plans to make cryptocurrencies more efficient and easier to use then today. Bram is joined by Chia's president Gene Hoffman, former CEO of Vindicia and co-founder of emusic.
-  date: 2021-01-11
+# - name: Buidl Crypto Episode 4 - Programmable Money
+#   url: https://buidlcrypto.buzzsprout.com/1567471/7252243-4-programmable-money
+#   tags: [podcasts]
+#   description: Bram Cohen, the legendary inventor of BitTorrent, talks about his programmable money startup Chia. It plans to make cryptocurrencies more efficient and easier to use then today. Bram is joined by Chia's president Gene Hoffman, former CEO of Vindicia and co-founder of emusic.
+#   date: 2021-01-11
+#   note: 404 error
 
-- name: Buidl Crypto Episode 5 - Green Programmable Money
-  url: https://buidlcrypto.buzzsprout.com/1567471/7646299-5-green-programmable-money
-  tags: [podcasts]
-  description: Continued conversation with Gene Hoffman president of Chia (former CEO of Vindicia and co-founder of emusic) along with Bram Cohen, on future of Chia network.   
-  date: 2021-02-12
+# - name: Buidl Crypto Episode 5 - Green Programmable Money
+#   url: https://buidlcrypto.buzzsprout.com/1567471/7646299-5-green-programmable-money
+#   tags: [podcasts]
+#   description: Continued conversation with Gene Hoffman president of Chia (former CEO of Vindicia and co-founder of emusic) along with Bram Cohen, on future of Chia network.
+#   date: 2021-02-12
+#   note: 404 error
 
-- name: Buidl Crypto Episode 19 - Chia, The Best Damn Blockchain
-  url: https://buidlcrypto.buzzsprout.com/1567471/9676932-19-chia-the-best-damn-blockchain
-  tags: [podcasts]
-  description: Jonmichael Hands, VP Storage at Chia talks about how Chia's energy efficient blockchain raises the stake for nakamoto consensus and proof of work. 
-  date: 2021-12-06
+# - name: Buidl Crypto Episode 19 - Chia, The Best Damn Blockchain
+#   url: https://buidlcrypto.buzzsprout.com/1567471/9676932-19-chia-the-best-damn-blockchain
+#   tags: [podcasts]
+#   description: Jonmichael Hands, VP Storage at Chia talks about how Chia's energy efficient blockchain raises the stake for nakamoto consensus and proof of work.
+#   date: 2021-12-06
+#   note: 404 error
 
-- name: Buidl Crypto Episode 28 - A new kind of decentralize exchange
-  url: https://buidlcrypto.buzzsprout.com/1567471/13283806-28-a-new-kind-of-decentralize-exchange
-  tags: [podcasts]
-  description: TibetSwap is an Automated Market Maker (AMM) running on the Chia blockchain. It uses funds provided users (liquidity providers) to allow anyone to trade XCH and tokens at what it considers to be a fair price.
-  date: 2023-07-24
+# - name: Buidl Crypto Episode 28 - A new kind of decentralize exchange
+#   url: https://buidlcrypto.buzzsprout.com/1567471/13283806-28-a-new-kind-of-decentralize-exchange
+#   tags: [podcasts]
+#   description: TibetSwap is an Automated Market Maker (AMM) running on the Chia blockchain. It uses funds provided users (liquidity providers) to allow anyone to trade XCH and tokens at what it considers to be a fair price.
+#   date: 2023-07-24
+#   note: 404 error
 
-- name: Buidl Crypto Episode 28 - Empowering Individuals with Producer Economy
-  url: https://buidlcrypto.buzzsprout.com/1567471/13332900-30-empowering-individuals-with-producer-economy
-  tags: [podcasts]
-  description: Jerod Moore a YouTuber and tech nerd who has been nerding it up for the past 20 years runs Digital Spaceport.
-  date: 2023-08-01
+# - name: Buidl Crypto Episode 28 - Empowering Individuals with Producer Economy
+#   url: https://buidlcrypto.buzzsprout.com/1567471/13332900-30-empowering-individuals-with-producer-economy
+#   tags: [podcasts]
+#   description: Jerod Moore a YouTuber and tech nerd who has been nerding it up for the past 20 years runs Digital Spaceport.
+#   date: 2023-08-01
+#   note: 404 error
 
 - name: Python-chianode wrapper
   url: https://github.com/circuitdao/python-chianode
@@ -2438,12 +2458,13 @@
   description: Chia CEO Gene Hoffman Talks IPO Delay, Layoffs, Prefarm Sale, and What's Next for Chia Network
   date: 2023-10-02
 
-- name: Chia Network - The 'Most Decentralized Blockchain' on the planet?
-  url: https://unchainedcrypto.substack.com/p/chia-network-the-most-decentralized
-  creator: Unchained Podcast
-  tags: [discussions, videos]
-  description: Gene Hoffman, CEO of Chia Network, discussed the company's vision for a more sustainable, secure blockchain, and its partnerships.
-  date: 2023-10-03
+# - name: Chia Network - The 'Most Decentralized Blockchain' on the planet?
+#   url: https://unchainedcrypto.substack.com/p/chia-network-the-most-decentralized
+#   creator: Unchained Podcast
+#   tags: [discussions, videos]
+#   description: Gene Hoffman, CEO of Chia Network, discussed the company's vision for a more sustainable, secure blockchain, and its partnerships.
+#   date: 2023-10-03
+#   note: 404 error
 
 - name: Tangem Wallet
   url: https://tangem.com/en/
