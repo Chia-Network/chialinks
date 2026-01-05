@@ -8,50 +8,82 @@ nav_order: 110
 tag: exchanges
 tag2: dexs
 tag3: swap services
+tag4: bridges
 sort: description
 sort2: name
 sort3: name
+sort4: name
 ---
 <h1>Exchanges</h1>
 <p>ChiaLinks is not affiliated with and cannot endorse any of the exchanges listed here.</p>
 
-<h2>Decentralized Exchanges (DEXs)</h2>
 Offers are a unique functionality on the Chia Blockchain. Decentralized exchanges leverage these Offers files to facilitate trading XCH and other Chia assets without an intermediary, counterparty risk, or exchange fees. This is the recommended way to trade.
+<h2 id="dexs">Decentralized Exchanges (DEXs)</h2>
 
 <table>
+  <caption>
+    List of Decentralized Exchanges (DEXs) for trading XCH and Chia assets
+  </caption>
   <thead>
     <tr>
-      <th style="text-align: left">Exchange</th>
-      <th style="text-align: left">Description</th>
-      <th style="text-align: left">Trading Pair</th>
+      <th scope="col" style="text-align: left">Exchange</th>
+      <th scope="col" style="text-align: left">Description</th>
+      <th scope="col" style="text-align: left">Trading Pair</th>
+    </tr>
   </thead>
   {% include tablerows.html tag=page.tag2 sort=page.sort2 %}
 </table>
 
 
-<h2>Traditional Exchanges</h2>
-Traditional centralized exchanges (CEXs) often require sign-up and depositing of fiat or crypto coins into a custodial wallet to use the exchange services.
+<h2 id="exchanges">Traditional Exchanges</h2>
+<p>Traditional centralized exchanges (CEXs) often require sign-up and depositing of fiat or crypto coins into a custodial wallet to use the exchange services.</p>
 
 <table>
+  <caption>
+    List of Traditional Centralized Exchanges (CEXs) for buying XCH
+  </caption>
   <thead>
     <tr>
-      <th style="text-align: left">Exchange</th>
-      <th style="text-align: left">Country</th>
-      <th style="text-align: left">Trading Pair</th>
+      <th scope="col" style="text-align: left">Exchange</th>
+      <th scope="col" style="text-align: left">Country</th>
+      <th scope="col" style="text-align: left">Trading Pair</th>
+    </tr>
   </thead>
   {% include tablerows.html tag=page.tag sort=page.sort %}
 </table>
 
 
-<h2>Swap Services</h2>
-Swap services generally do not require sign-up and allow the swap of one crypto for another. These services typically charge higher fees. Use with common sense and caution.
+<h2 id="swap-services">Swap Services</h2>
+<p>Swap services generally do not require sign-up and allow the swap of one crypto for another. These services typically charge higher fees. Use with common sense and caution.</p>
 
 <table>
+  <caption>
+    List of Swap Services for exchanging cryptocurrencies for XCH
+  </caption>
   <thead>
     <tr>
-      <th style="text-align: left">Exchange</th>
-      <th style="text-align: left">Description</th>
-      <th style="text-align: left">Trading Pair</th>
+      <th scope="col" style="text-align: left">Exchange</th>
+      <th scope="col" style="text-align: left">Description</th>
+      <th scope="col" style="text-align: left">Trading Pair</th>
+    </tr>
   </thead>
   {% include tablerows.html tag=page.tag3 sort=page.sort3 %}
+</table>
+
+
+<h2 id="bridges">Bridges</h2>
+<p>Bridges enable the transfer of assets between different blockchains, including XCH to wXCH (wrapped XCH) and vice versa. wXCH exists on either the Base or Ethereum blockchain and must be bridged to the Chia blockchain to acquire XCH directly. Bridge and other fees may apply.</p>
+
+<table>
+  <caption>
+    List of Bridges for transferring assets between blockchains
+  </caption>
+  <thead>
+    <tr>
+      <th scope="col" style="text-align: left">Bridge</th>
+      <th scope="col" style="text-align: left">Description</th>
+      <th scope="col" style="text-align: left">Trading Pair</th>
+    </tr>
+  </thead>
+  {% include tablerows.html tag=page.tag4 sort=page.sort4 %}
 </table>

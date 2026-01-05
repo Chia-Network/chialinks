@@ -90,9 +90,9 @@ aux_links:
     icon: guides
     url: /roadmap/
     new_tab: false
-  - title: Ecosystem
-    icon: get-started
-    url: /ecosystem/
+  - title: Buy XCH
+    icon: buy-xch
+    url: /buy-xch/
     new_tab: false
   - title: Submit Link
     icon: submit

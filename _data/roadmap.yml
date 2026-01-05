@@ -206,10 +206,11 @@
   description: The incorporation and launch of Chia Network subsidiary headquartered in Singapore, Chia Network PTE. LTD was announced. The new office will serve as the primary entity for the company's operations in Asia.
   source: https://www.businesswire.com/news/home/20221109005726/en/Chia-Network-Establishes-Official-Singapore-Entity-and-Begins-Operations
 
-- title: Climate Action Data Trust launch
-  date: 2022-12-07
-  description: IETA and founding partners announce the launch of Climate Action Data Trust built on the Chia blockchain utilizing the Chia DataLayer.
-  source: https://finance.yahoo.com/news/ieta-founding-partners-announce-launch-091400437.html
+# - title: Climate Action Data Trust launch
+#   date: 2022-12-07
+#   description: IETA and founding partners announce the launch of Climate Action Data Trust built on the Chia blockchain utilizing the Chia DataLayer.
+#   source: https://finance.yahoo.com/news/ieta-founding-partners-announce-launch-091400437.html
+#   note: 404 error
 
 - title: Gene Hoffman assumes CEO role
   date: 2023-01-19
@@ -317,10 +318,11 @@
   description: The first block reward halving occured, reducing the block reward from 2 XCH to 1 XCH.
   source: https://www.chia.net/2024/02/15/chia-blockchain-explainer-the-halvings/
 
-- title: Second Draft Registration Submitted
-  date: 2024-03-29
-  description: Chia Network Inc announced that it has confidentially submitted an amendment to its initial draft registration statement on Form S-1 to the SEC relating to the proposed IPO of its common stock.
-  source: https://finance.yahoo.com/news/chia-network-announces-second-confidential-211700042.html
+# - title: Second Draft Registration Submitted
+#   date: 2024-03-29
+#   description: Chia Network Inc announced that it has confidentially submitted an amendment to its initial draft registration statement on Form S-1 to the SEC relating to the proposed IPO of its common stock.
+#   source: https://finance.yahoo.com/news/chia-network-announces-second-confidential-211700042.html
+#   note: 404 error
 
 - title: Chia Blockchain 2.3.0 released
   date: 2024-05-01
