@@ -2696,12 +2696,6 @@
   description: The Chia Cloud Wallet allows an easier way to self-custody digital assets and more intelligently and securely control their entire portfolio. Web-based wallet with ACH bank transfer support for US users to purchase XCH directly.
   date: 2025-01-12
 
-- name: Chia Cloud Wallet (Testnet)
-  url: https://vault.chiatest.net/
-  tags: [wallets]
-  description: The Chia Cloud Wallet allows an easier way to self-custody digital assets and more intelligently and securely control their entire portfolio.
-  date: 2025-01-12
-
 - name: XCH.live
   url: https://xch.live
   tags: [tools]

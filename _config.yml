@@ -94,10 +94,6 @@ aux_links:
     icon: buy-xch
     url: /buy-xch/
     new_tab: false
-  - title: Ecosystem
-    icon: get-started
-    url: /ecosystem/
-    new_tab: false
   - title: Submit Link
     icon: submit
     url: /submit/
