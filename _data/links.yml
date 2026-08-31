@@ -2736,3 +2736,11 @@
   tags: [swap services]
   description: " "
   date: 2025-03-12
+  
+- name: EIDEX
+  url: https://eidex.io/screener
+  pair: XCH/BTC
+  pair_url: https://eidex.io/screener/xch-xch-to-btc-btc
+  tags: [swap services]
+  description: Compares live XCH quotes from 30+ swap providers side by side and ranks them by output amount.
+  date: 2026-08-22
