@@ -9,7 +9,7 @@ nav_exclude: true
 # Frequently Asked Questions
 {: .no_toc }
 
-A collection of commonly asked questions and answers collected from across [the community](/community/) to supplement the [official Chia Network FAQ](https://www.chia.net/faq/) and the [Chia blockchain software FAQ](https://github.com/Chia-Network/chia-blockchain/wiki/FAQ).
+A collection of commonly asked questions and answers collected from across [the community](/community/) to supplement the [Chia blockchain software FAQ](https://github.com/Chia-Network/chia-blockchain/wiki/FAQ).
 
 Each question and answer on this page can be directly linked to by hovering over the question and right-clicking on the link icon to copy the link address for sharing.
 
@@ -358,15 +358,12 @@ In general, you can check the following:
   - Check your logs (at INFO logging level) for eligible proofs being sent within 30 seconds
   - Consider joining a pool for monitoring tools and statistics to ensure your farm size is reflected properly
 
-See <a href="https://chiablockchain.com/2021/04/27/how-to-make-sure-i-am-farming-correctly/" target="_blank">this post</a> for information.
+See <a href="https://www.chiablockchain.com/2021/04/27/how-to-make-sure-i-am-farming-correctly/" target="_blank">this post</a> for information.
 
 ### What does "Plots Passed Filter" mean? Why is it 0?
 Every block challenge, each (k32) plot has a 1/512 chance of passing the filter. If it doesn't pass this filter then the plot cannot win the block and hence does not need to be checked. This feature ensures that the farming process does not require constant disk reads.
 
 If you have 512 plots, you would expect on average to have 1 plot pass filter each block. If you have at least a few plots but notice this number is <em>always</em> 0, then you may wish to check that your plots are valid and farming properly.
-
-### How is Estimated Time to Win calculated? Why haven't I won yet?
-See <a href="https://thechiafarmer.com/2021/04/23/estimated-time-to-win-explained/" target="_blank">this post</a> for a good explanation.
 
 ### What is Last Height Farmed? And is it okay that it is 0?
 Block height is a counter that refers to a location on the blockchain. <em>Last Height Farmed</em> will reflect the most recent height at which you had a plot win a block challenge. If you hadn't won yet this number should be 0.
@@ -380,7 +377,7 @@ The official pooling protocol was released and a <a href="/pools/">list of pools
 ## Blockchain Software
 
 ### Why does my status show Not Synced?
-This is usually due to a network issue causing a lack of peer connections (<a href="https://github.com/Chia-Network/chia-blockchain/wiki/FAQ#why-does-my-node-have-no-connections-how-can-i-get-more-connections" target="_blank">see wiki</a>). First <a href="https://www.yougetsignal.com/tools/open-ports/" target="_blank">check that port 8444 is open</a> to your computer. If not then you can try the following:
+This is usually due to a network issue causing a lack of peer connections (<a href="https://github.com/Chia-Network/chia-blockchain/wiki/FAQ#why-does-my-node-have-no-connections-how-can-i-get-more-connections" target="_blank">see wiki</a>). First <a href="https://www.yougetsignal.com/tools/open-ports" target="_blank">check that port 8444 is open</a> to your computer. If not then you can try the following:
 - Restart the software. Reboot your computer.
 - If you have more than one node (Chia GUI instance) running on your network, [disable UPnP](https://github.com/Chia-Network/chia-blockchain/wiki/FAQ#why-should-i-not-run-more-than-one-node-on-a-home-network-and-whats-this-about-upnp) on all but one computer.
 - Set your router's port forwarding settings to forward port 8444 to your computer. You can also outright disable UPnP on your router.
@@ -409,8 +406,6 @@ If those don't work, you can add the official Chia nodes directly:
 |Asia| node-apne.chia.net|8444|
 |North America| node-or.chia.net|8444|
 |Europe| node-eu.chia.net|8444|
-
-If that still doesn't work, you can find a list of known peers with high height on [chia.keva.app Node List](https://chia.keva.app/) and add them manually. You may need to delete some existing peers from your list to make room or set the maximum peer count in your config to be higher.
 
 ### How can I speed up syncing?
 The initial download of the blockchain from peers will take some time but keep in mind you can still plot while you're syncing. If you notice you aren't connected to many peers, see the [above question](#why-does-my-status-show-not-synced) on ways to get more connections.

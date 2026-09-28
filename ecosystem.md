@@ -8,7 +8,7 @@ nav_exclude: true
 
 # Chia Ecosystem Map
 
-This ecosystem map was created with [input from the Chia Twitter community](https://twitter.com/SlowestTimelord/status/1673005948288237568).
+This ecosystem map was created with [input from the Chia Twitter community](https://x.com/SlowestTimelord/status/1673005948288237568).
 
 [![Chia Ecosystem Map](/assets/images/Chia Ecosystem Map - January 2024.png)](/assets/images/Chia Ecosystem Map - January 2024.png)
 
