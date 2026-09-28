@@ -16,14 +16,25 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # The org Actions allowlist does not include ruby/setup-ruby.
+    container: ruby:3.3
+    env:
+      BUNDLE_PATH: vendor/bundle
+      BUNDLE_FROZEN: "true"
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: false
 
-      - uses: ruby/setup-ruby@14594264cd68ce8a2345dd349bc3d138a4ef85c8 # v1.327.0
+      - uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
         with:
-          bundler-cache: true
+          path: vendor/bundle
+          key: gems-ruby3.3-${{ hashFiles('Gemfile.lock') }}
+
+      - name: Install gems
+        run: |
+          gem install bundler -v "$(tail -1 Gemfile.lock | tr -d ' ')" --no-document
+          bundle install --jobs 4
 
       - id: pages
         if: github.event_name != 'pull_request'

@@ -18,7 +18,7 @@ Besides the collection of links, there are a number of resources original to Chi
 The site is a static site built with [Jekyll](https://jekyllrb.com/) with the [Just The Docs](https://github.com/just-the-docs/just-the-docs) template. *Flat* icon set by [baianat](https://www.flaticon.com/authors/baianat) from www.flaticon.com used with attribution.
 
 ### Local build
-1. Install Jekyll (incl. ruby) - [Instructions](https://jekyllrb.com/docs/installation/)
+1. Install Ruby 3.3 and Jekyll - [Instructions](https://jekyllrb.com/docs/installation/)
 1. Clone this repo
 1. Install required gems with `bundle install`
 1. Compile and serve site to localhost with `bundle exec jekyll serve`
