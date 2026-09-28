@@ -65,14 +65,14 @@
   date: 2021-02-12
 
 - name: r/chia
-  url: https://www.reddit.com/r/chia
+  url: https://www.reddit.com/r/chia/
   tags: [community]
   description: The official Chia subreddit
   date: 2021-04-12
 
 - name: Chia Basics of Plotting
   creator: Chia Network
-  url: https://www.chia.net/2021/02/22/plotting-basics.html
+  url: https://www.chia.net/2021/02/23/chia-plotting-basics/
   tags: [plotting, guides, verified]
   description: Introduction to the basics of plotting and the recommended hardware requirements.
   date: 2021-02-22
@@ -203,7 +203,7 @@
   date: 2021-04-25
 
 - name: r/chiamemes
-  url: https://reddit.com/r/chiamemes
+  url: https://www.reddit.com/r/chiamemes/
   tags: [community]
   description: A subreddit dedicated to Chia memes
   date: 2021-04-25
@@ -253,7 +253,7 @@
   date: 2021-05-02
 
 - name: Chiabot Discord Bot
-  url: https://github.com/joaquimguimaraes/chiabot
+  url: https://github.com/gilnobrega/farmr
   tags: [farming, tools]
   description: A Discord bot that monitors your chia farm summary and sends notifications when blocks are found and new plots are completed.
   date: 2021-05-02
@@ -464,7 +464,7 @@
   date: 2021-05-22
 
 - name: Uphold
-  url: https://uphold.com/en/assets/crypto/buy-xch
+  url: https://uphold.com/assets/crypto/buy-xch
   tags: [exchanges]
   description: US based trading platform.
   date: 2021-05-22
@@ -611,7 +611,7 @@
   date: 2021-07-19
 
 - name: ChiaAlert Telegram Bot
-  url: https://github.com/alek-sai/chia-alert
+  url: https://github.com/aleksai/chia-alert
   tags: [tools, farming]
   description: Self-hosted telegram bot to watch your Chia farm stats.
   date: 2021-08-05
@@ -619,7 +619,7 @@
 - name: KuCoin
   url: https://www.kucoin.com/
   pair: XCH/USDT
-  pair_url: https://trade.kucoin.com/XCH-USDT
+  pair_url: https://www.kucoin.com/trade/XCH-USDT
   tags: [exchanges, verified]
   description: Seychelles based exchange. US friendly and the second largest exchange to list XCH.
   date: 2021-08-06
@@ -631,7 +631,7 @@
   date: 2021-08-12
 
 - name: Official Chialisp tutorial series
-  url: https://chialisp.com/docs/tutorials/why_chia_is_great
+  url: https://docs.chia.net/guides/why-chia-is-great-video-series/
   tags: [chialisp, videos, developers, verified]
   description: A series of Chialisp tutorials and videos from the Chia Network.
   date: 2021-08-12
@@ -660,7 +660,7 @@
   date: 2021-09-20
 
 - name: Chia Network News
-  url: https://twitter.com/chianetworknews
+  url: https://x.com/chianetworknews
   tags: [community]
   description: A community Twitter account talking about everything Chia and XCH
   date: 2021-10-15
@@ -709,7 +709,7 @@
   date: 2021-11-16
 
 - name: Chia Reference Light Wallet
-  url: https://www.chia.net/download/
+  url: https://www.chia.net/downloads/
   tags: [wallets, verified]
   description: Now part of the full node software, the official Chia wallet uses an Electrum-style protocol to greatly reduce syncing time. Also the first wallet implementation supporting Chia Asset Tokens (CATs).
   date: 2021-11-16
@@ -745,13 +745,13 @@
   date: 2022-01-06
 
 - name: TAIL Database
-  url: https://www.taildatabase.com/
+  url: https://taildatabase.com/
   tags: [cats, resources, verified]
   description: A listing of Chia Asset Tokens with links to their TAIL for auditing.
   date: 2022-01-07
 
 - name: Chia Holiday 2021 (CH21)
-  url: https://www.chia.net/2021/12/21/happy-holidays-from-chia.en.html
+  url: https://www.chia.net/2021/12/21/happy-holidays-from-chia/
   tags: [cats, other tokens, verified]
   description: From the Chia Network, two CH21 tokens were sent to farmers that won a block on or before December 25, 2021. These tokens are redeemable for a discount on the official merch store and/or a 2021 Holiday Art NFT.
   asset_id: 509deafe3cd8bbfbb9ccce1d930e3d7b57b40c964fa33379b18d628175eb7a8f
@@ -764,7 +764,7 @@
   date: 2022-01-11
 
 - name: Tsunami Protocol
-  url: https://tsunami.network/
+  url: https://www.tsunami.network/
   tags: [dexs]
   description: <strong>Currently in beta testing</strong>. A DEX from the developers of the browser based Goby wallet that supports filling partial offers.
   date: 2023-02-16
@@ -917,7 +917,7 @@
   date: 2022-03-27
 
 - name: FireAcademy - Chia Nodes as a Service
-  url: https://fireacademy.io/
+  url: https://www.fireacademy.io/
   tags: [tools, developers]
   description: Centralized service to provide on-demand access to Leaflet full nodes.
   date: 2022-03-27
@@ -929,7 +929,7 @@
   date: 2022-04-08
 
 - name: Chia Crypto Utils
-  url: https://github.com/irulast/chia-crypto-utils
+  url: https://github.com/irulast/chia_crypto_utils
   tags: [tools, developers]
   description: Utilities to support a working example of Chia Wallet fundamentals
   date: 2022-04-09
@@ -1029,13 +1029,13 @@
   date: 2022-05-11
 
 - name: Ozone Wallet
-  url: https://ozonewallet.io/
+  url: https://www.ozonewallet.io/
   tags: [wallets]
   description: Cross platform wallet designed for transactions with XCH, CATs, and NFTs in a reliable and secure way.
   date: 2022-05-22
 
 # - name: Indodax
-#   url: https://www.indodax.com/
+#   url: https://indodax.com/
 #   tags: [exchanges]
 #   description: Indonesia based exchange.
 #   date: 2022-05-24
@@ -1138,7 +1138,7 @@
   date: 2022-06-21
 
 - name: Chia Friends
-  url: https://chiafriends.xyz/
+  url: https://www.chiafriends.xyz/
   tags: [nfts, verified, projects]
   description: Official NFT profile picture (PFP) project from the Chia Network. 10,000 given away in a raffle.
   date: 2022-06-30
@@ -1156,7 +1156,7 @@
   date: 2022-07-16
 
 - name: XCH DEV Testnet Faucet
-  url: https://xchdev.com/#!faucet.md
+  url: https://steppsr.com/#!faucet.md
   tags: [faucets]
   description: TESTNET ONLY. Faucet to get TXCH for development purposes on Testnet.
   date: 2022-08-10
@@ -1231,7 +1231,7 @@
 #   Note: No longer actively maintained
 
 - name: H9
-  url: https://www.h9.com/statistics/chiapp
+  url: https://www.h9.com/pools/chiapp
   tags: [pools, established]
   description: 
   date: 2022-10-30
@@ -1399,19 +1399,19 @@
   date: 2023-02-16
 
 - name: CLVM Tools (Rust)
-  url: https://github.com/Chia-Network/clvm_tools_rs
+  url: https://github.com/Chia-Network/chialisp
   tags: [chialisp]
   description: Rust implementation of clvm_tools
   date: 2023-02-16
 
 - name: Chia Gaming
-  url: https://github.com/bramcohen/chia-gaming
+  url: https://github.com/Chia-Network/chia-gaming
   tags: [chialisp]
   description: Bram Cohen's work on on-chain gaming with examples of Rock,Paper,Scissors and Poker.
   date: 2023-02-16
 
 - name: chia-walletconnect
-  url: https://github.com/Open-Market-Dev-Club/chia-walletconnect
+  url: https://github.com/Slime-Network/chia-walletconnect
   tags: [tools, developers, walletconnect]
   description: A Chia specific WalletConnect client derived from the original Chia Wallet Connect DApp Test with all of the bloat cut out and added chia functionality.
   date: 2023-02-16
@@ -1423,7 +1423,7 @@
   date: 2023-02-16
   
 - name: Bitrue
-  url: https://bitrue.com/
+  url: https://www.bitrue.com/
   pair: XCH/USDT
   pair_url: https://www.bitrue.com/trade/xch_usdt
   tags: [exchanges]
@@ -1493,7 +1493,7 @@
   date: 2023-03-09
 
 - name: Chia DataPlayer
-  url: https://github.com/cripsisxyz/chia-dataplayer
+  url: https://github.com/vzdata-ch/chia-dataplayer
   tags: [tools, developers, datalayer]
   description: Work with Chia DataLayer in a human way and encrypt any data you want with COSE (CBOR Object Signing and Encryption).
   date: 2023-03-09
@@ -1523,7 +1523,7 @@
   date: 2023-03-14
 
 - name: Chia XCH Wallet Dealer
-  url: https://github.com/cripsisxyz/chia-wallet-rpc-xch-dealer
+  url: https://github.com/vzdata-ch/chia-wallet-rpc-xch-dealer
   tags: [tools, developers]
   description: Fractionate and send XCH of a chia wallet to multiple wallets destinations using partitions rules.
   date: 2023-03-14
@@ -1677,7 +1677,7 @@
   date: 2023-08-14
 
 - name: Open Market Dev Clup dApp example
-  url: https://github.com/Open-Market-Dev-Club/chia-walletconnect
+  url: https://github.com/Slime-Network/chia-walletconnect
   tags: [developers, walletconnect]
   date: 2023-08-14
 
@@ -1729,7 +1729,7 @@
   date: 2023-08-14
 
 - name: DataPlayer DataLayer Wrapper
-  url: https://github.com/cripsisxyz/chia-dataplayer
+  url: https://github.com/vzdata-ch/chia-dataplayer
   tags: [developers, datalayer]
   date: 2023-08-14
 
@@ -1886,7 +1886,7 @@
   date: 2023-11-22
 
 - name: JXCH-Transact-Framework
-  url: https://github.com/mindspice/JXCH-Transact-Framework
+  url: https://github.com/dhickel/JXCH-Transact-Framework
   tags: [developers, nfts, tools]
   description: A robust and lightweight framework for implementing bulk minting and transaction services on the chia blockchain.
   date: 2023-11-22
@@ -1934,7 +1934,7 @@
   date: 2024-01-20
 
 - name: Thunder Squid 
-  url:  https://www.tsquid.com
+  url:  https://www.ebay.com/str/tsquid
   tags: [farming, hardware, merchants]
   description: Cost effective hard drive pre-plotted farming hardware.
   date: 2024-01-20
@@ -1970,16 +1970,16 @@
   date: 2024-05-15
 
 - name: ChiaXGrant
-  url: https://twitter.com/CHIAXGRANT
+  url: https://x.com/CHIAXGRANT
   tags: [community]
   description: A community driven initiative to support Chia projects.
   date: 2024-05-15
 
 - name: warp.green
-  url: https://warp.green
+  url: https://www.warp.green/
   tags: [verified, defi, bridges]
   pair: XCH/wXCH
-  pair_url: https://warp.green
+  pair_url: https://www.warp.green/
   description: A cross-chain messaging protocol that enables an ETH/Base to Chia bridge, bringing wrapped Chia assets to EVM and wrapped EVM assets to Chia.
   date: 2024-08-19
 

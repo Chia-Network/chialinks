@@ -358,7 +358,7 @@ In general, you can check the following:
   - Check your logs (at INFO logging level) for eligible proofs being sent within 30 seconds
   - Consider joining a pool for monitoring tools and statistics to ensure your farm size is reflected properly
 
-See <a href="https://chiablockchain.com/2021/04/27/how-to-make-sure-i-am-farming-correctly/" target="_blank">this post</a> for information.
+See <a href="https://www.chiablockchain.com/2021/04/27/how-to-make-sure-i-am-farming-correctly/" target="_blank">this post</a> for information.
 
 ### What does "Plots Passed Filter" mean? Why is it 0?
 Every block challenge, each (k32) plot has a 1/512 chance of passing the filter. If it doesn't pass this filter then the plot cannot win the block and hence does not need to be checked. This feature ensures that the farming process does not require constant disk reads.
@@ -377,7 +377,7 @@ The official pooling protocol was released and a <a href="/pools/">list of pools
 ## Blockchain Software
 
 ### Why does my status show Not Synced?
-This is usually due to a network issue causing a lack of peer connections (<a href="https://github.com/Chia-Network/chia-blockchain/wiki/FAQ#why-does-my-node-have-no-connections-how-can-i-get-more-connections" target="_blank">see wiki</a>). First <a href="https://www.yougetsignal.com/tools/open-ports/" target="_blank">check that port 8444 is open</a> to your computer. If not then you can try the following:
+This is usually due to a network issue causing a lack of peer connections (<a href="https://github.com/Chia-Network/chia-blockchain/wiki/FAQ#why-does-my-node-have-no-connections-how-can-i-get-more-connections" target="_blank">see wiki</a>). First <a href="https://www.yougetsignal.com/tools/open-ports" target="_blank">check that port 8444 is open</a> to your computer. If not then you can try the following:
 - Restart the software. Reboot your computer.
 - If you have more than one node (Chia GUI instance) running on your network, [disable UPnP](https://github.com/Chia-Network/chia-blockchain/wiki/FAQ#why-should-i-not-run-more-than-one-node-on-a-home-network-and-whats-this-about-upnp) on all but one computer.
 - Set your router's port forwarding settings to forward port 8444 to your computer. You can also outright disable UPnP on your router.

@@ -13,7 +13,7 @@ nav_exclude: true
 
 NFTs (Non-Fungible Tokens) identify unique ownership of a digitized asset on a blockchain. Although NFT use cases go beyond digital art and media, their rise in popularity in 2021-2022 was primarily focused on digital art. There was an expectation that NFTs would create a new opportunity for digital artists and creators to be recognized and fairly compensated for their work in line with their counterparts in the physical art market.
 
-However, early implementations of NFTs such as the popular [ERC-721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) standard left a lot to be desired in fulfilling that promise to creators as well as providing true ownership to collectors.
+However, early implementations of NFTs such as the popular [ERC-721](https://ethereum.org/developers/docs/standards/tokens/erc-721/) standard left a lot to be desired in fulfilling that promise to creators as well as providing true ownership to collectors.
 
 The Chia team [recognized these shortcomings and developed the Chia NFT1 standard to address these](https://www.chia.net/2022/05/11/our-vision-for-chia-nfts/). Read on to find out how NFTs on Chia differ from NFTs on other chains and the advantages it offers both creators and collectors.
 
