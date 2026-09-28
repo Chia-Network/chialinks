@@ -14,27 +14,6 @@
   site: Medium
   date: 2018-06-18
 
-- title: Chia Network raises $5M to rival new crop of DeFi-friendly base layers
-  url: https://www.coindesk.com/chia-network-raises-5m-to-rival-new-crop-of-defi-friendly-base-layers
-  site: CoinDesk
-  date: 2020-08-11
-
-- title: What is Chia Network?
-  url: https://www.asiacryptotoday.com/chia-network/
-  site: Asia Crypto Today
-  date: 2021-02-07
-
-- title: 5 takeaways from Chia Network’s new white paper
-  url: https://www.coindesk.com/5-takeaways-from-chia-networks-new-white-paper
-  site: CoinDesk
-  date: 2021-02-12
-
-# - title: Chia launches eco-friendly Blockchain & new digital currency
-#   url: https://finance.yahoo.com/news/chia-launches-eco-friendly-blockchain-100500676.html
-#   site: Yahoo! Finance
-#   date: 2021-03-24
-#   note: 404 error
-
 - title: Going green with Chia&#58; True decentralization and efficiency
   url: https://tateg.medium.com/going-green-with-chia-true-decentralization-and-efficiency-59c747572e86
   site: Medium (Tate Galbraith)
@@ -64,11 +43,6 @@
   url: https://wccftech.com/dedicated-cryptocurrency-mining-ssds-in-production-chia-coin-rise/
   site: Wccf tech
   date: 2021-04-19
-
-- title: What is Chia cryptocurrency — and why is it bad news for hard drives?
-  url: https://www.tomsguide.com/news/what-is-chia-cryptocurrency-and-why-is-it-bad-news-for-hard-drives
-  site: Tom's Guide
-  date: 2021-04-20
 
 - title: What is a blockchain use-case anyway?
   url: https://leighcuen.substack.com/p/what-is-a-blockchain-use-case-anyway
@@ -170,11 +144,6 @@
   site: Markets Insider
   date: 2021-05-01
 
-- title: What is the Chia network strategic reserve?
-  url: https://chiadecentral.com/what-is-the-chia-network-strategic-reserve/
-  site: Chia Decentral
-  date: 2021-05-01
-
 - title: Chia Network 'Opened Discussions' with investors, debuts on exchanges
   url: https://cryptonews.com/news/chia-network-opened-discussions-with-investors-debuts-on-exc-10148.htm
   site: Cryptonews
@@ -184,12 +153,6 @@
   url: https://wccftech.com/chia-networks-launches-chia-an-energy-efficient-bitcoin-alternative/
   site: Wccf tech
   date: 2021-05-03
-
-# - title: Chia launches its green digital currency (XCH)
-#   url: https://finance.yahoo.com/news/chia-launches-green-digital-currency-110000957.html
-#   site: Yahoo! Finance
-#   date: 2021-05-03
-#   note: 404 error
 
 - title: TeamGroup launches Chia farming 12,000 TBW SSD
   url: https://www.tomshardware.com/news/teamgroup-12000-tbw-ssd-chia-farming
@@ -236,11 +199,6 @@
   site: Forkast
   date: 2021-05-07
 
-- title: Amazon offers mining in the cloud for new Chia cryptocurrency
-  url: https://www.coindesk.com/amazon-chia-cloud-mining
-  site: CoinDesk
-  date: 2021-05-07
-
 - title: Amazon rolls out Chia crypto mining solution on AWS
   url: https://www.theblockcrypto.com/linked/104187/amazon-aws-chia-crypto-mining
   site: The Block Crypto
@@ -281,21 +239,10 @@
   site: ITP.net
   date: 2021-05-13
 
-- title: Chia&#58; the 'green' cryptocurrency bounces on Elon Musk's Bitcoin U-turn
-  url: https://www.telegraph.co.uk/technology/2021/05/14/chia-green-cryptocurrency-bounces-elon-musks-bitcoin-u-turn/
-  site: The Telegraph
-  date: 2021-05-14
-
 - title: Green Coins&#58; 5 of the most eco-friendly cryptos Elon Musk should consider now
   url: https://investorplace.com/2021/05/green-coins-5-of-the-most-eco-friendly-cryptos-elon-musk-should-consider-now/
   site: Investor Place
   date: 2021-05-14
-
-# - title: What is the “green” cryptocurrency Chia and to what extent is it ecological?
-#   url: https://www.explica.co/what-is-the-green-cryptocurrency-chia-and-to-what-extent-is-it-ecological.html
-#   site: Explica.co
-#   date: 2021-05-14
-#   note: 404 error
 
 - title: Chia launches energy-efficient token – here is how it works
   url: https://finance.yahoo.com/news/chia-launches-energy-efficient-token-150000307.html
@@ -327,11 +274,6 @@
   site: Techstory.in
   date: 2021-05-15
 
-- title: 5 Bitcoin alternatives that are more environmentally friendly
-  url: https://www.tomsguide.com/news/5-bitcoin-alternatives-that-are-more-environmentally-friendly
-  site: Tom's Guide
-  date: 2021-05-15
-
 - title: BitTorrent founder's new cryptocurrency sends shares of hard-drive makers soaring
   url: https://www.bloomberg.com/news/articles/2021-05-17/chia-chia-cryptocurrency-helps-drive-shares-of-hard-drive-makers
   site: Bloomberg
@@ -355,11 +297,6 @@
 - title: What is Chia&#58; 'Green' cryptocurrency claims to be eco-friendly Bitcoin rival
   url: https://www.news.com.au/finance/money/investing/what-is-chia-green-cryptocurrency-claims-to-be-ecofriendly-bitcoin-rival/news-story/454732287c4bac5732967011171bc742
   site: News.com.au
-  date: 2021-05-18
-
-- title: Chia coin claims to be an eco-friendly cryptocurrency - here's how it works
-  url: https://www.businessinsider.in/cryptocurrency/news/chiacoin-is-a-new-cryptocurrency-that-promises-to-be-environment-friendly/articleshow/82741121.cms
-  site: Business Insider
   date: 2021-05-18
 
 - title: What the heck is Dogecoin, is Chia really green, and what is Internet Computer?
@@ -407,11 +344,6 @@
   site: The Conversation
   date: 2021-05-23
 
-- title: XCH coin price jumps over 3% in 24 Hours, Chia Network unveils version 1.1.6. to counter low system performance
-  url: https://www.coinspeaker.com/xch-coin-chia-version-1-1-6/
-  site: Coinspeaker
-  date: 2021-05-24
-
 - title: Chia crypto mining&#58; 10 exabytes of data, or 10 million terabytes
   url: https://www.tweaktown.com/news/79510/chia-crypto-mining-10-exabytes-of-data-or-million-terabytes/index.html
   site: TweakTown
@@ -435,11 +367,6 @@
 - title: Chia, the 'green' Bitcoin alternative, looks to IPO as early as this year
   url: https://fortune.com/2021/05/25/chia-network-green-blockchain-valuation-ipo/
   site: Fortune
-  date: 2021-05-25
-
-- title: Blockchain payments platform Chia on an 'Accelerated Timeline' to IPO
-  url: https://www.coindesk.com/blockchain-payments-platform-chia-on-an-accelerated-timeline-to-ipo
-  site: CoinDesk
   date: 2021-05-25
 
 - title: Taiwan SSD makers to sell drives directly to Chia miners
@@ -497,16 +424,6 @@
   site: StorageReview
   date: 2021-05-29
 
-- title: Greener cryptocurrencies in focus as Bitcoin faces environmental criticism
-  url: https://denvergazette.com/wex/greener-cryptocurrencies-in-focus-as-bitcoin-faces-environmental-criticism/article_4a208cd0-75fc-5b5d-907f-08ec79773abd.html
-  site: Denver Gazette
-  date: 2021-05-30
-
-- title: Chia blamed for supply shortage of storage hard discs
-  url: https://micky.com.au/chia-blamed-for-supply-shortage-of-storage-hard-discs/?amp
-  site: Micky
-  date: 2021-05-30
-
 - title: Here's why excess storage could be a blessing in disguise
   url: https://www.techradar.com/nz/news/heres-why-excess-storage-could-be-a-blessing-in-disguise
   site: TechRadar
@@ -515,11 +432,6 @@
 - title: Zionodes, the world's leading marketplace for Bitcoin mining to offer services for Chia farming
   url: https://finance.yahoo.com/news/zionodes-worlds-leading-marketplace-bitcoin-185000763.html
   site: Yahoo! Finance
-  date: 2021-05-31
-
-- title: Chia coin&#58; should you buy the crypto or invest in the IPO?
-  url: https://capital.com/chia-coin-should-you-buy-the-crypto-or-invest-in-the-ipo
-  site: Capital.com
   date: 2021-05-31
 
 - title: Chia, Bitcoin's 'green' rival, is said to be causing hard drive shortages in Asian markets
@@ -532,36 +444,15 @@
   site: Nasdaq
   date: 2021-06-01
 
-- title: Chia Network considers going for IPO, Chia coin (XCH) price down 6%
-  url: https://www.coinspeaker.com/chia-network-ipo-xch-price/
-  site: Coinspeaker
-  date: 2021-06-02
-
 - title: Chia is greener, more secure than Bitcoin, Ethereum&#58; COO
   url: https://www.bloomberg.com/news/videos/2021-06-02/chia-is-a-more-secure-alternative-to-bitcoin-ethereum-says-ceo-video
   site: Bloomberg
   date: 2021-06-02
 
-- title: Chia project and journalist exchange legal barbs over trademark issue
-  url: https://www.coindesk.com/chia-legal-chris-dupres-trademark
-  site: CoinDesk
-  date: 2021-06-03
-
-# - title: Chia names Misha Graboi CFO as part of global expansion
-#   url: https://finance.yahoo.com/news/chia-names-misha-graboi-cfo-123200256.html
-#   site: Yahoo! Finance
-#   date: 2021-06-03
-#   note: 404 error
-
 - title: PNY&#58; Chia coin, NAND shortage behind reduced SSD warranties
   url: https://www.tomshardware.com/news/pny-admits-reducing-ssd-write-endurance-chia-coin-boom
   site: Tom's Hardware
   date: 2021-06-06
-
-- title: Chia coin (XCH) price down by 3% as company's IPO plans linger on
-  url: https://www.coinspeaker.com/chia-coin-xch-price-ipo-plans/
-  site: Coinspeaker
-  date: 2021-06-07
 
 - title: The top 5 environmentally friendly Bitcoin alternatives
   url: https://www.makeuseof.com/environmentally-friendly-bitcoin-alternatives/
@@ -598,11 +489,6 @@
   site: Tom's Hardware
   date: 2021-06-10
 
-- title: Cryptocurrency boosts motherboard sales
-  url: https://www.fudzilla.com/news/pc-hardware/53022-cryptocurrency-boosts-motherboard-sales
-  site: Fudzilla
-  date: 2021-06-10
-
 - title: Seagate and Western Digital increase HDD production as Chia sends sales skyrocketing
   url: https://www.techspot.com/news/90008-chia-causes-hdds-sales-skyrocket-forcing-seagate-wd.html
   site: TechSpot
@@ -628,11 +514,6 @@
   site: Business Insider
   date: 2021-06-13
 
-- title: Chia Coin (XCH) Up, Crypto Market Volatility and Regulation Requisite for Growth, Chia COO Says
-  url: https://www.coinspeaker.com/chia-xch-coin-chia-coo-says/
-  site: Coinspeaker
-  date: 2021-06-14
-
 - title: Solid-state drive sales predicted to reach unprecedented heights
   url: https://www.techtimes.com/articles/261482/20210615/solid-state-drive-sales-predicted-reach-unprecedented-heights.htm
   site: TechTimes
@@ -643,20 +524,10 @@
   site: Barron's
   date: 2021-06-17
 
-- title: Which cryptocurrencies are the most environmentally friendly?
-  url: https://www.fool.co.uk/mywallethero/share-dealing/guides/which-cryptocurrencies-are-the-most-environmentally-friendly/
-  site: MyWalletHero
-  date: 2021-06-19
-
 - title: Crucial caves&#58; Says Chia cryptomining voids SSD warranty, then retracts post
   url: https://www.tomshardware.com/uk/news/crucial-says-chia-cryptomining-voids-ssd-warranty-then-backs-down
   site: Tom's Hardware
   date: 2021-06-20
-
-- title: Investor Jill Carlson joins board of Bram Cohen's Chia Network
-  url: https://www.coindesk.com/investor-jill-carlson-joins-board-of-bram-cohens-chia-network
-  site: CoinDesk
-  date: 2021-06-22
 
 - title: Crypto miners continue to roil the disk drive market. Buy Seagate, analyst says.
   url: https://www.barrons.com/articles/seagate-lifts-june-guidance-on-surging-drive-demand-a-new-cryptocurrency-helped-51623165593
@@ -678,12 +549,6 @@
   site: Business Wire
   date: 2021-06-29
 
-# - title: Can a "green Bitcoin" help solve cryptocurrencies' sustainability problem?
-#   url: https://oxfordbusinessgroup.com/news/can-green-bitcoin-help-solve-cryptocurrencies%E2%80%99-sustainability-problem
-#   site: Oxford Business Group
-#   date: 2021-06-30
-#   note: 404 error
-
 - title: Seagate gets an upgrade as crypto miners push up disk drive price
   url: https://www.barrons.com/articles/seagate-gets-an-upgrade-as-crypto-miners-push-up-disk-drive-price-51625069791
   site: Barron's
@@ -703,12 +568,6 @@
   url: https://www.tomshardware.com/news/chia-mining-craze-easing-but-hdd-pricing-still-rising
   site: Tom's Hardware
   date: 2021-07-01
-
-# - title: Sirius Labs launches Chia Hackathon, in partnership with Chia Network
-#   url: https://cointelegraph.com/press-releases/sirius-labs-launches-chia-hackathon-in-partnership-with-chia-network
-#   site: CoinTelegraph
-#   date: 2021-07-02
-#   note: 404 error
 
 - title: As miners leave Bitcoin in droves, space allocation dedicated to Filecoin and Chia surges
   url: https://news.bitcoin.com/as-miners-leave-bitcoin-in-droves-space-allocation-dedicated-to-filecoin-and-chia-surges/
@@ -785,30 +644,14 @@
   site: Tom's Hardware
   date: 2021-07-23
 
-- title: China crypto miners plot their next moves to evade crackdown
-  url: https://www.bloombergquint.com/business/china-crypto-miners-plot-their-next-moves-to-evade-crackdown
-  site: Bloomberg
-  date: 2021-07-23
-
 - title: What is Chia Network?
   url: https://coinrivet.com/what-is-chia-network/
   site: Coin Rivet
   date: 2021-07-27
 
-# - title: Chialisp training commences on Aug 9 with Bram Cohen, creator of Chia
-#   url: https://cointelegraph.com/press-releases/chialisp-training-commences-on-aug-9-with-bram-cohen-creator-of-chia
-#   site: Coin Telegraph
-#   date: 2021-07-29
-#   note: 404 error
-
 - title: Cloud storage service Backblaze unaffected by Chia crypto farming
   url: https://www.tomshardware.com/amp/news/cloud-storage-service-backblaze-unaffected-by-chia-crypto-farming
   site: Tom's Hardware
-  date: 2021-08-05
-
-- title: Ch-ch-ch-Chia! HDD sales soar to record levels as latest crypto craze sweeps Europe
-  url: https://www.theregister.com/AMP/2021/08/05/chia_hdd_sales_context/
-  site: The Register
   date: 2021-08-05
 
 - title: Western Digital saw $100M benefit from Chia cryptocurrency last quarter
@@ -881,11 +724,6 @@
   site: Business Wire
   date: 2021-09-01
 
-- title: 5 of the most environmentally friendly cryptocurrencies
-  url: https://www.crypto-news-flash.com/5-of-the-most-environmentally-friendly-cryptocurrencies/
-  site: Crypto News Flash
-  date: 2021-09-18
-
 - title: Real talk&#58; does eco-friendly cryptocurrency exist?
   url: https://blueandgreentomorrow.com/features/real-talk-does-eco-friendly-cryptocurrency-exist/
   site: Blue and Green Tomorrow
@@ -900,11 +738,6 @@
   url: https://finance.yahoo.com/news/15-environmentally-sustainable-cryptocurrencies-invest-224849569.html
   site: Yahoo! Finance
   date: 2021-09-27
-
-- title: PNY LX3030 SSD review&#58; Incredible durability for twice the price
-  url: https://www.pcworld.idg.com.au/article/691628/pny-lx3030-ssd-review-incredible-durability-twice-price/
-  site: PCWorld from IDG
-  date: 2021-09-28
 
 - title: Chia partners with Supranational to create industry leading Proof-of-Space-Time security
   url: https://www.businesswire.com/news/home/20211013005324/en/Chia-Partners-With-Supranational-to-Create-Industry-Leading-Proof-of-Space-Time-Security
@@ -935,11 +768,6 @@
   url: https://www.pcgamer.com/these-new-wd-20tb-hard-drives-could-hold-your-entire-steam-collection/
   site: PC Gamer
   date: 2021-11-03
-
-- title: Chia Network price ($XCH) gains over 35&#37;, team announces financial innovation summit attendance
-  url: https://thevrsoldier.com/chia-network-price-xch-gains-over-35-team-announces-financial-innovation-summit-attendance/
-  site: The VR Soldier
-  date: 2021-11-04
 
 - title: Chia Network to develop prototype for World Bank's climate warehouse
   url: https://www.coindesk.com/business/2021/11/05/chia-network-to-develop-prototype-for-world-banks-climate-warehouse/
@@ -981,11 +809,6 @@
   site: Bitcoin News
   date: 2021-11-29
 
-- title: 14TB Seagate IronWolf HDD is $200 off for Cyber Monday
-  url: https://www.tomshardware.com/news/save-dollar200-on-this-14tb-seagate-ironwolf-hdd-for-cyber-monday
-  site: Tom's Hardware
-  date: 2021-11-29
-
 - title: Hackers use compromised Google Cloud Accounts for cryptocurrency mining
   url: https://www.cpomagazine.com/cyber-security/hackers-use-compromised-google-cloud-accounts-for-cryptocurrency-mining/
   site: CPO Magazine
@@ -995,12 +818,6 @@
   url: https://www.tweaktown.com/reviews/10000/seagate-exos-x20-ironwolf-pro-20tb-hdd/index.html
   site: TweakTown
   date: 2021-12-14
-
-# - title: Eco-friendly cryptocurrency&#58; 4 things to know
-#   url: https://cryptomode.com/eco-friendly-cryptocurrency-4-things-to-know/
-#   site: Cryptomode
-#   date: 2021-12-14
-#   note: 404 error
 
 - title: The World Bank plants a seed to solve climate change
   url: https://www.climateandcapitalmedia.com/the-world-bank-plants-a-seed-to-solve-climate-change/
@@ -1016,11 +833,6 @@
   url: https://www.ft.com/content/c536c040-3a87-4fb8-a9e5-a446c8ff9d3d
   site: Financial Times
   date: 2022-01-06
-
-- title: Here are ten eco-friendly cryptocurrencies to watch out for in 2022
-  url: https://www.businessinsider.in/investment/news/ten-eco-friendly-crypto-currencies-to-keep-an-eye-on-in-2022/slidelist/88761804.cms
-  site: Business Insider India
-  date: 2022-01-08
 
 - title: Chia Network launches native peer-to-peer trading services for wallet holders
   url: https://www.coindesk.com/business/2022/01/12/chia-network-launches-native-peer-to-peer-trading-services-for-wallet-holders/
@@ -1067,11 +879,6 @@
   site: Securities.io
   date: 2022-01-18
 
-- title: Stably raises pre-Series A round led by VeChain's CEO and Morgan Creek Capital
-  url: https://cointelegraph.com/press-releases/stably-raises-pre-series-a-round-led-by-vechains-ceo-and-morgan-creek-capital
-  site: Coin Telegraph
-  date: 2022-01-18
-
 - title: How S.F. successfully evaded the crypto crash
   url: https://www.sfexaminer.com/findings/how-s-f-successfully-evaded-the-crypto-crash/
   site: San Francisco Examiner
@@ -1081,11 +888,6 @@
   url: https://impactalpha.com/climate-is-a-crypto-play-as-action-moves-from-tradfi-to-defi-to-refi/
   site: ImpactAlpha
   date: 2022-01-27
-
-- title: Green cryptocurrencies&#58; Aiming to reduce carbon footprint
-  url: https://capital.com/best-green-cryptocurrencies
-  site: Capital.com
-  date: 2022-01-28
 
 - title: How is Web3 decentralized?
   url: https://www.cmswire.com/information-management/how-is-web3-decentralized/
@@ -1102,12 +904,6 @@
   site: Coin Telegraph
   date: 2022-02-10
 
-# - title: Top 10 essential technology trends you must follow in 2022
-#   url: https://www.itproportal.com/features/top-10-essential-technology-trends-you-must-follow-in-2022/
-#   site: ITProPortal
-#   date: 2022-02-10
-#   note: 404 error
-
 - title: Mining worldwide&#58; Where should crypto miners go in a changing landscape?
   url: https://cointelegraph.com/news/mining-worldwide-where-should-crypto-miners-go-in-a-changing-landscape
   site: Coin Telegraph
@@ -1118,21 +914,10 @@
   site: TechStory
   date: 2022-02-21
 
-- title: Crypto companies build lobbying army to influence New York's rules
-  url: https://www.bnnbloomberg.ca/crypto-companies-build-lobbying-army-to-influence-new-york-s-rules-1.1726723
-  site: BNN Bloomberg
-  date: 2022-02-22
-
 - title: AeroCool Cipher case holds 16 drives for storage based cryptomining
   url: https://www.tomshardware.com/news/aerocool-cipher-case-holds-16-drives-for-storage-based-cryptomining
   site: Tom's Hardware
   date: 2022-02-22
-
-# - title: Is Chia Network eyeing to reach the double of its all time high?
-#   url: https://www.thecoinrepublic.com/2022/02/21/is-chia-network-eyeing-to-reach-the-double-of-its-all-time-high/
-#   site: The Coin Republic
-#   date: 2022-02-22
-#   note: 404 error
 
 - title: Sustainable investors take the crypto out of cryptocurrency
   url: https://technical.ly/civic-news/sustainable-investing-cryptocurrency-energy-use/
@@ -1149,25 +934,10 @@
   site: CoinMarketCap
   date: 2022-03-15
 
-- title: Ukraine's legalisation of crypto can protect assets&#58; Analysts
-  url: https://capital.com/ukraine-s-legalisation-of-crypto-can-protect-assets
-  site: Capital.com
-  date: 2022-03-17
-
 - title: The US must invest in digital assets to protect its interests, Chainalysis founder tells Congress. He joins a chorus of experts calling on policymakers to prioritize crypto.
   url: https://markets.businessinsider.com/news/currencies/crypto-senate-hearing-ukraine-russia-opportunity-war-transparency-finance-chainalysis-2022-3
   site: Business Insider
   date: 2022-03-17
-
-- title: What are the environmental impacts of cryptocurrencies?
-  url: https://www.businessinsider.com/personal-finance/cryptocurrency-environmental-impact
-  site: Business Insider
-  date: 2022-03-17
-
-- title: Chia coin's company could go public this year
-  url: https://capital.com/chia-coin-s-company-could-go-public-this-year
-  site: Capital.com
-  date: 2022-03-21
 
 - title: Limcore.io&#58; DeFi platform with token backed by Chia Farming, TON, and ETH validating
   url: https://www.coinspeaker.com/limcore-io-defi-platform-token/
@@ -1178,22 +948,6 @@
   url: https://grist.org/climate-energy/there-is-a-greener-way-to-mine-crypto/
   site: Grist
   date: 2022-03-22
-
-# - title: Chia Network appoints Lars Kvale Vice President of market solutions for climate finance
-#   url: https://finance.yahoo.com/news/chia-network-appoints-lars-kvale-131500247.html
-#   site: Yahoo! Finance
-#   date: 2022-04-05
-#   note: 404 error
-
-- title: Bitcoin (BTC) adoption boost&#58; Mexico plans cryptocurrency vote
-  url: https://capital.com/bitcoin-btc-adoption-boost-mexico-plans-cryptocurrency-vote
-  site: Capital.com
-  date: 2022-04-09
-
-- title: Rough start&#58; Applied Blockchain (APLD) struggles on Nasdaq IPO
-  url: https://capital.com/rough-start-applied-blockchain-apld-struggles-on-nasdaq-ipo
-  site: Capital.com
-  date: 2022-04-14
 
 - title: Seagate - Lots Of Upside From Here, Buy Now
   url: https://seekingalpha.com/article/4505472-seagate-upside-buy-now
@@ -1220,11 +974,6 @@
   site: Global Capital
   date: 2022-05-18
 
-- title: Chia crypto - Peer to peer trading
-  url: https://www.monitalks.io/news/article/chia-crypto
-  site: Moni Talks
-  date: 2022-05-24
-
 - title: Project SEED to shape the future of blockchain gaming
   url: https://bitcoinist.com/project-seed-to-shape-the-future-of-blockchain-gaming/
   site: Bitcoinist
@@ -1240,11 +989,6 @@
   site: Business Wire
   date: 2022-06-09
 
-- title: The 3 trends that define today's crypto carbon market
-  url: https://analyticsindiamag.com/the-3-trends-that-define-todays-crypto-carbon-market/
-  site: Analytics India Magazine
-  date: 2022-06-15
-
 - title: Value locked in DeFi slips to $74 billion, top smart contract tokens down over 70% this year
   url: https://news.bitcoin.com/value-locked-in-defi-slips-to-74-billion-top-smart-contract-tokens-down-over-70-this-year/
   site: Bitcoin.com
@@ -1259,11 +1003,6 @@
   url: https://decrypt.co/104049/chia-aims-take-ethereum-solana-nfts-will-they-blossom
   site: Decrypt
   date: 2022-06-29
-
-- title: Chia Network still on accelerated timeline to go public
-  url: https://capital.com/chia-network-still-on-accelerated-timeline-to-go-public
-  site: Capital.com
-  date: 2022-07-12
 
 - title: Bitcoin mining&#58; How much electricity it takes and why people are worried
   url: https://www.cnet.com/personal-finance/crypto/bitcoin-mining-how-much-electricity-it-takes-and-why-people-are-worried/
@@ -1305,11 +1044,6 @@
   site: Coindesk
   date: 2022-08-18
   
-- title: Carbon opportunities fund launches first-of-its-kind investment platform to issue tokenized carbon credits
-  url: https://pressroom.ifc.org/all/pages/PressDetail.aspx?ID=27145
-  site: IFC
-  date: 2022-08-18
-  
 - title: World Bank's IFC taps blockchain for carbon offsets
   url: https://financialpost.com/pmn/business-pmn/world-banks-ifc-taps-blockchain-for-carbon-offsets
   site: Financial Post
@@ -1325,32 +1059,10 @@
   site: Business Wire
   date: 2022-08-25
 
-- title: The GPU crunch is over, largely due to a profit glut
-  url: https://www.thismorningonchain.com/articles/bitcoin/the-gpu-crunch-is-over-largely-due-to-a-profit-glut/
-  site: This Morning on Chain
-  date: 2022-08-28
-
 - title: Fed's inflation fight batters crypto market as pressure mounts
   url: https://forkast.news/fed-inflation-crypto-market-avalanche/
   site: Forkast
   date: 2022-08-31
-
-- title: El Salvador celebrates Bitcoin anniversary&#58; A look back at the nation's storied year
-  url: https://www.crypto-news-flash.com/el-salvador-celebrates-bitcoin-anniversary-a-look-back-at-the-nations-storied-year/
-  site: Crypto News Flash
-  date: 2022-09-08
-
-# - title: Most sustainable cryptocurrency to invest in 2022
-#   url: https://www.business2community.com/cryptocurrency/most-sustainable-cryptocurrency
-#   site: Business 2 Community
-#   date: 2022-09-09
-#   note: 404 error
-
-# - title: Greenest cryptocurrencies to invest In 2022
-#   url: https://www.business2community.com/cryptocurrency/greenest-cryptocurrency
-#   site: Business 2 Community
-#   date: 2022-09-13
-#   note: 404 error
 
 - title: Digital Asset Insider Sept '22
   url: https://www.fireblocks.com/blog/digital-asset-insider-sept-22/
@@ -1437,12 +1149,6 @@
   site: Coindesk
   date: 2022-10-31
   
-# - title: Singapore FinTech Festival kicks off with over 850 expert speakers and 450 FinTech exhibitors
-#   url: https://finance.yahoo.com/news/singapore-fintech-festival-kicks-off-102800360.html
-#   site: Yahoo! Finance
-#   date: 2022-10-31
-#   note: 404 error
-
 - title: Using 'proof of space and time' mechanism in mining cryptocurrencies makes Chia Network less energy-intensive&#58; CEO
   url: https://www.channelnewsasia.com/watch/using-proof-space-and-time-mechanism-mining-cryptocurrencies-makes-chia-network-less-energy-intensive-ceo-3044156
   site: Channel News Asia
@@ -1523,11 +1229,6 @@
   site: CryptoSlate
   date: 2023-02-27
 
-- title: The environmental impact of cryptocurrency&#58; Is it sustainable?
-  url: https://www.scoopearth.com/the-environmental-impact-of-cryptocurrency-is-it-sustainable/
-  site: ScoopEarth
-  date: 2023-02-27
-
 - title: Ripple will definitely lose against SEC, crypto executive says
   url: https://u.today/ripple-will-definitely-lose-against-sec-crypto-executive-says
   site: U.Today
@@ -1596,11 +1297,6 @@
 - title: What is the new generation crypto?
   url: https://gisuser.com/2023/05/what-is-the-new-generation-crypto/
   site: GIS User
-  date: 2023-05-06
-
-- title: How blockchains can solve greenwashing and contribute to climate action
-  url: https://cryptonewsbtc.org/2023/05/06/how-blockchains-can-solve-greenwashing-and-contribute-to-climate-action/
-  site: Crypto News BTC
   date: 2023-05-06
 
 - title: Why an open interoperable metaverse is better for everyone
@@ -1693,12 +1389,6 @@
   site: Business Wire
   date: 2023-11-09
 
-# - title: CTBC Bank USA CEO Noor Menai to Speak at FT's Global Banking Summit
-#   url: https://finance.yahoo.com/news/ctbc-bank-usa-ceo-noor-132800755.html
-#   site: Yahoo! Finance
-#   date: 2023-11-20
-#   note: 404 error
-
 - title: Singapore, Verra, and Gold Standard announce playbook for 'robust and effective' carbon crediting
   url: https://www.businessgreen.com/news/4155852/singapore-verra-gold-standard-announce-playbook-robust-effective-carbon-crediting
   site: Business Green
@@ -1739,11 +1429,6 @@
   site: Crypto Potato
   date: 2024-06-07
 
-- title: What is Chia Network?
-  url: https://www.altcoinbuzz.io/reviews/what-is-chia-network/
-  site: Altcoin Buzz 
-  date: 2024-06-10
-
 - title: Ex-Valkyrie CEO Leah Wald to Take Reins of Crypto Investment Firm Cypherpunk
   url: https://finance.yahoo.com/news/ex-valkyrie-ceo-leah-wald-113000337.html
   site: CoinDesk
@@ -1753,12 +1438,6 @@
   url: https://www.businesswire.com/news/home/20240812678890/en/Chia-Network-Announces-Third-Confidential-Submission-of-Draft-Registration-Statement-for-Proposed-Initial-Public-Offering
   site: Business Wire
   date: 2024-08-12
-
-# - title: Sustainable blockchain&#58; How the amazing crypto industry is tackling environmental concerns In 2024
-#   url: https://blockchainmagazine.com/sustainable-blockchain-in-crypto-industry/
-#   site: Blockchain Magazine
-#   date: 2024-09-18
-#   note: 404 error
 
 - title: Crypto vs. Climate
   url: https://irishtechnews.ie/crypto-vs-climate/
@@ -1823,11 +1502,6 @@
 - title: SEC drops suits, forms anti-fraud unit, takes more meetings
   url: https://coingeek.com/sec-drops-suits-forms-anti-fraud-unit-takes-more-meetings/
   site: CoinGeek
-  date: 2025-02-26
-
-- title: Crypto Task Force discusses crypto regulation with Chia Network and Better Markets
-  url: https://www.cryptonewsz.com/crypto-task-force-meets-chia-network/
-  site: CryptoNewsZ
   date: 2025-02-26
 
 - title: Blockchain-powered certificates redefine stock ownership

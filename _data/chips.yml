@@ -60,7 +60,6 @@
   title: "Split Royalties for NFTs"
   discussion_links:
     - "PR Comments|https://github.com/Chia-Network/chips/pull/30"
-    - "Community Call|https://drive.google.com/file/d/18NyB13Cu24VNRFOKl0umbNq1tzzLY1jj/view"
   status: "Final"
 
 - chip: "CHIP-0009"

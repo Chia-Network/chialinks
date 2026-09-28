@@ -9,7 +9,7 @@ nav_exclude: true
 # Frequently Asked Questions
 {: .no_toc }
 
-A collection of commonly asked questions and answers collected from across [the community](/community/) to supplement the [official Chia Network FAQ](https://www.chia.net/faq/) and the [Chia blockchain software FAQ](https://github.com/Chia-Network/chia-blockchain/wiki/FAQ).
+A collection of commonly asked questions and answers collected from across [the community](/community/) to supplement the [Chia blockchain software FAQ](https://github.com/Chia-Network/chia-blockchain/wiki/FAQ).
 
 Each question and answer on this page can be directly linked to by hovering over the question and right-clicking on the link icon to copy the link address for sharing.
 
@@ -365,9 +365,6 @@ Every block challenge, each (k32) plot has a 1/512 chance of passing the filter.
 
 If you have 512 plots, you would expect on average to have 1 plot pass filter each block. If you have at least a few plots but notice this number is <em>always</em> 0, then you may wish to check that your plots are valid and farming properly.
 
-### How is Estimated Time to Win calculated? Why haven't I won yet?
-See <a href="https://thechiafarmer.com/2021/04/23/estimated-time-to-win-explained/" target="_blank">this post</a> for a good explanation.
-
 ### What is Last Height Farmed? And is it okay that it is 0?
 Block height is a counter that refers to a location on the blockchain. <em>Last Height Farmed</em> will reflect the most recent height at which you had a plot win a block challenge. If you hadn't won yet this number should be 0.
 
@@ -409,8 +406,6 @@ If those don't work, you can add the official Chia nodes directly:
 |Asia| node-apne.chia.net|8444|
 |North America| node-or.chia.net|8444|
 |Europe| node-eu.chia.net|8444|
-
-If that still doesn't work, you can find a list of known peers with high height on [chia.keva.app Node List](https://chia.keva.app/) and add them manually. You may need to delete some existing peers from your list to make room or set the maximum peer count in your config to be higher.
 
 ### How can I speed up syncing?
 The initial download of the blockchain from peers will take some time but keep in mind you can still plot while you're syncing. If you notice you aren't connected to many peers, see the [above question](#why-does-my-status-show-not-synced) on ways to get more connections.

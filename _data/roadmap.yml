@@ -7,7 +7,6 @@
 - title: Chia Mainnet Launch
   date: 2021-03-19
   description: Chia's mainnet goes live with initial netspace of just over 100 PiB.
-  source: https://www.chia.net/2021/03/15/mainnet-update.html
 
 - title: Netspace crosses 1 EiB
   date: 2021-04-28
@@ -33,7 +32,6 @@
 - title: Official Pooling Protocol
   date: 2021-07-07
   description: New plot format released with decentralized implementation to provide small farmers more consistent rewards.
-  source: https://www.chia.net/2021/07/07/official-pooling-launched.en.html
 
 - title: Cultivation Grant Program
   date: 2021-08-18
@@ -58,7 +56,6 @@
 - title: Crypto Open Patent Alliance
   date: 2021-10-18
   description: Chia's issued patents will be pooled with other crypto industry leaders under an open license.
-  source: https://www.chia.net/2021/10/18/chia-joins-copa.en-copy.html
 
 - title: Circular Drive Initiative
   date: 2021-11-02
@@ -82,7 +79,7 @@
 
 - title: CAT1 Standard
   date: 2021-11-15
-  description: The first Chia Asset Token (CAT) standard is released along with the first two CATs <a href="https://www.spacebuckscoin.com/" target="_blank">SpaceBucks</a> and <a href="https://twitter.com/marmotcoin" target="_blank">Marmotcoin</a>.
+  description: The first Chia Asset Token (CAT) standard is released along with the first two CATs <a href="https://www.spacebuckscoin.com/" target="_blank">SpaceBucks</a> and Marmotcoin.
   source: https://www.chia.net/2021/11/15/the-CATs-out-of-the-bag.en.html
 
 - title: Light Wallet Launched
@@ -123,7 +120,6 @@
 - title: Business Whitepaper v2
   date: 2022-02-02
   description: An updated version of the Chia Business Whitepaper is released, discussing many of the milestones and roadmap since mainnet launch.
-  source: https://www.chia.net/2022/02/02/chia-business-whitepaper-2.0.en.html
 
 - title: Chialisp Developer Challenge
   date: 2022-02-03
@@ -178,7 +174,6 @@
 - title: Chia Bug Bounty
   date: 2022-09-21
   description: Chia's bug bounty program, managed via Bugcrowd, is opened to the public.
-  source: https://bugcrowd.com/chia-network-bb
 
 - title: Chia DataLayer Release
   date: 2022-09-22
@@ -209,7 +204,6 @@
 # - title: Climate Action Data Trust launch
 #   date: 2022-12-07
 #   description: IETA and founding partners announce the launch of Climate Action Data Trust built on the Chia blockchain utilizing the Chia DataLayer.
-#   source: https://finance.yahoo.com/news/ieta-founding-partners-announce-launch-091400437.html
 #   note: 404 error
 
 - title: Gene Hoffman assumes CEO role
@@ -221,12 +215,10 @@
 - title: Chia Blockchain 1.7 released
   date: 2023-02-15
   description: A major version update with security fixes and introduces Fee Estimator, NFT search and bulk actions, on-chain Offers notifications, and more.
-  source: https://www.chia.net/2023/02/15/version-1-7-0-release/
 
 - title: Chia BitTorrent DB Checkpoints
   date: 2023-03-19
   description: Chia begins sharing quarterly checkpoints of the growing blockchain database file via BitTorrent. This provides a faster option for new farmers to initially synchronize their full node.
-  source: https://www.chia.net/2023/03/19/introducing-chia-blockchain-database-bittorent-checkpoints/
 
 - title: Clawback Primitive
   date: 2023-03-30
@@ -251,12 +243,10 @@
 - title: Chia Open Digital Economy (CODE)
   date: 2023-05-04
   description: Chia Network, Inc. announced the launch of its Chia Open Digital Economy ("CODE") framework with initial efforts focused on supporting the video game industry in its path to a more open metaverse.
-  source: https://www.chia.net/CODE/
 
 - title: ChiaTCG Web3 Proof-of-Concept Game
   date: 2023-05-04
   description: The Chia Trading Card Game (ChiaTCG) is an open-source, proof-of-concept Web3 game that serves as a reference product to support adoption among game developers and jumpstart their journey using Chia technology within the CODE framework.
-  source: https://www.chia.net/tcg/
 
 - title: Public Verifiable Carbon Offset
   date: 2023-06-27
@@ -321,7 +311,6 @@
 # - title: Second Draft Registration Submitted
 #   date: 2024-03-29
 #   description: Chia Network Inc announced that it has confidentially submitted an amendment to its initial draft registration statement on Form S-1 to the SEC relating to the proposed IPO of its common stock.
-#   source: https://finance.yahoo.com/news/chia-network-announces-second-confidential-211700042.html
 #   note: 404 error
 
 - title: Chia Blockchain 2.3.0 released
