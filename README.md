@@ -24,9 +24,9 @@ The site is a static site built with [Jekyll](https://jekyllrb.com/) with the [J
 1. Compile and serve site to localhost with `bundle exec jekyll serve`
 
 ### Triggered deployment
- It is currently hosted on a DigitalOcean's App Platform (basic free tier) with builds triggered on any code change on the `main` GitHub branch.
+The site is hosted on [GitHub Pages](https://docs.github.com/en/pages) behind Cloudflare. The [`pages.yml`](.github/workflows/pages.yml) workflow builds it with the gems in `Gemfile.lock` and deploys on every push to `main`. Pull requests run the same build as a check without deploying.
 
-It can alternatively be [deployed to GitHub pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
+The repository's Pages source must be set to **GitHub Actions** (Settings → Pages → Build and deployment).
 
 ## Code structure
 
