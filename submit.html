@@ -8,18 +8,24 @@ nav_exclude: true
 
 <h1>Submit a Link</h1>
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xjvjkjep" method="post">
+<p>Submitting opens a pre-filled issue on <a href="https://github.com/Chia-Network/chialinks/issues">GitHub</a>. You'll need a GitHub account to create it, and the submission will be public.</p>
+
+<form id="fs-frm" name="link-submission-form" accept-charset="utf-8" action="https://github.com/Chia-Network/chialinks/issues/new" method="get" target="_blank" rel="noopener">
   <fieldset id="fs-frm-inputs">
+    <input type="hidden" name="template" value="link-submission.yml">
+    <input type="hidden" name="title" id="title" value="[Link]: ">
     <label for="url">URL</label>
     <input type="url" name="url" id="url" placeholder="https://" required="">
     <label for="description">Description</label>
     <textarea rows="4" name="description" id="description" placeholder="Short description of the link." required=""></textarea>
-    <label for="email">Your email (won't be posted)</label>
-    <input type="email" name="email" id="email" placeholder="Optional">
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
-  <input type="submit" value="Submit" class="btn">
+  <input type="submit" value="Submit on GitHub" class="btn">
 </form>
+<script>
+  document.getElementById('fs-frm').addEventListener('submit', function () {
+    document.getElementById('title').value = '[Link]: ' + document.getElementById('url').value;
+  });
+</script>
 <style>/* reset */
 #fs-frm input,
 #fs-frm select,
