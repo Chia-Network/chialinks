@@ -2074,3 +2074,9 @@
   tags: [swap services]
   description: Compares live XCH quotes from 30+ swap providers side by side and ranks them by output amount.
   date: 2026-08-22
+
+- name: xch.nyc
+  url: https://xch.nyc
+  tags: [community]
+  description: Simple website for the xch.nyc community and projects.
+  date: 2026-09-30
