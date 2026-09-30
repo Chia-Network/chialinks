@@ -10,15 +10,15 @@ nav_exclude: true
 
 This ecosystem map was created with [input from the Chia Twitter community](https://x.com/SlowestTimelord/status/1673005948288237568).
 
-[![Chia Ecosystem Map](/assets/images/Chia Ecosystem Map - January 2024.png)](/assets/images/Chia Ecosystem Map - January 2024.png)
+[![Chia Ecosystem Map](/assets/images/Chia%20Ecosystem%20Map%20-%20January%202024.png)](/assets/images/Chia%20Ecosystem%20Map%20-%20January%202024.png)
 
-- [PNG](/assets/images/Chia Ecosystem Map - January 2024.png)  (960x540)
+- [PNG](/assets/images/Chia%20Ecosystem%20Map%20-%20January%202024.png)  (960x540)
 - [PDF](/assets/Chia_Ecosystem_Map_January_2024.pdf) (Zoomable and Clickable)
 
 ## Previous versions
-- June 2023 ([PNG](/assets/images/Chia Ecosystem Map - June 2023.png) , [PDF](/assets/Chia_Ecosystem_Map_June_2023.pdf))
-- January 2023 ([PNG](/assets/images/Chia Ecosystem Map - January 2023.png) , [PDF](/assets/Chia_Ecosystem_Map_January_2023.pdf))
-- September 2022 ([PNG](/assets/images/Chia Ecosystem Map - September 2022.png) , [PDF](/assets/Chia_Ecosystem_Map_September_2022.pdf))
-- June 2022 ([PNG](/assets/images/Chia Ecosystem Map - June 2022.png) , [PDF](/assets/Chia_Ecosystem_Map_June_2022.pdf))
-- May 2022 v2 ([PNG](/assets/images/Chia Ecosystem Map - May 2022 v2.png) , [PDF](/assets/Chia_Ecosystem_Map_May_2022_v2.pdf))
-- May 2022 v1 ([PNG](/assets/images/Chia Ecosystem Map - May 2022 v1.png))
+- June 2023 ([PNG](/assets/images/Chia%20Ecosystem%20Map%20-%20June%202023.png) , [PDF](/assets/Chia_Ecosystem_Map_June_2023.pdf))
+- January 2023 ([PNG](/assets/images/Chia%20Ecosystem%20Map%20-%20January%202023.png) , [PDF](/assets/Chia_Ecosystem_Map_January_2023.pdf))
+- September 2022 ([PNG](/assets/images/Chia%20Ecosystem%20Map%20-%20September%202022.png) , [PDF](/assets/Chia_Ecosystem_Map_September_2022.pdf))
+- June 2022 ([PNG](/assets/images/Chia%20Ecosystem%20Map%20-%20June%202022.png) , [PDF](/assets/Chia_Ecosystem_Map_June_2022.pdf))
+- May 2022 v2 ([PNG](/assets/images/Chia%20Ecosystem%20Map%20-%20May%202022%20v2.png) , [PDF](/assets/Chia_Ecosystem_Map_May_2022_v2.pdf))
+- May 2022 v1 ([PNG](/assets/images/Chia%20Ecosystem%20Map%20-%20May%202022%20v1.png))
