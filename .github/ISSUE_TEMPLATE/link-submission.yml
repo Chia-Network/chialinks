@@ -1,0 +1,18 @@
+name: Submit a Link
+description: Suggest a link to add to chialinks.com
+title: "[Link]: "
+body:
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Short description of the link.
+    validations:
+      required: true
