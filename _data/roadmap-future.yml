@@ -32,10 +32,6 @@
 #   date: H2 2023
 #   description: Tool to compress plot file size by an additional 1-2%.
 
-- title: Official Chia Network Roadmap
-  date: Future
-  description: See the <a href="https://www.chia.net/build/" target="_blank">official Chia Network roadmap</a> a commprehensive view of future items and target dates.
-
 - title: Initial Public Offering (IPO)
   date: Future
   description: Chia Network Inc. is actively working towards becoming a publicly traded company and has already filed a draft registration with the SEC. (<a href="https://www.businesswire.com/news/home/20230413005830/en/" target="_blank">Source</a>)
