@@ -72,7 +72,7 @@
 
 - name: Chia Basics of Plotting
   creator: Chia Network
-  url: https://www.chia.net/2021/02/23/chia-plotting-basics/
+  url: https://www.chia.net/blog/chia-plotting-basics/
   tags: [plotting, guides, verified]
   description: Introduction to the basics of plotting and the recommended hardware requirements.
   date: 2021-02-22
@@ -709,7 +709,7 @@
   date: 2021-11-16
 
 - name: Chia Reference Light Wallet
-  url: https://www.chia.net/downloads/
+  url: https://www.chia.net/farm/downloads/
   tags: [wallets, verified]
   description: Now part of the full node software, the official Chia wallet uses an Electrum-style protocol to greatly reduce syncing time. Also the first wallet implementation supporting Chia Asset Tokens (CATs).
   date: 2021-11-16
@@ -751,7 +751,7 @@
   date: 2022-01-07
 
 - name: Chia Holiday 2021 (CH21)
-  url: https://www.chia.net/2021/12/21/happy-holidays-from-chia/
+  url: https://www.chia.net/blog/happy-holidays-from-chia/
   tags: [cats, other tokens, verified]
   description: From the Chia Network, two CH21 tokens were sent to farmers that won a block on or before December 25, 2021. These tokens are redeemable for a discount on the official merch store and/or a 2021 Holiday Art NFT.
   asset_id: 509deafe3cd8bbfbb9ccce1d930e3d7b57b40c964fa33379b18d628175eb7a8f

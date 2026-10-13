@@ -15,7 +15,7 @@ NFTs (Non-Fungible Tokens) identify unique ownership of a digitized asset on a b
 
 However, early implementations of NFTs such as the popular [ERC-721](https://ethereum.org/developers/docs/standards/tokens/erc-721/) standard left a lot to be desired in fulfilling that promise to creators as well as providing true ownership to collectors.
 
-The Chia team [recognized these shortcomings and developed the Chia NFT1 standard to address these](https://www.chia.net/2022/05/11/our-vision-for-chia-nfts/). Read on to find out how NFTs on Chia differ from NFTs on other chains and the advantages it offers both creators and collectors.
+The Chia team [recognized these shortcomings and developed the Chia NFT1 standard to address these](https://www.chia.net/blog/our-vision-for-chia-nfts/). Read on to find out how NFTs on Chia differ from NFTs on other chains and the advantages it offers both creators and collectors.
 
 <details open markdown="block">
   <summary>

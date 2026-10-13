@@ -36,12 +36,12 @@
 - title: Cultivation Grant Program
   date: 2021-08-18
   description: The Chia Cultivation Program launched to invest in independent developers to the Chia ecosystem.
-  source: https://www.chia.net/2021/08/18/chia-cultivation-grant-program/
+  source: https://www.chia.net/blog/chia-cultivation-grant-program/
 
 - title: Open Compute Project
   date: 2021-08-30
   description: Chia joins the OCP to contribute to sustainabiltiy in storage.
-  source: https://www.chia.net/2021/08/30/chia-joins-the-open-compute-project/
+  source: https://www.chia.net/blog/chia-joins-the-open-compute-project/
 
 - title: Global Chia Hackathon
   date: 2021-09-15
@@ -80,32 +80,32 @@
 - title: CAT1 Standard
   date: 2021-11-15
   description: The first Chia Asset Token (CAT) standard is released along with the first two CATs <a href="https://www.spacebuckscoin.com/" target="_blank">SpaceBucks</a> and Marmotcoin.
-  source: https://www.chia.net/2021/11/15/the-cats-out-of-the-bag-chia-releases-the-cat1-standard/
+  source: https://www.chia.net/blog/the-cats-out-of-the-bag-chia-releases-the-cat1-standard/
 
 - title: Light Wallet Launched
   date: 2021-11-16
   description: Electrum-style wallet with CAT support launched to allow transactions without requiring a full node sync.
-  source: https://www.chia.net/2022/01/10/understanding-the-changes-in-the-new-light-wallet/
+  source: https://www.chia.net/blog/understanding-the-changes-in-the-new-light-wallet/
 
 - title: 2021 Holiday Token Airdrop
   date: 2022-01-11
   description: 2021 Holiday CAT (CH21) is airdropped to all farmers that won a block between mainnet launch and December 25, 2021.
-  source: https://www.chia.net/2021/12/21/happy-holidays-from-chia/
+  source: https://www.chia.net/blog/happy-holidays-from-chia/
 
 - title: Chia Offers Launched
   date: 2022-01-11
   description: Chia Offers launched enabling native peer-to-peer swaps of XCH and CATs without an intemediary or counterparty risk.
-  source: https://www.chia.net/2022/01/12/chia-offers-are-here/
+  source: https://www.chia.net/blog/chia-offers-are-here/
 
 - title: Hashgreen DEX
   date: 2022-01-12
   description: The first decentralized exchange (DEX) is launched supporting Chia Offers.
-  source: https://www.chia.net/2022/01/12/chia-offers-are-here/
+  source: https://www.chia.net/blog/chia-offers-are-here/
 
 - title: Stably USDS Stablecoin
   date: 2022-01-12
   description: The first stablecoin following the CAT1 standard is launched on the Chia blockchain.
-  source: https://www.chia.net/2022/01/12/chia-offers-are-here/
+  source: https://www.chia.net/blog/chia-offers-are-here/
 
 - title: Buy XCH Button on Chia.net
   date: 2022-01-13
@@ -115,7 +115,7 @@
 - title: Partnership with Clovyr
   date: 2022-01-18
   description: A new environment for Clovyr Code released, providing a browser based VSCode instance preconfigured for Chialisp development.
-  source: https://www.chia.net/2022/01/18/learn-chialisp-with-clovyr-and-compete-in-our-upcoming-developer-challenge/
+  source: https://www.chia.net/blog/learn-chialisp-with-clovyr-and-compete-in-our-upcoming-developer-challenge/
 
 - title: Business Whitepaper v2
   date: 2022-02-02
@@ -124,12 +124,12 @@
 - title: Chialisp Developer Challenge
   date: 2022-02-03
   description: An online event where developers competed to create innovative solutions using the Chia blockchain and Chialisp on Clovyr's development tools.
-  source: https://www.chia.net/2022/01/18/learn-chialisp-with-clovyr-and-compete-in-our-upcoming-developer-challenge/
+  source: https://www.chia.net/blog/learn-chialisp-with-clovyr-and-compete-in-our-upcoming-developer-challenge/
 
 - title: CHia Improvement Proposals
   date: 2022-02-14
   description: CHIP is a standardized template and procedure is established for proposing new ideas to improve the Chia project (akin to EIP/BIP in Ethereum/Bitcoin).
-  source: https://www.chia.net/2022/02/14/chia-improvement-proposals/
+  source: https://www.chia.net/blog/chia-improvement-proposals/
 
 - title: Chia Blockchain 1.3 Released
   date: 2022-03-07
@@ -144,12 +144,12 @@
 - title: Public Data Dashboards
   date: 2022-04-06
   description: Chia Network publishes dashboards on blockchain and network metrics. Notably showing ~200,000 active full nodes.
-  source: https://www.chia.net/2022/04/06/announcing-chia-dashboards/
+  source: https://www.chia.net/blog/announcing-chia-dashboards/
 
 - title: NFT0 Beta Standard
   date: 2022-05-11
   description: Chia Network releases their vision for NFTs an initial NFT0 standard for testnet.
-  source: https://www.chia.net/2022/05/11/our-vision-for-chia-nfts/
+  source: https://www.chia.net/blog/our-vision-for-chia-nfts/
 
 - title: Joins Blockchain Association
   date: 2022-05-18
@@ -164,12 +164,12 @@
 - title: CAT2 Standard Release
   date: 2022-07-26
   description: CAT1 standard was EOL, replaced by CAT2 and assets were reissued to fix a security vulnerability uncovered by an audit.
-  source: https://www.chia.net/2022/07/25/upgrading-the-cat-standard/
+  source: https://www.chia.net/blog/upgrading-the-cat-standard/
 
 - title: Carbon Opportunity Fund
   date: 2022-08-18
   description: World Bank's IFC, Cultivo, Aspiration, and Chia Network launch the Carbon Opportunity Fund to raise private capital for source, tokenize, and sell high quality carbon credits on-chain. (Project Asteroids)
-  source: https://www.chia.net/2022/08/17/bringing-transparency-and-efficiency-to-carbon-markets/
+  source: https://www.chia.net/blog/bringing-transparency-and-efficiency-to-carbon-markets/
 
 - title: Chia Bug Bounty
   date: 2022-09-21
@@ -178,12 +178,12 @@
 - title: Chia DataLayer Release
   date: 2022-09-22
   description: The Chia DataLayer provides a shared data network with no central authority. Nodes in this network can subscribe to data from other nodes and receive updates whenever the data changes. This technology powers the World Bank Climate Warehouse.
-  source: https://www.chia.net/2022/09/21/enabling-data-for-web3-announcing-chia-datalayer/
+  source: https://www.chia.net/blog/enabling-data-for-web3-announcing-chia-datalayer/
 
 - title: Prefarm moved to custody wallets
   date: 2022-10-29
   description: All 21 million XCH in Chia's prefarm have been moved to four custom-built custody wallets. Chia's custody solution uses a combination of custom hardware and state-of-the-art ChiaLisp to create the most secure wallet in the industry.
-  source: https://www.chia.net/2022/10/29/a-new-home-for-the-prefarm/
+  source: https://www.chia.net/blog/a-new-home-for-the-prefarm/
 
 - title: CDI Official Formation
   date: 2022-11-03
@@ -238,7 +238,7 @@
 - title: Chia moves to Discord
   date: 2023-05-03
   description: Chia moves its official communication channel from Keybase to Discord.
-  source: https://www.chia.net/2023/05/03/were-moving-to-discord-part-2/
+  source: https://www.chia.net/blog/were-moving-to-discord-part-2/
 
 - title: Chia Open Digital Economy (CODE)
   date: 2023-05-04
@@ -256,17 +256,17 @@
 - title: Chia Blockchain 1.8.2 released
   date: 2023-06-28
   description: A version update that introduces transaction level claw backs, the Verifiable Credentials (VC) primitive, WalletConnect DApp notifications, and identical spend aggregation.
-  source: https://www.chia.net/2023/06/28/version-1-8-2-release/
+  source: https://www.chia.net/blog/version-1-8-2-release/
 
 - title: Chia Blockchain 2.0.0 released
   date: 2023-08-24
   description: A major release that introduces plot compression support and GPU plotting and farming, soft and hard fork protocol updates, and more.
-  source: https://www.chia.net/2023/08/24/version-2-0-0-release/
+  source: https://www.chia.net/blog/version-2-0-0-release/
 
 - title: Chia Blockchain 2.1.0 released
   date: 2023-10-05
   description: This release features Credential Restricted CATs, upgraded support for offers, WalletConnect, DataLayer features, and more.
-  source: https://www.chia.net/2023/10/05/version-2-1-0-release/
+  source: https://www.chia.net/blog/version-2-1-0-release/
 
 - title: Chia Network engages Market Maker
   date: 2023-10-15
@@ -276,7 +276,7 @@
 - title: ASIC Timelords come online
   date: 2023-10-26
   description: The ASIC Timelords developed with Supranational begin ramp up on mainnet. These low energy ASICs further increase the decentralization and security of the network.
-  source: https://www.chia.net/2023/10/26/were-going-to-ludicrous-speed/
+  source: https://www.chia.net/blog/were-going-to-ludicrous-speed/
 
 - title: World Bank announces Core Registry
   date: 2023-12-03
@@ -296,17 +296,17 @@
 - title: Chia Blockchain 2.2.1 released
   date: 2024-02-28
   description: This release includes an enhanced harvester protocol, increased block utilization, improved mempool logic, and a new type of singleton spend aggregation.
-  source: https://www.chia.net/2024/02/28/version-2-2-1-release/
+  source: https://www.chia.net/blog/version-2-2-1-release/
 
 - title: Chia Academy Launches
   date: 2023-03-01
   description: Chia Academy bridges the gap between curiosity and proficiency – serving both newcomers seeking a solid understanding of blockchain basics and grizzled veteran developers looking to delve into Chialisp intricacies.
-  source: https://www.chia.net/2024/03/01/dive-into-the-chia-academy/
+  source: https://www.chia.net/blog/dive-into-the-chia-academy/
 
 - title: First Block Reward Halving
   date: 2023-03-07
   description: The first block reward halving occured, reducing the block reward from 2 XCH to 1 XCH.
-  source: https://www.chia.net/2024/02/16/chia-blockchain-explainer-the-halvings/
+  source: https://www.chia.net/blog/chia-blockchain-explainer-the-halvings/
 
 # - title: Second Draft Registration Submitted
 #   date: 2024-03-29
@@ -316,22 +316,22 @@
 - title: Chia Blockchain 2.3.0 released
   date: 2024-05-01
   description: This release includes a new wallet sync protocol, DataLayer performance improvements, and introduces a soft fork for new Chialisp message conditions.
-  source: https://www.chia.net/2024/05/01/version-2-3-0-release/
+  source: https://www.chia.net/blog/version-2-3-0-release/
 
 - title: Chia Network Acquires DrPlotter
   date: 2024-05-13
   description: Chia Network acquires DrPlotter technology and hires the creator, DrNick, to bring his expertise to the team to work on the new proof of space format.
-  source: https://www.chia.net/2024/05/13/chia-network-acquires-drplotter-technology-and-expertise/
+  source: https://www.chia.net/blog/chia-network-acquires-drplotter-technology-and-expertise/
 
 - title: ASIC Timelords Distributed Globally
   date: 2024-06-10
   description: The ASIC Timelords have been distributed globally to the community, further decentralizing the network and increasing security.
-  source: https://www.chia.net/2024/06/10/global-expansion-of-chia-network-security-with-successful-asic-timelord-rollout/
+  source: https://www.chia.net/blog/global-expansion-of-chia-network-security-with-successful-asic-timelord-rollout/
 
 - title: Chia Blockchain 2.4.0 released
   date: 2024-06-20
   description: This release includes the new wallet sync protocol, observer wallets, higher block fill, and introduces a soft fork relating to the BLS signature implementation.
-  source: https://www.chia.net/2024/06/20/version-2-4-0-release/
+  source: https://www.chia.net/blog/version-2-4-0-release/
 
 - title: Third Draft Registration Submitted
   date: 2024-08-12
@@ -341,12 +341,12 @@
 - title: Carbon Credits Tokenized and Listed
   date: 2024-08-28
   description: Chia Network Inc in partnership with EcoRegistry listed high-quality tokenized Carbon Credits. These are listed as Offers at Dexie.
-  source: https://www.chia.net/2024/08/28/from-carbon-market-to-one-market/
+  source: https://www.chia.net/blog/from-carbon-market-to-one-market/
 
 - title: Chia Cloud Wallet Open Beta
   date: 2024-12-03
   description: Early open beta of the Chia Cloud Wallet is available on testnet. Chia Signer App is released as well to use alongside the Cloud Wallet as a secure hardware passkey.
-  source: https://www.chia.net/2024/12/03/test-the-chia-cloud-wallet/
+  source: https://www.chia.net/blog/test-the-chia-cloud-wallet/
 
 - title: Chia Blockchain 2.5.0 released
   date: 2024-12-12
@@ -361,7 +361,7 @@
 - title: Chia Blockchain 2.5.2 released
   date: 2025-02-20
   description: This release increases block fill to 100% and includes a required mempool fix to allow farmers to continue making blocks uninterrupted. 
-  source: https://www.chia.net/2025/02/20/version-2-5-2-release/
+  source: https://www.chia.net/blog/version-2-5-2-release/
 
 - title: Permuto MSFT/AAPL/AVGO Filings
   date: 2025-02-28
